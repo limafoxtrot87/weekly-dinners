@@ -8,68 +8,253 @@
     {
       "name": "Produce",
       "items": [
-        { "text": "3 English cucumbers", "tags": ["Mon", "Wed"] },
-        { "text": "1 head romaine", "tags": ["Mon"] },
-        { "text": "1 red onion", "tags": ["Mon", "Wed"] },
-        { "text": "2 yellow onions", "tags": ["Tue", "Thu"] },
-        { "text": "1 lb tomatoes", "tags": ["Mon"] },
-        { "text": "1 pint grape tomatoes", "tags": ["Wed"] },
-        { "text": "2 large red bell peppers", "tags": ["Thu"] },
-        { "text": "4 lemons", "tags": ["Mon", "Tue", "Wed"] },
-        { "text": "1 bunch fresh dill", "tags": ["Mon", "Wed"] },
-        { "text": "1 bunch flat-leaf parsley", "tags": ["Wed", "Thu"] },
-        { "text": "1 head garlic", "tags": ["Mon", "Tue", "Wed", "Thu"] }
+        {
+          "text": "3 English cucumbers",
+          "tags": [
+            "Mon",
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 head romaine",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "1 red onion",
+          "tags": [
+            "Mon",
+            "Wed"
+          ]
+        },
+        {
+          "text": "2 yellow onions",
+          "tags": [
+            "Tue",
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 lb tomatoes",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "1 pint grape tomatoes",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "2 large red bell peppers",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "4 lemons",
+          "tags": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 bunch fresh dill",
+          "tags": [
+            "Mon",
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 bunch flat-leaf parsley",
+          "tags": [
+            "Wed",
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 head garlic",
+          "tags": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ]
+        }
       ]
     },
     {
       "name": "Bakery",
       "items": [
-        { "text": "10 large pitas", "tags": ["Mon", "Thu"], "flag": "5 for Monday, 5 for Thursday" }
+        {
+          "text": "10 large pitas",
+          "tags": [
+            "Mon",
+            "Thu"
+          ],
+          "flag": "5 for Monday, 5 for Thursday"
+        }
       ]
     },
     {
       "name": "Meat & Seafood",
       "items": [
-        { "text": "4.5 lb boneless skinless chicken thighs", "tags": ["Mon", "Wed"], "flag": "Buy the full 4.5 lb — a third is reserved for Wednesday" },
-        { "text": "1.5 lb large shrimp, peeled & deveined, tails off", "tags": ["Tue"] }
+        {
+          "text": "4.5 lb boneless skinless chicken thighs",
+          "tags": [
+            "Mon",
+            "Wed"
+          ],
+          "flag": "Buy the full 4.5 lb — a third is reserved for Wednesday"
+        },
+        {
+          "text": "1.5 lb large shrimp, peeled & deveined, tails off",
+          "tags": [
+            "Tue"
+          ]
+        }
       ]
     },
     {
       "name": "Dairy & Eggs",
       "items": [
-        { "text": "32 oz plain Greek yogurt", "tags": ["Mon", "Wed"] },
-        { "text": "8 oz block feta", "tags": ["Wed", "Thu"] },
-        { "text": "10 large eggs", "tags": ["Thu"] },
-        { "text": "1 stick salted butter", "tags": ["Tue"] }
+        {
+          "text": "32 oz plain Greek yogurt",
+          "tags": [
+            "Mon",
+            "Wed"
+          ]
+        },
+        {
+          "text": "8 oz block feta",
+          "tags": [
+            "Wed",
+            "Thu"
+          ]
+        },
+        {
+          "text": "10 large eggs",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 stick salted butter",
+          "tags": [
+            "Tue"
+          ]
+        }
       ]
     },
     {
       "name": "Center Aisles",
       "items": [
-        { "text": "1 box dry orzo", "tags": ["Tue"] },
-        { "text": "1 bag long-grain rice", "tags": ["Wed"] },
-        { "text": "1 carton chicken broth, 32 oz", "tags": ["Tue"] },
-        { "text": "1 jar sun-dried tomatoes in oil", "tags": ["Tue"] },
-        { "text": "1 can fire-roasted crushed tomatoes, 28 oz", "tags": ["Thu"] },
-        { "text": "1 can crushed tomatoes, 15 oz", "tags": ["Thu"] },
-        { "text": "1 small can tomato paste", "tags": ["Thu"] },
-        { "text": "1 bottle white wine vinegar", "tags": ["Mon"] }
+        {
+          "text": "1 box dry orzo",
+          "tags": [
+            "Tue"
+          ]
+        },
+        {
+          "text": "1 bag long-grain rice",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 carton chicken broth, 32 oz",
+          "tags": [
+            "Tue"
+          ]
+        },
+        {
+          "text": "1 jar sun-dried tomatoes in oil",
+          "tags": [
+            "Tue"
+          ]
+        },
+        {
+          "text": "1 can fire-roasted crushed tomatoes, 28 oz",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 can crushed tomatoes, 15 oz",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 small can tomato paste",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 bottle white wine vinegar",
+          "tags": [
+            "Mon"
+          ]
+        }
       ]
     },
     {
       "name": "Frozen",
       "items": [
-        { "text": "1 bag frozen chopped spinach", "tags": ["Tue"] }
+        {
+          "text": "1 bag frozen chopped spinach",
+          "tags": [
+            "Tue"
+          ]
+        }
       ]
     }
   ],
   "pantry": [
-    { "text": "Olive oil, kosher salt, black pepper", "tags": ["all"] },
-    { "text": "Smoked paprika + regular paprika", "tags": ["Mon", "Tue", "Thu"] },
-    { "text": "Dried oregano", "tags": ["Mon", "Wed"] },
-    { "text": "Garlic powder + dried dill", "tags": ["Wed"] },
-    { "text": "Red pepper flakes", "tags": ["Tue", "Thu"] },
-    { "text": "Ground cumin", "tags": ["Thu"] }
+    {
+      "text": "Olive oil, kosher salt, black pepper",
+      "tags": [
+        "all"
+      ]
+    },
+    {
+      "text": "Smoked paprika + regular paprika",
+      "tags": [
+        "Mon",
+        "Tue",
+        "Thu"
+      ]
+    },
+    {
+      "text": "Dried oregano",
+      "tags": [
+        "Mon",
+        "Wed"
+      ]
+    },
+    {
+      "text": "Garlic powder + dried dill",
+      "tags": [
+        "Wed"
+      ]
+    },
+    {
+      "text": "Red pepper flakes",
+      "tags": [
+        "Tue",
+        "Thu"
+      ]
+    },
+    {
+      "text": "Ground cumin",
+      "tags": [
+        "Thu"
+      ]
+    }
   ],
   "dinners": [
     {
@@ -253,5 +438,6 @@
       "reuse": "Feta carried over from Wednesday, parsley shared with Wednesday, and the pitas are the second half of Monday's pack.",
       "source": "https://cookieandkate.com/foolproof-shakshuka-recipe/"
     }
-  ]
+  ],
+  "_rebuild_probe": "private-repo-test"
 }
