@@ -313,7 +313,9 @@
         "Serve platter-style and let everyone build their own."
       ],
       "reuse": "~1.5 lb grilled chicken goes to Wednesday's bowls, so no protein gets cooked that night. The 32 oz yogurt tub also carries Wednesday's sauce.",
-      "source": "https://smittenkitchen.com/2016/05/chicken-gyro-salad/"
+      "source": "https://smittenkitchen.com/2016/05/chicken-gyro-salad/",
+      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2016/05/chicken-gyro-salad1-scaled.jpg?fit=1200%2C800&quality=89&ssl=1",
+      "alt": "Sliced grilled chicken over a chopped Greek salad platter with tzatziki and pita"
     },
     {
       "day": "Tue",
@@ -351,7 +353,9 @@
         "Stir in the squeezed spinach, return the shrimp, and simmer 1-2 minutes just to warm through. Serve hot."
       ],
       "reuse": "Shares lemons, garlic and paprika with Monday. The second yellow onion is Thursday's.",
-      "source": "https://www.budgetbytes.com/garlic-shrimp-and-orzo-skillet/"
+      "source": "https://www.budgetbytes.com/garlic-shrimp-and-orzo-skillet/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2026/05/Garlic-Shrimp-and-Orzo-Skillet-Front-Plated.jpg",
+      "alt": "Shrimp and orzo in a skillet with lemon wheels and sun-dried tomatoes"
     },
     {
       "day": "Wed",
@@ -393,7 +397,9 @@
         "Drizzle generously with the yogurt sauce and finish with crumbled feta."
       ],
       "reuse": "This is the second half of Monday's 4.5 lb of thighs and Monday's yogurt tub. Feta is shared with Thursday.",
-      "source": "https://www.budgetbytes.com/mediterranean-turkey-bowls/ (original uses ground turkey; the recipe itself suggests the chicken swap)"
+      "source": "https://www.budgetbytes.com/mediterranean-turkey-bowls/ (original uses ground turkey; the recipe itself suggests the chicken swap)",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2023/04/Mediterranean-Turkey-Bowls-side.jpg",
+      "alt": "Rice bowl with chopped chicken, tomatoes, cucumber, red onion and yogurt sauce"
     },
     {
       "day": "Thu",
@@ -436,7 +442,9 @@
         "Scatter feta and more parsley over the top. Serve straight from the pan with warm pita for scooping."
       ],
       "reuse": "Feta carried over from Wednesday, parsley shared with Wednesday, and the pitas are the second half of Monday's pack.",
-      "source": "https://cookieandkate.com/foolproof-shakshuka-recipe/"
+      "source": "https://cookieandkate.com/foolproof-shakshuka-recipe/",
+      "image": "https://cookieandkate.com/images/2019/02/best-shakshuka-recipe-3.jpg",
+      "alt": "Eggs poached in spiced tomato sauce in a skillet, topped with feta and parsley"
     }
   ]
 }
