@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>This Week's Dinners</title>
+<meta name="description" content="The week's dinners and a grocery checklist, in store order.">
+<meta name="theme-color" content="#F3F2F5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16131A" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>%F0%9F%9B%92</text></svg>">
+<style>
+  :root {
+    color-scheme: light dark;
+    --ground:#F3F2F5; --surface:#FFF; --surface-sub:#FAFAFB;
+    --line:#E2E0E6; --line-strong:#CFCBD6;
+    --ink:#221B29; --ink-soft:#574E60; --ink-faint:#857C8E;
+    --accent:#5F7F12; --accent-ink:#FFF; --accent-wash:#EDF2DC;
+    --warn:#8A4B12; --warn-wash:#FBF0E4;
+    --sec-produce:#3F8A4B; --sec-bakery:#A5731A; --sec-meat:#A8455C;
+    --sec-dairy:#3C6FA8; --sec-center:#6B54A6; --sec-frozen:#2C7F8C; --sec-pantry:#7C7486;
+    --radius:14px; --radius-s:9px;
+    --shadow:0 1px 2px rgba(34,27,41,.06), 0 6px 18px rgba(34,27,41,.05);
+    --font-display: ui-rounded, "SF Pro Rounded", "Hiragino Maru Gothic ProN", system-ui, sans-serif;
+    --font-ui: -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:#16131A; --surface:#1E1A24; --surface-sub:#241F2B;
+      --line:#322C3A; --line-strong:#453D4F;
+      --ink:#F2EFF5; --ink-soft:#B7AEC1; --ink-faint:#8A8194;
+      --accent:#A9CE4A; --accent-ink:#1B2208; --accent-wash:#2A3117;
+      --warn:#E0A465; --warn-wash:#34261A;
+      --sec-produce:#6DC07A; --sec-bakery:#D6A544; --sec-meat:#DE7B90;
+      --sec-dairy:#74A6DD; --sec-center:#A78BE0; --sec-frozen:#5FB8C6; --sec-pantry:#A79FB1;
+      --shadow:0 1px 2px rgba(0,0,0,.4), 0 6px 20px rgba(0,0,0,.3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground:#16131A; --surface:#1E1A24; --surface-sub:#241F2B;
+    --line:#322C3A; --line-strong:#453D4F;
+    --ink:#F2EFF5; --ink-soft:#B7AEC1; --ink-faint:#8A8194;
+    --accent:#A9CE4A; --accent-ink:#1B2208; --accent-wash:#2A3117;
+    --warn:#E0A465; --warn-wash:#34261A;
+    --sec-produce:#6DC07A; --sec-bakery:#D6A544; --sec-meat:#DE7B90;
+    --sec-dairy:#74A6DD; --sec-center:#A78BE0; --sec-frozen:#5FB8C6; --sec-pantry:#A79FB1;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 6px 20px rgba(0,0,0,.3);
+  }
+
+  * { box-sizing:border-box; }
+  body {
+    margin:0; background:var(--ground); color:var(--ink);
+    font-family:var(--font-ui); font-size:16px; line-height:1.45;
+    -webkit-text-size-adjust:100%; padding-bottom:3rem;
+  }
+  .wrap { max-width:640px; margin:0 auto; padding:0 14px; }
+
+  .topbar {
+    position:sticky; top:0; z-index:20; background:var(--ground);
+    border-bottom:1px solid var(--line); padding-top:max(14px, env(safe-area-inset-top));
+  }
+  .topbar-inner { max-width:640px; margin:0 auto; padding:0 14px 12px; }
+  .eyebrow { font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-faint); font-weight:600; }
+  h1 { font-family:var(--font-display); font-size:25px; font-weight:700; letter-spacing:-.01em; margin:2px 0 10px; text-wrap:balance; }
+
+  .meter { display:flex; align-items:center; gap:10px; }
+  .track { flex:1; height:7px; background:var(--line); border-radius:99px; overflow:hidden; }
+  .fill { height:100%; width:0%; background:var(--accent); border-radius:99px; transition:width .28s ease; }
+  .tally { font-family:var(--font-mono); font-variant-numeric:tabular-nums; font-size:12.5px; color:var(--ink-soft); white-space:nowrap; }
+
+  .tabs { display:flex; gap:6px; margin-top:12px; }
+  .tab {
+    flex:1; appearance:none; border:1px solid var(--line); background:var(--surface);
+    color:var(--ink-soft); font-family:var(--font-ui); font-size:14px; font-weight:600;
+    padding:9px 8px; border-radius:var(--radius-s); cursor:pointer;
+  }
+  .tab[aria-selected="true"] { background:var(--ink); color:var(--ground); border-color:var(--ink); }
+  .tab:focus-visible, .row:focus-visible, .ghost:focus-visible, .rc-head:focus-visible {
+    outline:2px solid var(--accent); outline-offset:2px;
+  }
+
+  .panel { padding-top:16px; }
+  .panel[hidden] { display:none; }
+
+  .sec {
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:var(--shadow); margin-bottom:12px; overflow:hidden;
+  }
+  .sec-head {
+    display:flex; align-items:center; gap:9px; padding:11px 14px;
+    border-bottom:1px solid var(--line); background:var(--surface-sub);
+  }
+  .chip { width:9px; height:9px; border-radius:3px; background:var(--hue,var(--ink-faint)); flex:none; }
+  .sec-name { font-family:var(--font-display); font-size:13px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--hue,var(--ink)); }
+  .sec-count { margin-left:auto; font-family:var(--font-mono); font-variant-numeric:tabular-nums; font-size:12px; color:var(--ink-faint); }
+
+  .row {
+    display:flex; align-items:flex-start; gap:12px; width:100%; min-height:52px;
+    padding:11px 14px; background:none; border:0; border-top:1px solid var(--line);
+    text-align:left; font:inherit; color:inherit; cursor:pointer; -webkit-tap-highlight-color:transparent;
+  }
+  .row:first-of-type { border-top:0; }
+  .row:active { background:var(--surface-sub); }
+
+  .box {
+    flex:none; width:23px; height:23px; margin-top:1px; border:2px solid var(--line-strong);
+    border-radius:7px; display:grid; place-items:center; transition:background .12s ease, border-color .12s ease;
+  }
+  .box svg { width:14px; height:14px; opacity:0; }
+  .row[aria-checked="true"] .box { background:var(--accent); border-color:var(--accent); }
+  .row[aria-checked="true"] .box svg { opacity:1; }
+
+  .body { min-width:0; flex:1; }
+  .item { font-size:15.5px; line-height:1.35; text-wrap:pretty; }
+  .qty { font-family:var(--font-mono); font-variant-numeric:tabular-nums; font-weight:600; }
+  .row[aria-checked="true"] .item { text-decoration:line-through; text-decoration-thickness:1.5px; color:var(--ink-faint); }
+
+  .tags { display:flex; flex-wrap:wrap; gap:5px; margin-top:6px; }
+  .tag { font-size:11px; font-weight:700; letter-spacing:.03em; padding:2px 7px; border-radius:99px; background:var(--accent-wash); color:var(--accent); }
+  .row[aria-checked="true"] .tag { opacity:.45; }
+
+  .flag { display:block; margin-top:6px; font-size:12.5px; color:var(--warn); background:var(--warn-wash); padding:5px 9px; border-radius:var(--radius-s); }
+
+  .sec.pantry { border-style:dashed; box-shadow:none; background:transparent; }
+  .sec.pantry .sec-head { background:transparent; }
+
+  .rc { background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); box-shadow:var(--shadow); margin-bottom:12px; overflow:hidden; }
+  .rc-head { display:flex; align-items:center; gap:12px; width:100%; padding:14px; background:none; border:0; text-align:left; font:inherit; color:inherit; cursor:pointer; }
+  .day { flex:none; width:38px; font-family:var(--font-mono); font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--accent); }
+  .rc-name { font-family:var(--font-display); font-size:16.5px; font-weight:700; flex:1; text-wrap:balance; }
+  .rc-meta { display:block; font-family:var(--font-ui); font-size:12px; font-weight:500; color:var(--ink-faint); letter-spacing:0; text-transform:none; margin-top:2px; }
+  .caret { flex:none; color:var(--ink-faint); transition:transform .2s ease; }
+  .rc[data-open="1"] .caret { transform:rotate(90deg); }
+  .rc-body { padding:14px; border-top:1px solid var(--line); font-size:14.5px; color:var(--ink-soft); }
+  .rc-body[hidden] { display:none; }
+  .rc-body h3 {
+    font-family:var(--font-display); font-size:11.5px; letter-spacing:.09em; text-transform:uppercase;
+    color:var(--ink-faint); margin:16px 0 7px; font-weight:700;
+  }
+  .rc-body h3:first-child { margin-top:0; }
+  .rc-body h4 { font-size:13px; margin:11px 0 5px; color:var(--ink); font-weight:700; }
+  .rc-body ul { margin:0; padding-left:19px; }
+  .rc-body ul li { margin-bottom:4px; }
+  .rc-body ol { margin:0; padding-left:20px; }
+  .rc-body ol li { margin-bottom:9px; }
+  .rc-body a { color:var(--accent); overflow-wrap:anywhere; }
+  .blurb { color:var(--ink-soft); font-style:italic; margin:0 0 14px; }
+
+  .note {
+    background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--accent);
+    border-radius:var(--radius-s); padding:12px 14px; font-size:14px; color:var(--ink-soft); margin-bottom:12px;
+  }
+  .note strong { color:var(--ink); }
+  .msg { background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:24px 18px; text-align:center; box-shadow:var(--shadow); }
+  .msg h2 { font-family:var(--font-display); font-size:17px; margin:0 0 6px; }
+  .msg p { margin:0; color:var(--ink-soft); font-size:14.5px; }
+  .ghost {
+    margin-top:14px; appearance:none; border:1px solid var(--line-strong); background:var(--surface);
+    color:var(--ink); font:inherit; font-size:14px; font-weight:600; padding:9px 16px; border-radius:var(--radius-s); cursor:pointer;
+  }
+  .skel { height:52px; border-top:1px solid var(--line); background:var(--surface-sub); animation:pulse 1.3s infinite; }
+  @keyframes pulse { 0%,100% { opacity:.4 } 50% { opacity:.85 } }
+
+  .foot { margin-top:18px; text-align:center; font-size:12px; color:var(--ink-faint); font-family:var(--font-mono); }
+  .foot button { appearance:none; background:none; border:0; color:var(--ink-faint); font:inherit; text-decoration:underline; cursor:pointer; padding:8px; }
+
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; transition:none !important; } }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="eyebrow" id="eyebrow">Grocery run</div>
+    <h1 id="title">This Week's Dinners</h1>
+    <div class="meter">
+      <div class="track"><div class="fill" id="fill"></div></div>
+      <div class="tally" id="tally">—</div>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" id="tab-list" aria-selected="true" aria-controls="panel-list">Shopping list</button>
+      <button class="tab" role="tab" id="tab-menu" aria-selected="false" aria-controls="panel-menu">Recipes</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="panel" id="panel-list" role="tabpanel" aria-labelledby="tab-list">
+    <div class="sec">
+      <div class="sec-head"><span class="chip"></span><span class="sec-name">Loading</span></div>
+      <div class="skel"></div><div class="skel"></div><div class="skel"></div>
+    </div>
+  </div>
+  <div class="panel" id="panel-menu" role="tabpanel" aria-labelledby="tab-menu" hidden></div>
+  <div class="foot" id="foot"></div>
+</main>
+
+<script>
+(function () {
+  "use strict";
+
+  var panelList = document.getElementById("panel-list");
+  var panelMenu = document.getElementById("panel-menu");
+  var elFill = document.getElementById("fill");
+  var elTally = document.getElementById("tally");
+  var elTitle = document.getElementById("title");
+  var elEyebrow = document.getElementById("eyebrow");
+  var elFoot = document.getElementById("foot");
+
+  var state = { checked: {}, key: null, ids: [] };
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c];
+    });
+  }
+  function linkify(s) {
+    return esc(s).replace(/(https?:\/\/[^\s<]+)/g, function (u) {
+      return '<a href="' + u + '" target="_blank" rel="noopener">' + u + '</a>';
+    });
+  }
+  function slug(s) {
+    var h = 0;
+    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+    return "i" + (h >>> 0).toString(36);
+  }
+  function hueFor(name) {
+    var n = String(name).toLowerCase();
+    if (n.indexOf("produce") > -1) return "var(--sec-produce)";
+    if (n.indexOf("baker") > -1) return "var(--sec-bakery)";
+    if (n.indexOf("meat") > -1 || n.indexOf("seafood") > -1 || n.indexOf("deli") > -1) return "var(--sec-meat)";
+    if (n.indexOf("dairy") > -1 || n.indexOf("egg") > -1) return "var(--sec-dairy)";
+    if (n.indexOf("aisle") > -1 || n.indexOf("dry") > -1 || n.indexOf("pantry") > -1) return "var(--sec-center)";
+    if (n.indexOf("frozen") > -1) return "var(--sec-frozen)";
+    return "var(--sec-pantry)";
+  }
+  /* Lead quantity in tabular mono so amounts line up down the column. */
+  function fmtQty(text) {
+    var m = String(text).match(/^([\d./¼½¾-]+(?:\s*(?:lb|oz|cups?|tsp|tbsp|cans?|bunch|head|pint|large|small|box|bag|jar|carton|packs?)\b)?)\s+([\s\S]+)$/i);
+    return m ? '<span class="qty">' + esc(m[1]) + '</span> ' + esc(m[2]) : esc(text);
+  }
+
+  function load(key) {
+    try { var r = localStorage.getItem(key); return r ? JSON.parse(r) : {}; }
+    catch (e) { return {}; }
+  }
+  function save() {
+    if (!state.key) return;
+    try { localStorage.setItem(state.key, JSON.stringify(state.checked)); } catch (e) {}
+  }
+
+  var CHECK = '<svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 8.5l3.2 3.2L13 5" stroke="var(--accent-ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+  function itemRow(it, sectionName, countable) {
+    var id = slug(sectionName + "|" + it.text);
+    if (countable) state.ids.push(id);
+    var on = !!state.checked[id];
+    var h = '<button class="row" role="checkbox" aria-checked="' + (on ? "true" : "false") + '" data-id="' + id + '">';
+    h += '<span class="box">' + CHECK + '</span><span class="body">';
+    h += '<span class="item">' + fmtQty(it.text) + '</span>';
+    if (it.tags && it.tags.length) {
+      h += '<span class="tags">' + it.tags.map(function (t) { return '<span class="tag">' + esc(t) + '</span>'; }).join("") + '</span>';
+    }
+    if (it.flag) h += '<span class="flag">' + esc(it.flag) + '</span>';
+    return h + '</span></button>';
+  }
+
+  function renderList(data) {
+    var html = "";
+    state.ids = [];
+
+    (data.sections || []).forEach(function (sec) {
+      html += '<section class="sec" style="--hue:' + hueFor(sec.name) + '">';
+      html += '<div class="sec-head"><span class="chip"></span><span class="sec-name">' + esc(sec.name) +
+              '</span><span class="sec-count"></span></div>';
+      (sec.items || []).forEach(function (it) { html += itemRow(it, sec.name, true); });
+      html += '</section>';
+    });
+
+    if (data.pantry && data.pantry.length) {
+      html += '<section class="sec pantry" style="--hue:var(--sec-pantry)">';
+      html += '<div class="sec-head"><span class="chip"></span><span class="sec-name">Probably have</span>' +
+              '<span class="sec-count"></span></div>';
+      data.pantry.forEach(function (it) { html += itemRow(it, "pantry", false); });
+      html += '</section>';
+    }
+
+    if (data.reuse) html += '<div class="note"><strong>Reuse this week</strong><br>' + esc(data.reuse) + '</div>';
+
+    panelList.innerHTML = html || '<div class="msg"><h2>Nothing on the list</h2><p>No grocery list has been published for this week yet.</p></div>';
+
+    panelList.querySelectorAll(".row").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var id = btn.getAttribute("data-id");
+        state.checked[id] = !state.checked[id];
+        btn.setAttribute("aria-checked", state.checked[id] ? "true" : "false");
+        save(); tally();
+      });
+    });
+    tally();
+  }
+
+  function tally() {
+    var done = 0;
+    state.ids.forEach(function (id) { if (state.checked[id]) done++; });
+    var total = state.ids.length;
+    elTally.textContent = total ? done + "/" + total : "—";
+    elFill.style.width = total ? Math.round(done / total * 100) + "%" : "0%";
+    panelList.querySelectorAll(".sec").forEach(function (sec) {
+      var rows = sec.querySelectorAll(".row"), c = 0;
+      rows.forEach(function (r) { if (r.getAttribute("aria-checked") === "true") c++; });
+      var lab = sec.querySelector(".sec-count");
+      if (lab) lab.textContent = c + "/" + rows.length;
+    });
+  }
+
+  function renderMenu(dinners) {
+    if (!dinners || !dinners.length) {
+      panelMenu.innerHTML = '<div class="msg"><h2>No recipes yet</h2><p>This week’s dinners have not been published.</p></div>';
+      return;
+    }
+    panelMenu.innerHTML = dinners.map(function (d) {
+      var meta = [];
+      if (d.serves) meta.push("Serves " + d.serves);
+      if (d.active) meta.push(d.active + " active");
+      if (d.total) meta.push(d.total + " total");
+
+      var body = "";
+      if (d.blurb) body += '<p class="blurb">' + esc(d.blurb) + '</p>';
+      if (d.warn) body += '<div class="flag" style="margin-top:0">' + esc(d.warn) + '</div>';
+
+      if (d.ingredients && d.ingredients.length) {
+        body += "<h3>Ingredients</h3>";
+        d.ingredients.forEach(function (g) {
+          if (g.group) body += "<h4>" + esc(g.group) + "</h4>";
+          body += "<ul>" + (g.items || []).map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>";
+        });
+      }
+      if (d.directions && d.directions.length) {
+        body += "<h3>Directions</h3><ol>" +
+                d.directions.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ol>";
+      }
+      if (d.reuse) body += '<h3>Reuse</h3><p style="margin:0">' + esc(d.reuse) + "</p>";
+      if (d.source) body += '<h3>Source</h3><p style="margin:0">' + linkify(d.source) + "</p>";
+
+      return '<article class="rc" data-open="0">' +
+        '<button class="rc-head" aria-expanded="false">' +
+        '<span class="day">' + esc(d.day || "") + '</span>' +
+        '<span class="rc-name">' + esc(d.name) +
+        (meta.length ? '<span class="rc-meta">' + esc(meta.join(" · ")) + "</span>" : "") +
+        '</span>' +
+        '<svg class="caret" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M6 3.5L10.5 8 6 12.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
+        '</button><div class="rc-body" hidden>' + body + "</div></article>";
+    }).join("");
+
+    panelMenu.querySelectorAll(".rc-head").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var card = btn.parentNode, bd = card.querySelector(".rc-body");
+        var open = bd.hasAttribute("hidden");
+        if (open) bd.removeAttribute("hidden"); else bd.setAttribute("hidden", "");
+        btn.setAttribute("aria-expanded", open ? "true" : "false");
+        card.setAttribute("data-open", open ? "1" : "0");
+      });
+    });
+  }
+
+  function bindTabs() {
+    var tl = document.getElementById("tab-list"), tm = document.getElementById("tab-menu");
+    function pick(listOn) {
+      tl.setAttribute("aria-selected", listOn ? "true" : "false");
+      tm.setAttribute("aria-selected", listOn ? "false" : "true");
+      panelList.hidden = !listOn; panelMenu.hidden = listOn;
+    }
+    tl.addEventListener("click", function () { pick(true); });
+    tm.addEventListener("click", function () { pick(false); });
+  }
+
+  function footer(data) {
+    elFoot.innerHTML = "";
+    var stamp = document.createElement("div");
+    stamp.textContent = data && data.generated ? "Published " + data.generated : "";
+    var reset = document.createElement("button");
+    reset.textContent = "Clear checkmarks";
+    reset.addEventListener("click", function () {
+      state.checked = {}; save();
+      panelList.querySelectorAll(".row").forEach(function (r) { r.setAttribute("aria-checked", "false"); });
+      tally();
+    });
+    elFoot.appendChild(stamp);
+    elFoot.appendChild(reset);
+  }
+
+  function fail(head, msg) {
+    panelList.innerHTML = '<div class="msg"><h2></h2><p></p></div>';
+    panelList.querySelector("h2").textContent = head;
+    panelList.querySelector("p").textContent = msg;
+    var b = document.createElement("button");
+    b.className = "ghost"; b.textContent = "Reload";
+    b.addEventListener("click", function () { location.reload(); });
+    panelList.querySelector(".msg").appendChild(b);
+  }
+
+  bindTabs();
+
+  fetch("data.json?v=" + Date.now(), { cache: "no-store" })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      if (data.week) elTitle.textContent = "Week of " + data.week;
+      var bits = [];
+      if (data.store) bits.push(data.store + " run");
+      if (data.servings) bits.push("cooking for " + data.servings);
+      elEyebrow.textContent = bits.join(" · ") || "Grocery run";
+
+      state.key = "dinners:" + (data.week || "current");
+      state.checked = load(state.key);
+
+      renderList(data);
+      renderMenu(data.dinners);
+      footer(data);
+    })
+    .catch(function (e) {
+      fail("Couldn't load this week's plan",
+           "The weekly data file didn't load (" + e.message + "). It may still be publishing — try again in a minute.");
+    });
+})();
+</script>
+</body>
+</html>

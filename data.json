@@ -1,0 +1,257 @@
+{
+  "week": "Mon 8/10",
+  "generated": "Aug 9, 2026",
+  "servings": 5,
+  "store": "Publix",
+  "reuse": "Monday's 4.5 lb of grilled thighs covers Wednesday's bowls — reserve 1.5 lb before dinner hits the table. One 32 oz yogurt tub does Monday's tzatziki and Wednesday's sauce. One pack of pita splits Monday and Thursday. Feta, parsley, cucumbers, lemons, red onion and dill each span two nights. No corn, no beans anywhere this week.",
+  "sections": [
+    {
+      "name": "Produce",
+      "items": [
+        { "text": "3 English cucumbers", "tags": ["Mon", "Wed"] },
+        { "text": "1 head romaine", "tags": ["Mon"] },
+        { "text": "1 red onion", "tags": ["Mon", "Wed"] },
+        { "text": "2 yellow onions", "tags": ["Tue", "Thu"] },
+        { "text": "1 lb tomatoes", "tags": ["Mon"] },
+        { "text": "1 pint grape tomatoes", "tags": ["Wed"] },
+        { "text": "2 large red bell peppers", "tags": ["Thu"] },
+        { "text": "4 lemons", "tags": ["Mon", "Tue", "Wed"] },
+        { "text": "1 bunch fresh dill", "tags": ["Mon", "Wed"] },
+        { "text": "1 bunch flat-leaf parsley", "tags": ["Wed", "Thu"] },
+        { "text": "1 head garlic", "tags": ["Mon", "Tue", "Wed", "Thu"] }
+      ]
+    },
+    {
+      "name": "Bakery",
+      "items": [
+        { "text": "10 large pitas", "tags": ["Mon", "Thu"], "flag": "5 for Monday, 5 for Thursday" }
+      ]
+    },
+    {
+      "name": "Meat & Seafood",
+      "items": [
+        { "text": "4.5 lb boneless skinless chicken thighs", "tags": ["Mon", "Wed"], "flag": "Buy the full 4.5 lb — a third is reserved for Wednesday" },
+        { "text": "1.5 lb large shrimp, peeled & deveined, tails off", "tags": ["Tue"] }
+      ]
+    },
+    {
+      "name": "Dairy & Eggs",
+      "items": [
+        { "text": "32 oz plain Greek yogurt", "tags": ["Mon", "Wed"] },
+        { "text": "8 oz block feta", "tags": ["Wed", "Thu"] },
+        { "text": "10 large eggs", "tags": ["Thu"] },
+        { "text": "1 stick salted butter", "tags": ["Tue"] }
+      ]
+    },
+    {
+      "name": "Center Aisles",
+      "items": [
+        { "text": "1 box dry orzo", "tags": ["Tue"] },
+        { "text": "1 bag long-grain rice", "tags": ["Wed"] },
+        { "text": "1 carton chicken broth, 32 oz", "tags": ["Tue"] },
+        { "text": "1 jar sun-dried tomatoes in oil", "tags": ["Tue"] },
+        { "text": "1 can fire-roasted crushed tomatoes, 28 oz", "tags": ["Thu"] },
+        { "text": "1 can crushed tomatoes, 15 oz", "tags": ["Thu"] },
+        { "text": "1 small can tomato paste", "tags": ["Thu"] },
+        { "text": "1 bottle white wine vinegar", "tags": ["Mon"] }
+      ]
+    },
+    {
+      "name": "Frozen",
+      "items": [
+        { "text": "1 bag frozen chopped spinach", "tags": ["Tue"] }
+      ]
+    }
+  ],
+  "pantry": [
+    { "text": "Olive oil, kosher salt, black pepper", "tags": ["all"] },
+    { "text": "Smoked paprika + regular paprika", "tags": ["Mon", "Tue", "Thu"] },
+    { "text": "Dried oregano", "tags": ["Mon", "Wed"] },
+    { "text": "Garlic powder + dried dill", "tags": ["Wed"] },
+    { "text": "Red pepper flakes", "tags": ["Tue", "Thu"] },
+    { "text": "Ground cumin", "tags": ["Thu"] }
+  ],
+  "dinners": [
+    {
+      "day": "Mon",
+      "name": "Grilled Chicken Gyro Salad",
+      "blurb": "Marinated grilled chicken thighs over a big chopped Greek salad with real tzatziki. Grill-based, so the kitchen stays cool.",
+      "serves": 5,
+      "active": "30 min",
+      "total": "50 min",
+      "warn": "Buy and grill the full 4.5 lb of thighs — a third gets reserved for Wednesday's bowls. Do not scale this down.",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "4.5 lb boneless skinless chicken thighs",
+            "1 Tbsp olive oil",
+            "Zest + juice of 1 lemon",
+            "3 cloves garlic, minced",
+            "1.5 tsp kosher salt",
+            "3/4 tsp paprika",
+            "1/4 tsp hot smoked paprika",
+            "1.5 tsp dried oregano",
+            "Black pepper"
+          ]
+        },
+        {
+          "group": "Tzatziki (double batch)",
+          "items": [
+            "2 cups plain Greek yogurt",
+            "1 English cucumber, unpeeled",
+            "2 Tbsp lemon juice",
+            "1 Tbsp white wine vinegar",
+            "1 Tbsp minced fresh dill",
+            "2 cloves garlic, minced",
+            "1.5 tsp kosher salt, 1/2 tsp black pepper"
+          ]
+        },
+        {
+          "group": "Salad",
+          "items": [
+            "1 head romaine, chopped",
+            "1 red onion, thinly sliced",
+            "1 lb tomatoes, chopped",
+            "1 English cucumber, chopped",
+            "5 large pitas"
+          ]
+        }
+      ],
+      "directions": [
+        "Combine all marinade ingredients in a large freezer bag. Add all 4.5 lb of chicken and coat evenly. Marinate 20 minutes minimum, up to 24 hours — do it in the morning if you can.",
+        "Tzatziki: quarter one cucumber lengthwise, cut away the seedy core, then grate onto a clean dish towel and wring it out hard. Watery cucumber is what ruins tzatziki. Mix with yogurt, lemon juice, vinegar, dill, garlic, salt and pepper. Chill.",
+        "Arrange romaine, red onion, tomatoes and chopped cucumber on a big platter. Toss the sliced onion with a splash of lemon juice first to mellow its bite.",
+        "Grill on high — about 5 minutes on the first side until dark lines appear, then 3 minutes more. Work in batches; crowding steams the chicken instead of charring it.",
+        "Rest the chicken while you toast the pitas on the grill.",
+        "Slice chicken thinly. Reserve about 1.5 lb in a sealed container for Wednesday before it hits the table — it will disappear otherwise.",
+        "Serve platter-style and let everyone build their own."
+      ],
+      "reuse": "~1.5 lb grilled chicken goes to Wednesday's bowls, so no protein gets cooked that night. The 32 oz yogurt tub also carries Wednesday's sauce.",
+      "source": "https://smittenkitchen.com/2016/05/chicken-gyro-salad/"
+    },
+    {
+      "day": "Tue",
+      "name": "Garlic Shrimp & Orzo Skillet",
+      "blurb": "One pan, 35 minutes, no sides needed. The orzo cooks risotto-style right in the broth.",
+      "serves": 5,
+      "active": "30 min",
+      "total": "35 min",
+      "ingredients": [
+        {
+          "group": "",
+          "items": [
+            "1.5 lb large shrimp, peeled, deveined, tails off",
+            "1.5 Tbsp salted butter",
+            "1 yellow onion, finely diced",
+            "1.5 cups dry orzo",
+            "6 cloves garlic, minced",
+            "1/3 cup sun-dried tomatoes, chopped (reserve the oil)",
+            "3 cups chicken broth",
+            "1 lemon, sliced into wheels and seeded",
+            "1/2 cup frozen spinach, rinsed and squeezed dry",
+            "1.5 Tbsp sun-dried tomato oil or olive oil",
+            "1/4 tsp chili flakes, 3/4 tsp salt, 1/4 tsp black pepper, 1/4 tsp paprika"
+          ]
+        }
+      ],
+      "directions": [
+        "Prep everything first — slice the lemon, mince the garlic, dice the onion, chop the sun-dried tomatoes. This moves fast once the pan is hot.",
+        "Pat the shrimp thoroughly dry, then toss with chili flakes, salt, pepper and paprika.",
+        "Melt butter in a large skillet over medium-high. Cook the onion 4-6 minutes until softened.",
+        "Add the oil, then the shrimp in a single even layer. Cook 2-3 minutes per side, just until pink. Pull them out to a clean plate immediately — they finish cooking later, and rubbery shrimp is the only way to lose here.",
+        "Add orzo, garlic and sun-dried tomatoes to the empty skillet. Toast 2-3 minutes, stirring often, until the orzo smells nutty.",
+        "Pour in the broth, scraping up the browned bits. Add the lemon wheels and drop to medium-low.",
+        "Simmer 8-10 minutes, stirring occasionally, until the orzo is tender and saucy.",
+        "Stir in the squeezed spinach, return the shrimp, and simmer 1-2 minutes just to warm through. Serve hot."
+      ],
+      "reuse": "Shares lemons, garlic and paprika with Monday. The second yellow onion is Thursday's.",
+      "source": "https://www.budgetbytes.com/garlic-shrimp-and-orzo-skillet/"
+    },
+    {
+      "day": "Wed",
+      "name": "Mediterranean Chicken Bowls",
+      "blurb": "The payoff night. Monday's grilled chicken comes back in a completely different format — no protein to cook, so this is basically rice plus assembly.",
+      "serves": 5,
+      "active": "15 min",
+      "total": "25 min",
+      "ingredients": [
+        {
+          "group": "Bowls",
+          "items": [
+            "~1.5 lb grilled chicken from Monday, chopped",
+            "1.5 cups uncooked rice",
+            "1 pint grape tomatoes, halved",
+            "1 English cucumber, in quarter-rounds",
+            "1/4 red onion, thinly sliced (left from Monday)",
+            "1/4 cup flat-leaf parsley, chopped",
+            "Crumbled feta"
+          ]
+        },
+        {
+          "group": "Garlic dill yogurt sauce",
+          "items": [
+            "1 cup plain Greek yogurt (from Monday's tub)",
+            "1 Tbsp lemon juice",
+            "1/4 tsp garlic powder",
+            "1/4 tsp dried dill",
+            "1/4 tsp salt"
+          ]
+        }
+      ],
+      "directions": [
+        "Start the rice first — everything else takes less time than it does.",
+        "Stir together the yogurt, lemon juice, garlic powder, dried dill and salt. Refrigerate until you serve. If Monday's tzatziki is still good, use that instead and skip this entirely.",
+        "Halve the grape tomatoes, cut the cucumber into quarter-rounds, thinly slice the red onion, chop the parsley.",
+        "Chop Monday's chicken. Warm it gently in a dry skillet for 2-3 minutes — don't microwave it hard or it goes tough. It's also genuinely good cold in August.",
+        "Build bowls: rice, then chicken, then tomatoes, cucumber, onion, parsley.",
+        "Drizzle generously with the yogurt sauce and finish with crumbled feta."
+      ],
+      "reuse": "This is the second half of Monday's 4.5 lb of thighs and Monday's yogurt tub. Feta is shared with Thursday.",
+      "source": "https://www.budgetbytes.com/mediterranean-turkey-bowls/ (original uses ground turkey; the recipe itself suggests the chicken swap)"
+    },
+    {
+      "day": "Thu",
+      "name": "Shakshuka with Feta",
+      "blurb": "Eggs poached in a spiced tomato-pepper sauce, scooped up with warm pita. Vegetarian night that eats like a real dinner.",
+      "serves": 5,
+      "active": "25 min",
+      "total": "40 min",
+      "warn": "Use two large oven-safe skillets, or one big braiser. Ten eggs will not fit in a single 12-inch pan without crowding.",
+      "ingredients": [
+        {
+          "group": "",
+          "items": [
+            "3 Tbsp olive oil",
+            "1 large yellow onion, chopped",
+            "2 large red bell peppers, chopped",
+            "1/2 tsp fine sea salt",
+            "5 cloves garlic, minced",
+            "3 Tbsp tomato paste",
+            "1.5 tsp ground cumin",
+            "3/4 tsp smoked paprika",
+            "1/2 tsp red pepper flakes (leave out and pass at the table for the kids)",
+            "1 can (28 oz) fire-roasted crushed tomatoes",
+            "1 can (15 oz) crushed tomatoes",
+            "3 Tbsp chopped flat-leaf parsley, plus more to finish",
+            "10 large eggs",
+            "3/4 cup crumbled feta",
+            "5 large pitas, warmed",
+            "Black pepper"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat oven to 375°F.",
+        "Warm the olive oil in your skillet(s) over medium. Add onion, bell pepper and salt. Cook 4-6 minutes until tender and translucent.",
+        "Add garlic, tomato paste, cumin, smoked paprika and red pepper flakes. Stir constantly 1-2 minutes until fragrant and the paste darkens a shade — this step is where the depth comes from, don't rush it.",
+        "Pour in both cans of tomatoes with their juices and the parsley. Simmer gently 5 minutes. Taste and adjust salt and pepper now — you can't season it properly once the eggs are in.",
+        "Turn off the heat. Make ten shallow wells in the sauce and crack one egg into each. Spoon a little sauce over the whites, leaving the yolks exposed. Season the tops.",
+        "Transfer to the oven and bake 8-12 minutes. Pull them when the whites are opaque and the yolks have risen slightly but still jiggle when you shake the pan — they carry over out of the oven, and overcooked yolks are the only way to miss here.",
+        "Scatter feta and more parsley over the top. Serve straight from the pan with warm pita for scooping."
+      ],
+      "reuse": "Feta carried over from Wednesday, parsley shared with Wednesday, and the pitas are the second half of Monday's pack.",
+      "source": "https://cookieandkate.com/foolproof-shakshuka-recipe/"
+    }
+  ]
+}
