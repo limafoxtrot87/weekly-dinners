@@ -1,282 +1,523 @@
 {
-  "week": "Mon 8/17",
-  "generated": "Aug 16, 2026",
-  "servings": 5,
+  "week": "Mon 8/24",
+  "generated": "Aug 23, 2026",
+  "servings": 4,
   "store": "Publix",
-  "reuse": "Monday does the heavy lifting for two nights. Buy the full 6 lb pork shoulder — about 2.5 lb of the pulled meat gets pocketed before dinner hits the table and becomes Wednesday's bánh mì bowls, crisped in a dry skillet so it eats like a new dish instead of leftovers. While the pork rests Monday, cook 4 cups of dry jasmine rice: Tuesday's side and Wednesday's bowls both come out of that one pot, so Wednesday cooks no protein and no grain at all. One head of cabbage and one bag of carrots split between Monday's slaw and Wednesday's quick pickle. One zucchini buy covers Tuesday's skillet and Thursday's roasting pan, and the lemons, butter and mayonnaise each span two nights. No corn, no beans anywhere this week.",
+  "reuse": "Monday does the work for two nights. Buy the full 5 lb of chicken thighs — five or six of them come off the sheet pan and get shredded before dinner is served, and that is Wednesday's soup. Tuesday cooks a double batch of jasmine rice, half tonight and half in the fridge, which becomes Wednesday's bowl base. So Wednesday cooks no protein and no grain at all. One knob of ginger covers Monday, Tuesday and Wednesday; one head of cabbage is used up in a single night rather than half-wasted; the 2 lb bag of carrots splits between Tuesday's stir fry and Wednesday's soup; the cilantro splits Monday and Wednesday; the parsley bunch is fully used up Thursday between the orzo and the fish. No corn, no beans anywhere this week.",
   "sections": [
     {
       "name": "Produce",
       "items": [
-        { "text": "1 head green cabbage, ~2 lb", "tags": ["Mon", "Wed"], "flag": "Three quarters goes in Monday's slaw, the last quarter into Wednesday's pickle." },
-        { "text": "5 carrots (a 1 lb bag)", "tags": ["Mon", "Wed"] },
-        { "text": "7 medium zucchini, ~3.5 lb", "tags": ["Tue", "Thu"] },
-        { "text": "3 yellow squash", "tags": ["Thu"] },
-        { "text": "2 pints cherry tomatoes", "tags": ["Thu"] },
-        { "text": "1 English cucumber", "tags": ["Wed"] },
-        { "text": "2 jalapeños", "tags": ["Wed"] },
-        { "text": "1 small yellow onion", "tags": ["Wed"] },
-        { "text": "1 bunch cilantro", "tags": ["Wed"] },
-        { "text": "1 package fresh basil", "tags": ["Thu"] },
-        { "text": "3 lemons", "tags": ["Tue", "Thu"] },
-        { "text": "1 head garlic", "tags": ["Thu"] }
-      ]
-    },
-    {
-      "name": "Bakery",
-      "items": [
-        { "text": "1 pack (8) sandwich rolls or brioche buns", "tags": ["Mon"] }
+        {
+          "text": "1 large knob fresh ginger, ~5 in",
+          "tags": [
+            "Mon",
+            "Tue",
+            "Wed"
+          ],
+          "flag": "Buy one big piece — Monday minces 3 Tbsp, Tuesday grates 2 Tbsp, Wednesday grates 1 Tbsp."
+        },
+        {
+          "text": "2 heads garlic",
+          "tags": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+          ]
+        },
+        {
+          "text": "2 1/4 lb Yukon Gold potatoes",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "3 lb cauliflower (1 large or 2 small heads)",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "1 English cucumber",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "1 red onion",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "2 jalapeños",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "1 head green cabbage, ~2 lb",
+          "tags": [
+            "Tue"
+          ],
+          "flag": "The whole head goes in Tuesday — nothing left to rot."
+        },
+        {
+          "text": "2 lb carrots",
+          "tags": [
+            "Tue",
+            "Wed"
+          ]
+        },
+        {
+          "text": "2 bunches green onions",
+          "tags": [
+            "Tue",
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 bunch celery",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 yellow onion",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 bunch cilantro",
+          "tags": [
+            "Mon",
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 bunch flat-leaf parsley",
+          "tags": [
+            "Thu"
+          ],
+          "flag": "Used up in one night — most in the orzo, the rest over the fish."
+        },
+        {
+          "text": "5 lemons",
+          "tags": [
+            "Mon",
+            "Thu"
+          ]
+        },
+        {
+          "text": "2 limes",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "2 lb broccoli crowns",
+          "tags": [
+            "Thu"
+          ]
+        }
       ]
     },
     {
       "name": "Meat & Seafood",
       "items": [
-        { "text": "6 lb boneless pork shoulder (Boston butt)", "tags": ["Mon", "Wed"], "flag": "Buy the big one. Roughly half of it is Wednesday's dinner — do not scale this down." },
-        { "text": "2 1/4 lb salmon fillet, skin removed", "tags": ["Tue"] },
-        { "text": "1 lb Italian chicken sausage (4 links)", "tags": ["Thu"] }
+        {
+          "text": "5 lb bone-in, skin-on chicken thighs (about 14)",
+          "tags": [
+            "Mon",
+            "Wed"
+          ],
+          "flag": "Buy the FULL 5 lb. About a third of it comes off Monday's pan and becomes Wednesday's soup."
+        },
+        {
+          "text": "1 3/4 lb lean ground beef, 90/10",
+          "tags": [
+            "Tue"
+          ]
+        },
+        {
+          "text": "2 lb white fish fillets — cod, grouper or pollock",
+          "tags": [
+            "Thu"
+          ],
+          "flag": "Eight 4 oz fillets. Frozen-and-thawed is fine."
+        }
       ]
     },
     {
       "name": "Dairy & Eggs",
       "items": [
-        { "text": "1 jar mayonnaise, 30 oz", "tags": ["Mon", "Wed"] },
-        { "text": "4 oz goat cheese log", "tags": ["Thu"] },
-        { "text": "1 stick unsalted butter", "tags": ["Tue", "Thu"] },
-        { "text": "Small wedge parmesan (optional, for the table)", "tags": ["Thu"] }
+        {
+          "text": "1 (32 oz) tub plain whole-milk yogurt",
+          "tags": [
+            "Mon"
+          ],
+          "flag": "2 1/2 cups get used — marinade plus raita. The rest is breakfast."
+        },
+        {
+          "text": "1 stick butter",
+          "tags": [
+            "Thu"
+          ]
+        }
       ]
     },
     {
       "name": "Center Aisles",
       "items": [
-        { "text": "1 bag jasmine rice, 2 lb", "tags": ["Mon", "Tue", "Wed"], "flag": "One 4-cup pot cooked Monday feeds Tuesday and Wednesday." },
-        { "text": "1 lb whole grain rotini, fusilli or penne", "tags": ["Thu"] },
-        { "text": "1 bottle cider vinegar, 16 oz", "tags": ["Mon"] },
-        { "text": "1 bottle rice vinegar", "tags": ["Wed"] },
-        { "text": "1 bottle sriracha", "tags": ["Wed"] }
+        {
+          "text": "1 (2 lb) bag jasmine rice",
+          "tags": [
+            "Tue",
+            "Wed"
+          ],
+          "flag": "Tuesday cooks 3 cups dry — double — and half goes to Wednesday."
+        },
+        {
+          "text": "1 lb box orzo",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "2 (14.5 oz) cans fire-roasted diced tomatoes",
+          "tags": [
+            "Thu"
+          ]
+        },
+        {
+          "text": "1 (13.5 oz) can full-fat coconut milk",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "1 (32 oz) carton chicken broth",
+          "tags": [
+            "Wed"
+          ]
+        },
+        {
+          "text": "Garam masala",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "Ground turmeric",
+          "tags": [
+            "Mon",
+            "Wed"
+          ]
+        },
+        {
+          "text": "Cumin seeds — whole, not ground",
+          "tags": [
+            "Mon"
+          ]
+        },
+        {
+          "text": "Sesame seeds",
+          "tags": [
+            "Tue"
+          ]
+        }
       ]
     }
   ],
   "pantry": [
-    { "text": "Olive oil, neutral cooking oil", "tags": ["all"] },
-    { "text": "Kosher salt, black pepper", "tags": ["all"] },
-    { "text": "Brown sugar", "tags": ["Mon"] },
-    { "text": "White sugar", "tags": ["Wed"] },
-    { "text": "Ketchup", "tags": ["Mon"] },
-    { "text": "Smoked paprika", "tags": ["Mon", "Tue"] },
-    { "text": "Chipotle powder or cayenne", "tags": ["Mon", "Tue"] },
-    { "text": "Dried thyme, dried oregano, ground cumin, garlic powder, onion powder", "tags": ["Tue"] },
-    { "text": "Red pepper flakes", "tags": ["Thu"] },
-    { "text": "Hot sauce (for the table)", "tags": ["Mon"] },
-    { "text": "Parchment paper and foil", "tags": ["Mon", "Thu"] }
+    {
+      "text": "Olive oil, neutral cooking oil",
+      "tags": [
+        "all"
+      ]
+    },
+    {
+      "text": "Toasted sesame oil — 3 Tbsp needed",
+      "tags": [
+        "Tue"
+      ]
+    },
+    {
+      "text": "Soy sauce",
+      "tags": [
+        "Tue"
+      ]
+    },
+    {
+      "text": "Sriracha (1 Tbsp in the sauce, bottle on the table)",
+      "tags": [
+        "Tue"
+      ]
+    },
+    {
+      "text": "Kosher salt, black pepper",
+      "tags": [
+        "all"
+      ]
+    },
+    {
+      "text": "Crushed red pepper",
+      "tags": [
+        "Wed",
+        "Thu"
+      ]
+    },
+    {
+      "text": "Brown sugar, granulated sugar",
+      "tags": [
+        "Mon",
+        "Tue"
+      ]
+    },
+    {
+      "text": "Paprika, ground cumin, chili powder or cayenne",
+      "tags": [
+        "Mon",
+        "Wed"
+      ]
+    },
+    {
+      "text": "Dried oregano",
+      "tags": [
+        "Thu"
+      ]
+    },
+    {
+      "text": "Foil for the sheet pans",
+      "tags": [
+        "Mon",
+        "Thu"
+      ]
+    }
   ],
   "dinners": [
     {
       "day": "Mon",
-      "name": "Crispy Oven Pulled Pork with Cabbage Slaw",
-      "blurb": "Slow-roasted pork shoulder with a sweet-smoky bark, pulled into a tangy cider mop and piled on rolls with crunchy cabbage-carrot slaw.",
-      "serves": 5,
+      "name": "Sheet Pan Chicken Tikka (double batch)",
+      "blurb": "Yogurt-and-garam-masala marinated chicken thighs roasted hard on two sheet pans with cauliflower and Yukon potatoes, finished with cucumber raita, lemon-pickled red onion and cilantro.",
+      "serves": 4,
       "active": "25 min",
-      "total": "overnight rub + ~5 hr oven",
-      "warn": "Two-part timing. The rub goes on SUNDAY NIGHT, and the roast needs ~5 hours at 300°F — so it has to be in the oven by 12:30 PM for a 6 PM dinner. If nobody is home midday, roast it Sunday afternoon instead and rewarm 10 min at 450°F Monday.",
+      "total": "15 min–24 hr marinate (passive) + 40 min roast",
+      "warn": "Cook the FULL 5 lb of chicken. Five or six thighs come off the pan and get shredded BEFORE dinner is served — that is Wednesday's soup, and it is why Wednesday cooks no protein at all. Marinating Sunday night is ideal; 15 minutes also works.",
       "ingredients": [
         {
-          "group": "Pork + rub",
+          "group": "Chicken + marinade",
           "items": [
-            "6 lb boneless pork shoulder (Boston butt) — 6 to 8 lb is fine, bigger is better",
-            "1/4 cup + 1 Tbsp Diamond Crystal kosher salt (Morton's: use 3 Tbsp)",
-            "7 Tbsp brown sugar",
-            "2 1/2 Tbsp smoked paprika",
-            "1 1/2 tsp chipotle powder or cayenne"
+            "5 lb bone-in, skin-on chicken thighs (about 14)",
+            "1 large knob fresh ginger, ~4 in, peeled and minced (about 3 Tbsp)",
+            "10 cloves garlic, minced",
+            "2 jalapeños, seeded and minced",
+            "1 1/4 cups plain whole-milk yogurt",
+            "2 1/2 tsp kosher salt",
+            "1/2 tsp chili powder or cayenne (kept mild on purpose)",
+            "1 1/4 tsp ground turmeric",
+            "1 1/4 tsp ground cumin",
+            "2 tsp granulated sugar",
+            "2 1/2 tsp paprika",
+            "2 1/2 tsp garam masala"
           ]
         },
         {
-          "group": "Mop sauce",
+          "group": "Vegetables",
           "items": [
-            "1 1/2 cups cider vinegar",
-            "1/3 cup ketchup",
-            "3 Tbsp brown sugar",
-            "1 1/2 tsp ground black pepper",
-            "1/2 cup water"
+            "5 Tbsp olive oil",
+            "2 1/4 lb Yukon Gold potatoes, cut in 3/4-in chunks",
+            "3 lb cauliflower (1 large or 2 small heads), 3/4-in florets",
+            "1 tsp kosher salt",
+            "1 tsp cumin seeds"
           ]
         },
         {
-          "group": "Slaw",
+          "group": "Cucumber raita + finish",
           "items": [
-            "1 head green cabbage (~2 lb) — save a quarter for Wednesday",
-            "2 carrots, shredded",
-            "1/3 cup mayonnaise, plus more to taste",
-            "Salt and pepper"
-          ]
-        },
-        {
-          "group": "To serve",
-          "items": [
-            "8 sandwich rolls",
-            "Hot sauce on the side (keeps the roast itself mild for the kids)"
+            "1 1/4 cups plain whole-milk yogurt",
+            "1 English cucumber, grated and squeezed dry",
+            "2 Tbsp chopped cilantro, 1/4 tsp ground cumin, pinch salt, squeeze of lemon",
+            "1/2 red onion, sliced into thin rings",
+            "3 lemons (2 for wedges, 1 for the onion and raita)",
+            "1/3 cup chopped cilantro"
           ]
         }
       ],
       "directions": [
-        "SUNDAY NIGHT: mix the salt, 7 Tbsp brown sugar, smoked paprika and chipotle. Score the fat cap in a 1/8-inch-deep diamond pattern. Pat the rub thickly onto every side of the pork. Cover and refrigerate at least 6 hours, ideally overnight.",
-        "Make the mop: whisk the cider vinegar, ketchup, 3 Tbsp brown sugar, black pepper and 1/2 cup water until the sugar dissolves. Makes about 2 1/2 cups. Keeps in the fridge.",
-        "MONDAY, by 12:30 PM: heat oven to 300°F. Unwrap the pork, pour off any accumulated juices, set it in a roasting pan and put it in.",
-        "After the first hour, add 1/4 cup of mop to the pan juices and baste. Baste again every hour with whatever has collected in the pan. Roast about 5 hours total (a 6 lb roast may want 5 1/2), until the meat collapses and yields easily to a fork.",
-        "Let it rest — it can sit at room temperature up to 1 1/2 hours. Shred with two forks, discarding the big chunks of fat. Pour up to 3/4 cup of mop over the shredded meat to season and moisten it.",
-        "↻ RESERVE NOW, BEFORE IT HITS THE TABLE: pull about 2.5 lb of the shredded pork into a container and refrigerate it. That is Wednesday's dinner, and it will not survive the table if you leave it out.",
-        "Slaw: quarter, core and thinly slice about three quarters of the cabbage (save the rest for Wednesday). Toss with the shredded carrots and 1/3 cup of the mop, then mix in the mayonnaise. Salt and pepper to taste.",
-        "↻ ALSO TONIGHT, while the pork rests: cook 4 cups dry jasmine rice (4 cups rice + 6 cups water, covered, boil then 15 min on low, then 15 min off-heat still covered). Cool and refrigerate. Tuesday's side and Wednesday's bowls both come out of this pot.",
-        "Serve on rolls with slaw and the remaining mop. Hot sauce on the table."
+        "Ahead (15 min to 24 hr): mince the ginger, garlic and jalapeños. Whisk into 1 1/4 cups yogurt with the salt, chili powder, turmeric, cumin, sugar, paprika and garam masala. Add all 5 lb of chicken and toss to coat. Refrigerate. Sunday night is ideal.",
+        "Heat the oven to 425°F. Line two half-sheet pans with foil and rub each with 1 Tbsp olive oil.",
+        "Toss the potatoes and cauliflower with the remaining 3 Tbsp oil, 1 tsp salt and the cumin seeds. Divide between the two pans in a single layer — crowding steams them instead of roasting them.",
+        "Lift the chicken out of the marinade, letting the excess drip off, and nestle the pieces skin-side up among the vegetables across both pans.",
+        "Roast 20 min. Toss the vegetables, swap the pans top-to-bottom, and roast 15–20 min more (35–40 min total) — chicken at 175°F at the bone, vegetables browned at the edges.",
+        "While it roasts: separate the red onion into rings and toss with a squeeze of lemon and a pinch of salt. Grate the cucumber, wring it out in a towel, and stir into 1 1/4 cups yogurt with the cilantro, cumin, salt and lemon. That is the raita.",
+        "BEFORE YOU SERVE: pull 5 or 6 thighs off the pans and set them aside. Once cool enough to handle, strip the meat off the bones and shred it — about 1 1/2 lb. Covered container, into the fridge. That is Wednesday's dinner.",
+        "Serve the rest straight from the pans: raita, pickled onion rings, chopped cilantro, lemon wedges. Cayenne or hot sauce on the table for whoever wants heat — the dish itself stays mild."
       ],
-      "reuse": "Buy the full 6 lb — ~2.5 lb of pulled pork becomes Wednesday's bánh mì bowls, so Wednesday cooks no protein at all. Tonight's 4 cups of dry rice feeds Tuesday's side AND Wednesday's bowls. The cabbage head and carrot bag also carry into Wednesday's quick pickle.",
-      "source": "https://smittenkitchen.com/2019/07/crispy-oven-pulled-pork/",
-      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2019/07/crispy-oven-pulled-pork.jpg?fit=1200%2C800&quality=89&ssl=1",
-      "alt": "Shredded crispy oven pulled pork piled on a soft roll with pale cabbage slaw"
+      "reuse": "The 1 1/2 lb of shredded chicken becomes Wednesday's coconut turmeric soup. The ginger knob carries to Tuesday and Wednesday, the garlic across all four nights, the cilantro to Wednesday and the lemons to Thursday.",
+      "source": "https://smittenkitchen.com/2016/04/sheet-pan-chicken-tikka/",
+      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2016/04/sheet-pan-chicken-tikka1.jpg?fit=640%2C427&quality=89&ssl=1",
+      "alt": "Roasted spiced chicken pieces on a sheet pan with browned cauliflower, potatoes and red onion rings"
     },
     {
       "day": "Tue",
-      "name": "Blackened Salmon with Zucchini",
-      "blurb": "Salmon crusted in homemade Cajun spice and hard-seared until the crust goes dark, with zucchini sautéed in the spiced butter left in the pan.",
-      "serves": 5,
+      "name": "Beef & Cabbage Stir Fry over Jasmine Rice",
+      "blurb": "A whole head of cabbage and a pile of shredded carrot cooked down fast with ginger-garlic ground beef in a soy-sesame sauce, over jasmine rice. One skillet, no oven.",
+      "serves": 4,
       "active": "30 min",
       "total": "30 min",
+      "warn": "Cook a DOUBLE batch of rice — 3 cups dry. Half is tonight, half goes in the fridge and becomes Wednesday's bowls.",
       "ingredients": [
         {
-          "group": "Cajun seasoning (double batch — this is the whole mix)",
+          "group": "Sauce",
           "items": [
-            "4 tsp smoked paprika",
-            "2 tsp dried thyme",
-            "2 tsp dried oregano",
-            "1 tsp ground cumin",
-            "1/2 tsp cayenne",
-            "1 tsp garlic powder",
-            "1 tsp onion powder",
-            "1/2 tsp freshly cracked black pepper",
-            "1/2 tsp salt"
+            "6 Tbsp soy sauce",
+            "3 Tbsp toasted sesame oil",
+            "1 Tbsp sriracha (the rest of the bottle goes on the table)",
+            "1 1/2 Tbsp brown sugar"
           ]
         },
         {
-          "group": "Salmon + zucchini",
+          "group": "Stir fry",
           "items": [
-            "2 1/4 lb salmon, skin removed, cut into 5 portions (~7 oz each)",
-            "3 Tbsp butter",
-            "1 1/2 Tbsp cooking oil",
-            "2 1/2 lb zucchini (about 5 medium), sliced into half-rounds",
-            "2 lemons, cut into wedges"
-          ]
-        },
-        {
-          "group": "To serve",
-          "items": [
-            "About 4 cups of Monday's cooked jasmine rice"
+            "3 cups dry jasmine rice + 4 1/2 cups water (double batch)",
+            "1 3/4 lb lean ground beef (90/10)",
+            "1 head green cabbage, ~2 lb",
+            "4 carrots, shredded",
+            "About 6 green onions, sliced (save the rest for Wednesday)",
+            "4 cloves garlic, minced",
+            "2 Tbsp fresh grated ginger",
+            "1 Tbsp neutral cooking oil",
+            "Pinch of salt and pepper",
+            "2 Tbsp sesame seeds"
           ]
         }
       ],
       "directions": [
-        "Stir all the Cajun seasoning spices together in a small bowl.",
-        "Cut the salmon into 5 equal portions and coat generously on all sides with the seasoning. Use all of it — a thin dusting will not blacken.",
-        "Slice the zucchini into half-rounds and set aside.",
-        "Reheat Monday's rice: 4 cups into a saucepan with a splash of water, covered, low heat, ~8 min. Or microwave covered.",
-        "Heat the butter and oil in a large skillet over medium-high until foaming. Add the salmon — work in two batches so the pieces are not crowded, or the crust steams instead of searing. Cook 5-7 min per side, until a dark crust forms and the center hits 145°F.",
-        "Move the salmon to a plate. Add the zucchini to the same skillet and sauté in the residual spiced butter until tender, 5-6 min. Scrape up the browned bits — that is where the flavor is.",
-        "Serve immediately over the rice with lemon wedges. Squeeze the lemon; it is what makes the blackening taste like something instead of just hot."
+        "Start the rice first: 3 cups dry jasmine rice with 4 1/2 cups water, covered, 15 min at a bare simmer, then off the heat 10 min. That is twice what tonight needs — the second half goes in the fridge for Wednesday.",
+        "Stir the sauce together: soy sauce, toasted sesame oil, 1 Tbsp sriracha, brown sugar. Set aside.",
+        "Prep everything before the pan gets hot — this cooks fast. Halve and core the cabbage and shred it finely (10–12 cups). Shred 4 carrots on a box grater. Slice 6 green onions. Mince the garlic and grate 2 Tbsp ginger off the same knob you used Monday.",
+        "Heat a large skillet or wok over medium-high. Add the oil, then the beef, garlic, ginger and a pinch of salt and pepper. Cook, breaking the beef up, until browned — about 7 min. Pour off the fat if there is much.",
+        "Add the cabbage and carrots in two batches, letting the first wilt before the second goes in. Stir and cook 5–7 min — wilted but still with some bite, not soft.",
+        "Pour in the sauce, add the green onions, and toss 1 min to coat. Taste for salt.",
+        "Serve over the rice with sesame seeds on top. Sriracha bottle on the table."
       ],
-      "reuse": "The rice is Monday's — nothing to cook. The zucchini comes out of the same buy as Thursday's pasta, and the lemons and butter are shared with Thursday too.",
-      "source": "https://www.budgetbytes.com/blackened-salmon-with-zucchini/",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2020/07/Blackened-Salmon-with-Zucchini-flaked.jpg",
-      "alt": "Dark-crusted blackened salmon fillet flaked open beside sautéed zucchini half-rounds"
+      "reuse": "The second half of tonight's rice is Wednesday's bowl base. Carrots, green onions, garlic and the ginger knob are all shared with Wednesday.",
+      "source": "https://www.budgetbytes.com/beef-cabbage-stir-fry/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2016/08/Beef-and-Cabbage-Stir-Fry-eat.jpg",
+      "alt": "A bowl of shredded cabbage and carrot stir fried with ground beef, topped with green onion and sesame seeds"
     },
     {
       "day": "Wed",
-      "name": "Bánh Mì Bowls with Monday's Pulled Pork",
-      "blurb": "Everything good about a bánh mì sandwich, in a bowl: crisped pork over jasmine rice with sweet-sour pickled carrot and cabbage, cool cucumber, a fistful of cilantro and sriracha mayo.",
-      "serves": 5,
+      "name": "Coconut Turmeric Chicken Soup",
+      "blurb": "A golden coconut-turmeric broth loaded with carrot and celery, ladled over rice and finished with lime and cilantro. Monday's roasted tikka chicken goes in at the end.",
+      "serves": 4,
       "active": "20 min",
-      "total": "20 min",
-      "warn": "Adapted: the original builds these on baked pork meatballs. We use Monday's pulled pork instead — bánh mì is a pork sandwich, so this is the swap the dish wants anyway. Make the pickle Monday night or Tuesday; it needs at least 30 min in the fridge.",
+      "total": "30 min",
+      "warn": "No protein and no grain cooked tonight. The chicken came off Monday's sheet pan; the rice came out of Tuesday's pot. Adaptation: the original simmers a raw chicken breast for 30 min — we already have roasted chicken, so it goes in at the very end and the simmer drops to 15 min.",
       "ingredients": [
         {
-          "group": "Quick pickle (make ahead)",
+          "group": "From earlier in the week",
           "items": [
-            "3 carrots, shredded",
-            "1 small yellow onion, sliced thin",
-            "About 2 cups shredded green cabbage (the quarter head left from Monday)",
-            "1/2 cup rice vinegar",
-            "1/4 cup white sugar",
-            "1/2 tsp salt",
-            "1/2 cup water"
+            "~1 1/2 lb shredded roasted chicken (Monday's)",
+            "~4 cups cooked jasmine rice (Tuesday's)"
           ]
         },
         {
-          "group": "Bowls",
+          "group": "Soup",
           "items": [
-            "~2.5 lb pulled pork reserved from Monday",
-            "About 8 cups cooked jasmine rice from Monday's pot",
-            "1 English cucumber, quartered lengthwise and sliced",
-            "2 jalapeños, sliced thin — ON THE SIDE",
-            "1/2 bunch cilantro, leaves pulled from the stems"
+            "1 yellow onion, diced",
+            "3 cloves garlic, minced",
+            "1 Tbsp grated fresh ginger",
+            "2 Tbsp olive oil",
+            "2 tsp ground turmeric",
+            "3/4 tsp ground cumin",
+            "1 good pinch crushed red pepper",
+            "3/4 lb carrots (about 5), peeled and chopped",
+            "5 stalks celery, chopped",
+            "4 cups chicken broth",
+            "1 (13.5 oz) can full-fat coconut milk",
+            "1/2 tsp salt, to taste"
           ]
         },
         {
-          "group": "Sriracha mayo",
+          "group": "To finish",
           "items": [
-            "1/2 cup mayonnaise",
-            "2 Tbsp sriracha, plus more to taste"
+            "1/2 bunch cilantro",
+            "2 limes, cut in wedges",
+            "Remaining green onions, sliced"
           ]
         }
       ],
       "directions": [
-        "MAKE THE PICKLE AHEAD (Monday night or Tuesday, or at least 30 min before dinner): combine the rice vinegar, sugar, salt and water in a small pot and warm just until the sugar dissolves. Let it cool. Shred the carrots and cabbage, slice the onion thin, and pack them into a container. Pour the liquid over, making sure everything is submerged. Refrigerate — it only gets better through Thursday.",
-        "Reheat the rice: 8 cups into a large saucepan with a splash of water, covered, low heat, ~10 min, fluffing once. Or microwave covered in two batches.",
-        "Crisp the pork — this is the step that makes it a new meal instead of leftovers. Heat a dry large skillet over medium-high. Spread the pork in a single layer and leave it alone 3-4 min until the underside browns and crackles, then toss and repeat once. Work in two batches; a crowded pan steams.",
-        "Stir the mayonnaise and sriracha together.",
-        "Prep the cold stuff: slice the cucumber into quarter-rounds, slice the jalapeños, pull the cilantro leaves.",
-        "Build: ~1 1/2 cups rice in each bowl, a generous pile of crisped pork, 1/2 cup of the drained pickle, cucumber, a real handful of cilantro. Zigzag the sriracha mayo over the top.",
-        "Jalapeños and extra sriracha stay on the table so everyone dials their own heat."
+        "Take the shredded chicken out of the fridge now so it is not fridge-cold when it goes in.",
+        "Dice the onion, mince the garlic, grate 1 Tbsp ginger. Sauté in the olive oil in a large pot over medium until the onion is soft and translucent, about 5 min.",
+        "Add the turmeric, cumin and crushed red pepper. Stir 1 min — toasting the spices in the oil is what makes this taste like more than the sum of its parts.",
+        "Add the chopped carrots and celery, sauté 3 min.",
+        "Pour in the broth, bring to a boil, then drop to a simmer for 15 min, until the carrots are tender.",
+        "Stir in the coconut milk and all the shredded chicken. Heat through over medium-low, 3–5 min — do not let it boil hard or the coconut milk breaks. Salt to taste; it will want most of the 1/2 tsp.",
+        "Reheat the rice: splash of water, covered, 2 min in the microwave.",
+        "About 1 cup rice in each bowl, soup ladled over. Cilantro, sliced green onion, and a hard squeeze of lime on top. The lime is not optional — it is what lifts the whole bowl."
       ],
-      "reuse": "This night cooks no protein and no grain — the pork and the rice both came out of Monday. The carrots and cabbage are the back half of Monday's slaw buy, and the mayo jar is the same one.",
-      "source": "https://www.budgetbytes.com/banh-mi-bowls/",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/03/Banh-Mi-Bowl-above.jpg",
-      "alt": "Overhead bánh mì bowl of rice topped with pork, pickled carrot, cucumber, cilantro and jalapeño"
+      "reuse": "This is the payoff night. Monday's roasted chicken and Tuesday's double batch of rice both land here. Carrots, ginger, garlic, cilantro and green onions are already in the fridge from earlier in the week.",
+      "source": "https://www.budgetbytes.com/coconut-turmeric-chicken-soup/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2019/02/Coconut-Turmeric-Chicken-Soup-with-lime.jpg",
+      "alt": "A bowl of golden coconut turmeric chicken soup with carrots and celery, garnished with cilantro and a lime wedge"
     },
     {
       "day": "Thu",
-      "name": "Cherry Tomato & Summer Squash Pasta with Chicken Sausage",
-      "blurb": "Cherry tomatoes roasted until they burst, with zucchini and yellow squash, tossed through whole-grain pasta in a light goat cheese and lemon sauce. Italian chicken sausage added so it actually holds as a dinner.",
-      "serves": 5,
-      "active": "25 min",
-      "total": "40 min",
+      "name": "Oven-Baked Fish with Tomatoes, Roasted Broccoli & Lemon-Parsley Orzo",
+      "blurb": "White fish baked under a blanket of garlicky fire-roasted tomatoes so it cannot dry out, with broccoli roasted hard on a sheet pan and a bright lemon-parsley orzo alongside.",
+      "serves": 4,
+      "active": "20 min",
+      "total": "30 min",
+      "warn": "Adaptation: the original is 1 lb of fish for four, which lands around 23 g protein a serving — under the floor for Paul. Doubled to 2 lb, and the broccoli and orzo are added so it is a full plate rather than fish and a can of tomatoes.",
       "ingredients": [
         {
-          "group": "Everything",
+          "group": "Fish",
           "items": [
-            "1 lb whole grain rotini, fusilli or penne",
-            "2 pints cherry tomatoes",
-            "3 medium yellow squash, quartered lengthwise and sliced into 1/4-inch wedges",
-            "2 medium zucchini, quartered lengthwise and sliced into 1/4-inch wedges",
-            "3 Tbsp olive oil",
-            "1 lb Italian chicken sausage (4 links)",
-            "3 Tbsp lemon juice (about 1 lemon)",
-            "3 Tbsp butter",
-            "4 oz goat cheese, crumbled",
-            "2 small cloves garlic, pressed or minced",
-            "Generous pinch red pepper flakes — ON THE SIDE for the kids' portions",
-            "1/4 cup fresh basil, chopped",
-            "Salt and freshly ground black pepper"
+            "2 lb white fish fillets — cod, grouper or pollock (eight 4 oz fillets)",
+            "2 (14.5 oz) cans fire-roasted diced tomatoes, drained well",
+            "4 cloves garlic, minced",
+            "2 Tbsp olive oil",
+            "1 tsp dried oregano",
+            "1/2 tsp salt + freshly cracked pepper",
+            "1 Tbsp lemon juice"
+          ]
+        },
+        {
+          "group": "Broccoli",
+          "items": [
+            "2 lb broccoli crowns, cut into florets",
+            "2 Tbsp olive oil, salt and pepper"
+          ]
+        },
+        {
+          "group": "Lemon-parsley orzo",
+          "items": [
+            "1 1/2 cups dry orzo",
+            "2 Tbsp butter",
+            "Juice of 1 lemon",
+            "1 bunch flat-leaf parsley, chopped",
+            "Salt and pepper"
           ]
         }
       ],
       "directions": [
-        "Heat the oven to 400°F and line a large baking sheet with parchment. Toss the cherry tomatoes, zucchini and yellow squash with the olive oil, salt and pepper. Spread in a single layer — use two sheets if it looks crowded, because piled vegetables steam instead of roasting. Roast 25 min, stirring halfway, until the tomatoes burst and the squash is tender.",
-        "While that roasts, sear the sausage: brown the links in a skillet over medium, 10-12 min, turning, until cooked through. Rest 5 min, then slice into coins on the bias.",
-        "Boil a large pot of well-salted water and cook the pasta to al dente per the package. Reserve 1 cup of pasta water before draining, then return the pasta to the pot.",
-        "While the pasta is still hot, add the lemon juice, butter, goat cheese, garlic and a pinch of red pepper flakes. Add 1/4 cup of the reserved pasta water and toss gently until everything is coated and glossy. Add more pasta water a splash at a time if it looks tight — the goat cheese is the sauce, so it needs the starch water to loosen.",
-        "Add the roasted vegetables and every drop of the juices from the pan, plus the sliced sausage. Toss gently. Taste and correct the salt and pepper.",
-        "Top with the chopped basil and serve immediately. Extra red pepper flakes and grated parmesan on the table."
+        "Heat the oven to 400°F. Put a large pot of salted water on for the orzo.",
+        "Drain the tomatoes well — wet tomatoes make watery fish. Stir them together with the garlic, 2 Tbsp olive oil, oregano, 1/2 tsp salt, about 10 cranks of pepper and 1 Tbsp lemon juice.",
+        "Spread a third of the tomato mixture across the bottom of a 9x13 baking dish. Lay the fish fillets on it in a single layer, not overlapping. Spoon the rest of the tomatoes over the top so the fish is completely covered.",
+        "Cut the broccoli into florets and toss with 2 Tbsp olive oil, salt and pepper on a sheet pan. Spread them out cut-side down — that is where the char comes from.",
+        "Both go in: fish on the middle rack, broccoli on the upper rack. 15–18 min — fish flakes and reads 145°F, broccoli charred at the edges and still firm at the stem.",
+        "Meanwhile boil the orzo 8–9 min, drain, and toss while hot with the butter, the juice of 1 lemon, most of the chopped parsley, and salt and pepper to taste.",
+        "Scatter the last of the parsley over the fish. Lemon wedges and red pepper flakes on the table."
       ],
-      "reuse": "The zucchini and lemons come out of Tuesday's buy, and the butter is the same stick. Basil and goat cheese are the only things bought just for tonight.",
-      "source": "https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/",
-      "image": "https://cookieandkate.com/images/2018/08/creamy-cherry-tomato-summer-squash-pasta-recipe.jpg",
-      "alt": "Bowl of rotini tossed with burst cherry tomatoes, roasted summer squash and crumbled goat cheese"
+      "reuse": "Closes out the garlic head and the lemons bought Monday. The single bunch of parsley is used up between the orzo and the fish, so nothing wilts in the drawer.",
+      "source": "https://www.budgetbytes.com/easy-oven-baked-fish-with-tomatoes/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2019/03/Easy-Oven-Baked-Fish-with-Tomatoes-plate.jpg",
+      "alt": "A white fish fillet on a plate under a spoonful of stewed fire-roasted tomatoes, sprinkled with parsley"
     }
   ]
 }
