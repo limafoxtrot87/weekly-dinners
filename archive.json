@@ -1,0 +1,127 @@
+{
+  "updated": "Aug 23, 2026",
+  "recipes": [
+    {
+      "id": "grilled-chicken-gyro-salad",
+      "name": "Grilled Chicken Gyro Salad",
+      "source": "https://smittenkitchen.com/2016/05/chicken-gyro-salad/",
+      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2016/05/chicken-gyro-salad1-scaled.jpg?fit=1200%2C800&quality=89&ssl=1",
+      "protein": "chicken",
+      "mealType": "Salad",
+      "active": "30 min",
+      "weeks": [
+        "Mon 8/10"
+      ]
+    },
+    {
+      "id": "garlic-shrimp-orzo-skillet",
+      "name": "Garlic Shrimp & Orzo Skillet",
+      "source": "https://www.budgetbytes.com/garlic-shrimp-and-orzo-skillet/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2026/05/Garlic-Shrimp-and-Orzo-Skillet-Front-Plated.jpg",
+      "protein": "seafood",
+      "mealType": "Skillet",
+      "active": "30 min",
+      "weeks": [
+        "Mon 8/10"
+      ]
+    },
+    {
+      "id": "mediterranean-chicken-bowls",
+      "name": "Mediterranean Chicken Bowls",
+      "source": "https://www.budgetbytes.com/mediterranean-turkey-bowls/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2023/04/Mediterranean-Turkey-Bowls-side.jpg",
+      "protein": "chicken",
+      "mealType": "Bowl",
+      "active": "15 min",
+      "weeks": [
+        "Mon 8/10"
+      ]
+    },
+    {
+      "id": "shakshuka-with-feta",
+      "name": "Shakshuka with Feta",
+      "source": "https://cookieandkate.com/foolproof-shakshuka-recipe/",
+      "image": "https://cookieandkate.com/images/2019/02/best-shakshuka-recipe-3.jpg",
+      "protein": "vegetarian",
+      "mealType": "Skillet",
+      "active": "25 min",
+      "weeks": [
+        "Mon 8/10"
+      ]
+    },
+    {
+      "id": "crispy-oven-pulled-pork-with-cabbage-slaw",
+      "name": "Crispy Oven Pulled Pork with Cabbage Slaw",
+      "source": "https://smittenkitchen.com/2019/07/crispy-oven-pulled-pork/",
+      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2019/07/crispy-oven-pulled-pork.jpg?fit=1200%2C800&quality=89&ssl=1",
+      "protein": "pork",
+      "mealType": "Roast",
+      "active": "25 min",
+      "weeks": [
+        "Mon 8/17",
+        "Mon 8/24"
+      ]
+    },
+    {
+      "id": "blackened-salmon-with-zucchini",
+      "name": "Blackened Salmon with Zucchini",
+      "source": "https://www.budgetbytes.com/blackened-salmon-with-zucchini/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2020/07/Blackened-Salmon-with-Zucchini-flaked.jpg",
+      "protein": "seafood",
+      "mealType": "Skillet",
+      "active": "30 min",
+      "weeks": [
+        "Mon 8/17"
+      ]
+    },
+    {
+      "id": "b-nh-m-bowls-with-pulled-pork",
+      "name": "Bánh Mì Bowls with Pulled Pork",
+      "source": "https://www.budgetbytes.com/banh-mi-bowls/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2013/03/Banh-Mi-Bowl-above.jpg",
+      "protein": "pork",
+      "mealType": "Bowl",
+      "active": "20 min",
+      "weeks": [
+        "Mon 8/17",
+        "Mon 8/24"
+      ]
+    },
+    {
+      "id": "cherry-tomato-summer-squash-pasta-with-chicken-sausage",
+      "name": "Cherry Tomato & Summer Squash Pasta with Chicken Sausage",
+      "source": "https://cookieandkate.com/creamy-cherry-tomato-summer-squash-pasta/",
+      "image": "https://cookieandkate.com/images/2018/08/creamy-cherry-tomato-summer-squash-pasta-recipe.jpg",
+      "protein": "chicken",
+      "mealType": "Pasta",
+      "active": "25 min",
+      "weeks": [
+        "Mon 8/17"
+      ]
+    },
+    {
+      "id": "sheet-pan-chicken-tikka",
+      "name": "Sheet Pan Chicken Tikka",
+      "source": "https://smittenkitchen.com/2016/04/sheet-pan-chicken-tikka/",
+      "image": "",
+      "protein": "chicken",
+      "mealType": "Sheet pan",
+      "active": "25 min",
+      "weeks": [
+        "Mon 8/24"
+      ]
+    },
+    {
+      "id": "oven-baked-fish-with-tomatoes-roasted-broccoli-lemon-parsley",
+      "name": "Oven-Baked Fish with Tomatoes, Roasted Broccoli & Lemon-Parsley Orzo",
+      "source": "https://www.budgetbytes.com/oven-baked-fish-with-tomatoes/",
+      "image": "",
+      "protein": "seafood",
+      "mealType": "Sheet pan",
+      "active": "20 min",
+      "weeks": [
+        "Mon 8/24"
+      ]
+    }
+  ]
+}

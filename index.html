@@ -253,6 +253,66 @@
   .foot { margin-top:22px; text-align:center; font-size:11.5px; color:var(--ink-faint); font-family:var(--mono); }
   .foot button { appearance:none; background:none; border:0; color:var(--ink-faint); font:inherit; text-decoration:underline; cursor:pointer; padding:9px; }
 
+
+  /* ---------- archive ---------- */
+  .filters { display:flex; flex-direction:column; gap:9px; margin-bottom:16px; }
+  .frow { display:flex; gap:7px; overflow-x:auto; padding-bottom:2px; -webkit-overflow-scrolling:touch; }
+  .frow::-webkit-scrollbar { display:none; }
+  .flab {
+    flex:none; align-self:center; font-size:10.5px; font-weight:700; letter-spacing:.11em;
+    text-transform:uppercase; color:var(--ink-faint); width:52px;
+  }
+  .chip {
+    flex:none; appearance:none; cursor:pointer; white-space:nowrap;
+    border:1px solid var(--line-strong); background:var(--surface); color:var(--ink-soft);
+    font-family:var(--ui); font-size:13px; font-weight:600;
+    padding:7px 13px; border-radius:99px; transition:background .15s ease, color .15s ease, border-color .15s ease;
+  }
+  .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+  .chip:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+
+  .arc { display:flex; flex-direction:column; gap:12px; }
+  .card {
+    display:flex; gap:0; background:var(--surface); border:1px solid var(--line);
+    border-radius:var(--r); box-shadow:var(--shadow-1); overflow:hidden;
+  }
+  .card-img { flex:none; width:104px; background:var(--surface-sub); align-self:stretch; }
+  .card-img img { width:100%; height:100%; object-fit:cover; display:block; }
+  .card-body { flex:1; min-width:0; padding:13px 14px; display:flex; flex-direction:column; gap:7px; }
+  .card-name { font-family:var(--display); font-size:16px; font-weight:700; line-height:1.2; text-wrap:balance; }
+  .card-meta { display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+  .mchip {
+    font-size:10px; font-weight:700; letter-spacing:.06em; text-transform:uppercase;
+    padding:3px 8px; border-radius:99px; background:var(--surface-sub); color:var(--ink-soft);
+  }
+  .mchip.pro { background:var(--accent-wash); color:var(--accent); }
+  .card-foot { display:flex; align-items:center; gap:10px; margin-top:auto; padding-top:2px; }
+  .served { font-family:var(--mono); font-size:11px; color:var(--ink-faint); }
+  .card-foot a { font-size:12px; font-weight:600; color:var(--accent); text-decoration:none; }
+  .star {
+    flex:none; appearance:none; border:0; background:none; cursor:pointer; padding:8px;
+    margin:4px 4px 0 0; color:var(--line-strong); align-self:flex-start;
+    transition:color .15s ease, transform .12s ease;
+  }
+  .star svg { width:22px; height:22px; }
+  .star[aria-pressed="true"] { color:var(--gold); }
+  .star[aria-pressed="true"] svg { fill:var(--gold); }
+  .star:active { transform:scale(.88); }
+  .star:focus-visible { outline:2px solid var(--accent); outline-offset:2px; border-radius:8px; }
+
+  .savebar {
+    position:sticky; bottom:0; z-index:25; margin:16px -16px 0; padding:12px 16px calc(12px + env(safe-area-inset-bottom));
+    background:var(--surface); border-top:1px solid var(--line); box-shadow:0 -4px 16px rgba(58,22,17,.07);
+  }
+  .savebar[hidden] { display:none; }
+  .savebar a {
+    display:flex; align-items:center; justify-content:center; gap:8px;
+    background:var(--accent); color:var(--accent-ink); text-decoration:none;
+    font-family:var(--ui); font-size:15px; font-weight:700;
+    padding:13px; border-radius:var(--r-s);
+  }
+  .savebar p { margin:8px 0 0; font-size:11.5px; line-height:1.4; color:var(--ink-faint); text-align:center; }
+
   @media (prefers-reduced-motion: reduce) { *,*::before,*::after { animation:none !important; transition:none !important; } }
 </style>
 </head>
@@ -266,6 +326,7 @@
   <g id="i-flame"><path d="M12 22c4.1 0 7-2.7 7-6.5 0-4.4-3.5-6.6-4.6-10.4-.2-.7-1.1-.9-1.5-.3C11 7.4 12.6 9 11 11c-1 1.2-2.4.3-2.4-1.2 0-.7-.9-1-1.3-.4C6.2 11 5 12.9 5 15.5 5 19.3 7.9 22 12 22z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></g>
   <g id="i-chev"><path d="M5 8l7 7 7-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
   <g id="i-recycle"><circle cx="12" cy="12" r="9.2" fill="none" stroke="currentColor" stroke-width="1.6" opacity=".35"/><path d="M12 3.6l2.6 4.4M12 3.6L9.4 8M4.8 15.8l2.4-4.6M4.8 15.8l5.2.3M19.2 15.8l-2.4-4.6M19.2 15.8l-5.2.3" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g id="i-star"><path d="M12 3.2l2.7 5.6 6.1.9-4.4 4.3 1 6.1-5.4-2.9-5.4 2.9 1-6.1L3.2 9.7l6.1-.9z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></g>
   <g id="i-alert"><path d="M12 3.5 22 20H2L12 3.5zM12 10v4.5M12 17.4v.1" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></g>
 </defs></svg>
 
@@ -280,6 +341,7 @@
     <div class="tabs" role="tablist">
       <button class="tab" role="tab" id="tab-list" aria-selected="true" aria-controls="panel-list">Shopping list</button>
       <button class="tab" role="tab" id="tab-menu" aria-selected="false" aria-controls="panel-menu">Recipes</button>
+      <button class="tab" role="tab" id="tab-arc" aria-selected="false" aria-controls="panel-arc">Past</button>
     </div>
   </div>
 </header>
@@ -290,6 +352,7 @@
     <div class="skel"></div><div class="skel"></div><div class="skel"></div></div>
   </div>
   <div class="panel" id="panel-menu" role="tabpanel" aria-labelledby="tab-menu" hidden></div>
+  <div class="panel" id="panel-arc" role="tabpanel" aria-labelledby="tab-arc" hidden></div>
   <div class="foot" id="foot"></div>
 </main>
 
@@ -452,16 +515,137 @@
     });
   }
 
-  function bindTabs() {
-    var tl = $("tab-list"), tm = $("tab-menu");
-    function pick(listOn) {
-      tl.setAttribute("aria-selected", listOn ? "true" : "false");
-      tm.setAttribute("aria-selected", listOn ? "false" : "true");
-      panelList.hidden = !listOn; panelMenu.hidden = listOn;
-      window.scrollTo(0, 0);
+
+  /* ---------- archive: browse past recipes, filter, favorite ---------- */
+  var panelArc = $("panel-arc");
+  var arcState = { recipes: [], protein: "all", format: "all", favs: {} };
+
+  function favLoad() {
+    try { return JSON.parse(localStorage.getItem("dinnerFavs") || "{}"); }
+    catch (e) { return {}; }
+  }
+  function favSave() {
+    try { localStorage.setItem("dinnerFavs", JSON.stringify(arcState.favs)); } catch (e) {}
+  }
+
+  function uniq(list, key) {
+    var seen = {}, out = [];
+    list.forEach(function (r) {
+      var v = r[key];
+      if (v && !seen[v]) { seen[v] = 1; out.push(v); }
+    });
+    return out.sort();
+  }
+
+  function renderArc() {
+    var rs = arcState.recipes.filter(function (r) {
+      return (arcState.protein === "all" || r.protein === arcState.protein)
+          && (arcState.format  === "all" || r.mealType === arcState.format);
+    });
+
+    var html = '<div class="filters">';
+    html += '<div class="frow"><span class="flab">Protein</span>';
+    html += ["all"].concat(uniq(arcState.recipes, "protein")).map(function (v) {
+      return '<button class="chip" data-k="protein" data-v="' + esc(v) + '" aria-pressed="' +
+             (arcState.protein === v ? "true" : "false") + '">' +
+             esc(v === "all" ? "All" : v.charAt(0).toUpperCase() + v.slice(1)) + "</button>";
+    }).join("") + "</div>";
+    html += '<div class="frow"><span class="flab">Format</span>';
+    html += ["all"].concat(uniq(arcState.recipes, "mealType")).map(function (v) {
+      return '<button class="chip" data-k="format" data-v="' + esc(v) + '" aria-pressed="' +
+             (arcState.format === v ? "true" : "false") + '">' + esc(v === "all" ? "All" : v) + "</button>";
+    }).join("") + "</div></div>";
+
+    if (!rs.length) {
+      html += '<div class="msg"><h2>Nothing matches</h2><p>No past dinner fits both filters. Clear one and try again.</p></div>';
+    } else {
+      html += '<div class="arc">';
+      rs.forEach(function (r) {
+        var on = !!arcState.favs[r.id];
+        var times = r.weeks.length;
+        html += '<article class="card">';
+        if (r.image) {
+          html += '<div class="card-img"><img src="' + esc(r.image) + '" alt="' + esc(r.name) +
+                  '" loading="lazy" decoding="async"></div>';
+        }
+        html += '<div class="card-body">';
+        html += '<div class="card-name">' + esc(r.name) + "</div>";
+        html += '<div class="card-meta"><span class="mchip pro">' + esc(r.protein) + "</span>" +
+                '<span class="mchip">' + esc(r.mealType) + "</span>" +
+                (r.active ? '<span class="mchip">' + esc(r.active) + "</span>" : "") + "</div>";
+        html += '<div class="card-foot"><span class="served">' +
+                (times > 1 ? "Made " + times + "×" : "Made once") + " · " + esc(r.weeks[r.weeks.length - 1]) +
+                "</span>" + (r.source ? '<a href="' + esc(r.source) + '" target="_blank" rel="noopener">Recipe</a>' : "") +
+                "</div></div>";
+        html += '<button class="star" data-id="' + esc(r.id) + '" aria-pressed="' + (on ? "true" : "false") +
+                '" aria-label="Favorite ' + esc(r.name) + '">' + icon("i-star") + "</button>";
+        html += "</article>";
+      });
+      html += "</div>";
     }
-    tl.addEventListener("click", function () { pick(true); });
-    tm.addEventListener("click", function () { pick(false); });
+
+    html += '<div class="savebar" id="savebar" hidden><a id="savelink" href="#"></a>' +
+            '<p>Tapping this opens a pre-filled email. Send it and the Sunday planner picks your favorites up — that is what makes them count.</p></div>';
+
+    panelArc.innerHTML = html;
+
+    panelArc.querySelectorAll(".chip").forEach(function (b) {
+      b.addEventListener("click", function () {
+        arcState[b.getAttribute("data-k")] = b.getAttribute("data-v");
+        renderArc();
+      });
+    });
+    panelArc.querySelectorAll(".star").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var id = b.getAttribute("data-id");
+        if (arcState.favs[id]) { delete arcState.favs[id]; } else { arcState.favs[id] = 1; }
+        b.setAttribute("aria-pressed", arcState.favs[id] ? "true" : "false");
+        favSave(); updateSaveBar();
+      });
+    });
+    updateSaveBar();
+  }
+
+  function updateSaveBar() {
+    var bar = $("savebar"), link = $("savelink");
+    if (!bar || !link) return;
+    var names = arcState.recipes.filter(function (r) { return arcState.favs[r.id]; })
+                                .map(function (r) { return r.name; });
+    if (!names.length) { bar.hidden = true; return; }
+    bar.hidden = false;
+    link.textContent = "Save " + names.length + " favorite" + (names.length > 1 ? "s" : "");
+    var body = "These are our current favorites:\n\n" + names.map(function (n) { return "FAV: " + n; }).join("\n");
+    link.href = "mailto:pabartel87@gmail.com?subject=" + encodeURIComponent("Dinner favorites") +
+                "&body=" + encodeURIComponent(body);
+  }
+
+  function loadArchive() {
+    arcState.favs = favLoad();
+    fetch("archive.json?v=" + Date.now(), { cache: "no-store" })
+      .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function (a) { arcState.recipes = a.recipes || []; renderArc(); })
+      .catch(function (e) {
+        panelArc.innerHTML = '<div class="msg"><h2>Couldn\u2019t load past recipes</h2><p></p></div>';
+        panelArc.querySelector("p").textContent = "The archive file didn't load (" + e.message + ").";
+      });
+  }
+
+  function bindTabs() {
+    var tabs = [
+      { b: $("tab-list"), p: panelList },
+      { b: $("tab-menu"), p: panelMenu },
+      { b: $("tab-arc"),  p: panelArc  }
+    ];
+    tabs.forEach(function (t, i) {
+      t.b.addEventListener("click", function () {
+        tabs.forEach(function (o, j) {
+          o.b.setAttribute("aria-selected", i === j ? "true" : "false");
+          o.p.hidden = i !== j;
+        });
+        if (i === 2 && !arcState.recipes.length) loadArchive();
+        window.scrollTo(0, 0);
+      });
+    });
   }
 
   function footer(d) {
