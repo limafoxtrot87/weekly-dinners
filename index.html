@@ -349,7 +349,7 @@
     });
     if (d.pantry && d.pantry.length) {
       html += '<section class="sec pantry" style="--hue:var(--sec-pantry)">';
-      html += '<div class="sec-head"><span class="sec-rule"></span><span class="sec-name">Probably have</span><span class="sec-count"></span></div>';
+      html += '<div class="sec-head"><span class="sec-rule"></span><span class="sec-name">' + esc(d.pantryTitle || "Probably have") + '</span><span class="sec-count"></span></div>';
       d.pantry.forEach(function (it) { html += rowHTML(it, "pantry", false); });
       html += "</section>";
     }
