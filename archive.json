@@ -11,6 +11,36 @@
       "active": "30 min",
       "weeks": [
         "Mon 8/10"
+      ],
+      "blurb": "One pan, 35 minutes, no sides needed. The orzo cooks risotto-style right in the broth.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "",
+          "items": [
+            "1.5 lb large shrimp, peeled, deveined, tails off",
+            "1.5 Tbsp salted butter",
+            "1 yellow onion, finely diced",
+            "1.5 cups dry orzo",
+            "6 cloves garlic, minced",
+            "1/3 cup sun-dried tomatoes, chopped (reserve the oil)",
+            "3 cups chicken broth",
+            "1 lemon, sliced into wheels and seeded",
+            "1/2 cup frozen spinach, rinsed and squeezed dry",
+            "1.5 Tbsp sun-dried tomato oil or olive oil",
+            "1/4 tsp chili flakes, 3/4 tsp salt, 1/4 tsp black pepper, 1/4 tsp paprika"
+          ]
+        }
+      ],
+      "directions": [
+        "Prep everything first — slice the lemon, mince the garlic, dice the onion, chop the sun-dried tomatoes. This moves fast once the pan is hot.",
+        "Pat the shrimp thoroughly dry, then toss with chili flakes, salt, pepper and paprika.",
+        "Melt butter in a large skillet over medium-high. Cook the onion 4-6 minutes until softened.",
+        "Add the oil, then the shrimp in a single even layer. Cook 2-3 minutes per side, just until pink. Pull them out to a clean plate immediately — they finish cooking later, and rubbery shrimp is the only way to lose here.",
+        "Add orzo, garlic and sun-dried tomatoes to the empty skillet. Toast 2-3 minutes, stirring often, until the orzo smells nutty.",
+        "Pour in the broth, scraping up the browned bits. Add the lemon wheels and drop to medium-low.",
+        "Simmer 8-10 minutes, stirring occasionally, until the orzo is tender and saucy.",
+        "Stir in the squeezed spinach, return the shrimp, and simmer 1-2 minutes just to warm through. Serve hot."
       ]
     },
     {
@@ -23,6 +53,55 @@
       "active": "30 min",
       "weeks": [
         "Mon 8/10"
+      ],
+      "blurb": "Marinated grilled chicken thighs over a big chopped Greek salad with real tzatziki. Grill-based, so the kitchen stays cool.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chicken",
+          "items": [
+            "4.5 lb boneless skinless chicken thighs",
+            "1 Tbsp olive oil",
+            "Zest + juice of 1 lemon",
+            "3 cloves garlic, minced",
+            "1.5 tsp kosher salt",
+            "3/4 tsp paprika",
+            "1/4 tsp hot smoked paprika",
+            "1.5 tsp dried oregano",
+            "Black pepper"
+          ]
+        },
+        {
+          "group": "Tzatziki (double batch)",
+          "items": [
+            "2 cups plain Greek yogurt",
+            "1 English cucumber, unpeeled",
+            "2 Tbsp lemon juice",
+            "1 Tbsp white wine vinegar",
+            "1 Tbsp minced fresh dill",
+            "2 cloves garlic, minced",
+            "1.5 tsp kosher salt, 1/2 tsp black pepper"
+          ]
+        },
+        {
+          "group": "Salad",
+          "items": [
+            "1 head romaine, chopped",
+            "1 red onion, thinly sliced",
+            "1 lb tomatoes, chopped",
+            "1 English cucumber, chopped",
+            "5 large pitas"
+          ]
+        }
+      ],
+      "directions": [
+        "Combine all marinade ingredients in a large freezer bag. Add all 4.5 lb of chicken and coat evenly. Marinate 20 minutes minimum, up to 24 hours — do it in the morning if you can.",
+        "Tzatziki: quarter one cucumber lengthwise, cut away the seedy core, then grate onto a clean dish towel and wring it out hard. Watery cucumber is what ruins tzatziki. Mix with yogurt, lemon juice, vinegar, dill, garlic, salt and pepper. Chill.",
+        "Arrange romaine, red onion, tomatoes and chopped cucumber on a big platter. Toss the sliced onion with a splash of lemon juice first to mellow its bite.",
+        "Grill on high — about 5 minutes on the first side until dark lines appear, then 3 minutes more. Work in batches; crowding steams the chicken instead of charring it.",
+        "Rest the chicken while you toast the pitas on the grill.",
+        "Slice chicken thinly. Reserve about 1.5 lb in a sealed container for Wednesday before it hits the table — it will disappear otherwise.",
+        "Serve platter-style and let everyone build their own."
       ]
     },
     {
@@ -35,6 +114,40 @@
       "active": "15 min",
       "weeks": [
         "Mon 8/10"
+      ],
+      "blurb": "The payoff night. Monday's grilled chicken comes back in a completely different format — no protein to cook, so this is basically rice plus assembly.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Bowls",
+          "items": [
+            "~1.5 lb grilled chicken from Monday, chopped",
+            "1.5 cups uncooked rice",
+            "1 pint grape tomatoes, halved",
+            "1 English cucumber, in quarter-rounds",
+            "1/4 red onion, thinly sliced (left from Monday)",
+            "1/4 cup flat-leaf parsley, chopped",
+            "Crumbled feta"
+          ]
+        },
+        {
+          "group": "Garlic dill yogurt sauce",
+          "items": [
+            "1 cup plain Greek yogurt (from Monday's tub)",
+            "1 Tbsp lemon juice",
+            "1/4 tsp garlic powder",
+            "1/4 tsp dried dill",
+            "1/4 tsp salt"
+          ]
+        }
+      ],
+      "directions": [
+        "Start the rice first — everything else takes less time than it does.",
+        "Stir together the yogurt, lemon juice, garlic powder, dried dill and salt. Refrigerate until you serve. If Monday's tzatziki is still good, use that instead and skip this entirely.",
+        "Halve the grape tomatoes, cut the cucumber into quarter-rounds, thinly slice the red onion, chop the parsley.",
+        "Chop Monday's chicken. Warm it gently in a dry skillet for 2-3 minutes — don't microwave it hard or it goes tough. It's also genuinely good cold in August.",
+        "Build bowls: rice, then chicken, then tomatoes, cucumber, onion, parsley.",
+        "Drizzle generously with the yogurt sauce and finish with crumbled feta."
       ]
     },
     {
@@ -47,6 +160,40 @@
       "active": "25 min",
       "weeks": [
         "Mon 8/10"
+      ],
+      "blurb": "Eggs poached in a spiced tomato-pepper sauce, scooped up with warm pita. Vegetarian night that eats like a real dinner.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "",
+          "items": [
+            "3 Tbsp olive oil",
+            "1 large yellow onion, chopped",
+            "2 large red bell peppers, chopped",
+            "1/2 tsp fine sea salt",
+            "5 cloves garlic, minced",
+            "3 Tbsp tomato paste",
+            "1.5 tsp ground cumin",
+            "3/4 tsp smoked paprika",
+            "1/2 tsp red pepper flakes (leave out and pass at the table for the kids)",
+            "1 can (28 oz) fire-roasted crushed tomatoes",
+            "1 can (15 oz) crushed tomatoes",
+            "3 Tbsp chopped flat-leaf parsley, plus more to finish",
+            "10 large eggs",
+            "3/4 cup crumbled feta",
+            "5 large pitas, warmed",
+            "Black pepper"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat oven to 375°F.",
+        "Warm the olive oil in your skillet(s) over medium. Add onion, bell pepper and salt. Cook 4-6 minutes until tender and translucent.",
+        "Add garlic, tomato paste, cumin, smoked paprika and red pepper flakes. Stir constantly 1-2 minutes until fragrant and the paste darkens a shade — this step is where the depth comes from, don't rush it.",
+        "Pour in both cans of tomatoes with their juices and the parsley. Simmer gently 5 minutes. Taste and adjust salt and pepper now — you can't season it properly once the eggs are in.",
+        "Turn off the heat. Make ten shallow wells in the sauce and crack one egg into each. Spoon a little sauce over the whites, leaving the yolks exposed. Season the tops.",
+        "Transfer to the oven and bake 8-12 minutes. Pull them when the whites are opaque and the yolks have risen slightly but still jiggle when you shake the pan — they carry over out of the oven, and overcooked yolks are the only way to miss here.",
+        "Scatter feta and more parsley over the top. Serve straight from the pan with warm pita for scooping."
       ]
     },
     {
@@ -59,6 +206,49 @@
       "active": "30 min",
       "weeks": [
         "Mon 8/17"
+      ],
+      "blurb": "Salmon crusted in homemade Cajun spice and hard-seared until the crust goes dark, with zucchini sautéed in the spiced butter left in the pan.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Cajun seasoning (double batch — this is the whole mix)",
+          "items": [
+            "4 tsp smoked paprika",
+            "2 tsp dried thyme",
+            "2 tsp dried oregano",
+            "1 tsp ground cumin",
+            "1/2 tsp cayenne",
+            "1 tsp garlic powder",
+            "1 tsp onion powder",
+            "1/2 tsp freshly cracked black pepper",
+            "1/2 tsp salt"
+          ]
+        },
+        {
+          "group": "Salmon + zucchini",
+          "items": [
+            "2 1/4 lb salmon, skin removed, cut into 5 portions (~7 oz each)",
+            "3 Tbsp butter",
+            "1 1/2 Tbsp cooking oil",
+            "2 1/2 lb zucchini (about 5 medium), sliced into half-rounds",
+            "2 lemons, cut into wedges"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "About 4 cups of Monday's cooked jasmine rice"
+          ]
+        }
+      ],
+      "directions": [
+        "Stir all the Cajun seasoning spices together in a small bowl.",
+        "Cut the salmon into 5 equal portions and coat generously on all sides with the seasoning. Use all of it — a thin dusting will not blacken.",
+        "Slice the zucchini into half-rounds and set aside.",
+        "Reheat Monday's rice: 4 cups into a saucepan with a splash of water, covered, low heat, ~8 min. Or microwave covered.",
+        "Heat the butter and oil in a large skillet over medium-high until foaming. Add the salmon — work in two batches so the pieces are not crowded, or the crust steams instead of searing. Cook 5-7 min per side, until a dark crust forms and the center hits 145°F.",
+        "Move the salmon to a plate. Add the zucchini to the same skillet and sauté in the residual spiced butter until tender, 5-6 min. Scrape up the browned bits — that is where the flavor is.",
+        "Serve immediately over the rice with lemon wedges. Squeeze the lemon; it is what makes the blackening taste like something instead of just hot."
       ]
     },
     {
@@ -72,6 +262,48 @@
       "weeks": [
         "Mon 8/24",
         "Mon 8/17"
+      ],
+      "blurb": "Everything good about a bánh mì sandwich, in a bowl: crisped pork over jasmine rice with sweet-sour pickled carrot and cabbage, cool cucumber, a fistful of cilantro and sriracha mayo.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Quick pickle (make ahead)",
+          "items": [
+            "3 carrots, shredded",
+            "1 small yellow onion, sliced thin",
+            "About 2 cups shredded green cabbage (the quarter head left from Monday)",
+            "1/2 cup rice vinegar",
+            "1/4 cup white sugar",
+            "1/2 tsp salt",
+            "1/2 cup water"
+          ]
+        },
+        {
+          "group": "Bowls",
+          "items": [
+            "~2 lb pulled pork reserved from Monday",
+            "About 6 cups cooked jasmine rice from Monday's pot",
+            "1 English cucumber, quartered lengthwise and sliced",
+            "2 jalapeños, sliced thin — ON THE SIDE",
+            "1/2 bunch cilantro, leaves pulled from the stems"
+          ]
+        },
+        {
+          "group": "Sriracha mayo",
+          "items": [
+            "1/2 cup mayonnaise",
+            "2 Tbsp sriracha, plus more to taste"
+          ]
+        }
+      ],
+      "directions": [
+        "MAKE THE PICKLE AHEAD (Monday night, or at least 30 min before dinner): warm the rice vinegar, sugar, salt and water just until the sugar dissolves. Let it cool. Shred the carrots and cabbage, slice the onion thin, pack into a container, pour the liquid over so everything is submerged. Refrigerate — it only gets better through Thursday.",
+        "Reheat the rice: into a large saucepan with a splash of water, covered, low heat, ~10 min, fluffing once. Or microwave covered in two batches.",
+        "Crisp the pork — this is the step that makes it a new meal instead of leftovers. Heat a dry large skillet over medium-high. Spread the pork in a single layer and leave it alone 3–4 min until the underside browns and crackles, then toss and repeat once. Work in two batches; a crowded pan steams.",
+        "Stir the mayonnaise and sriracha together.",
+        "Prep the cold stuff: slice the cucumber into quarter-rounds, slice the jalapeños, pull the cilantro leaves.",
+        "Build: ~1 1/2 cups rice per bowl, a generous pile of crisped pork, 1/2 cup of the drained pickle, cucumber, a real handful of cilantro. Zigzag the sriracha mayo over the top.",
+        "Jalapeños and extra sriracha stay on the table so everyone dials their own heat."
       ]
     },
     {
@@ -84,6 +316,36 @@
       "active": "25 min",
       "weeks": [
         "Mon 8/17"
+      ],
+      "blurb": "Cherry tomatoes roasted until they burst, with zucchini and yellow squash, tossed through whole-grain pasta in a light goat cheese and lemon sauce. Italian chicken sausage added so it actually holds as a dinner.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Everything",
+          "items": [
+            "1 lb whole grain rotini, fusilli or penne",
+            "2 pints cherry tomatoes",
+            "3 medium yellow squash, quartered lengthwise and sliced into 1/4-inch wedges",
+            "2 medium zucchini, quartered lengthwise and sliced into 1/4-inch wedges",
+            "3 Tbsp olive oil",
+            "1 lb Italian chicken sausage (4 links)",
+            "3 Tbsp lemon juice (about 1 lemon)",
+            "3 Tbsp butter",
+            "4 oz goat cheese, crumbled",
+            "2 small cloves garlic, pressed or minced",
+            "Generous pinch red pepper flakes — ON THE SIDE for the kids' portions",
+            "1/4 cup fresh basil, chopped",
+            "Salt and freshly ground black pepper"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 400°F and line a large baking sheet with parchment. Toss the cherry tomatoes, zucchini and yellow squash with the olive oil, salt and pepper. Spread in a single layer — use two sheets if it looks crowded, because piled vegetables steam instead of roasting. Roast 25 min, stirring halfway, until the tomatoes burst and the squash is tender.",
+        "While that roasts, sear the sausage: brown the links in a skillet over medium, 10-12 min, turning, until cooked through. Rest 5 min, then slice into coins on the bias.",
+        "Boil a large pot of well-salted water and cook the pasta to al dente per the package. Reserve 1 cup of pasta water before draining, then return the pasta to the pot.",
+        "While the pasta is still hot, add the lemon juice, butter, goat cheese, garlic and a pinch of red pepper flakes. Add 1/4 cup of the reserved pasta water and toss gently until everything is coated and glossy. Add more pasta water a splash at a time if it looks tight — the goat cheese is the sauce, so it needs the starch water to loosen.",
+        "Add the roasted vegetables and every drop of the juices from the pan, plus the sliced sausage. Toss gently. Taste and correct the salt and pepper.",
+        "Top with the chopped basil and serve immediately. Extra red pepper flakes and grated parmesan on the table."
       ]
     },
     {
@@ -97,6 +359,53 @@
       "weeks": [
         "Mon 8/17",
         "Mon 8/24"
+      ],
+      "blurb": "Slow-roasted pork shoulder with a sweet-smoky bark, pulled into a tangy cider mop and piled on rolls with crunchy cabbage-carrot slaw.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Pork (already rubbed and in the fridge)",
+          "items": [
+            "6 lb boneless pork shoulder (Boston butt), rubbed 8/23",
+            "Rub already applied: kosher salt, brown sugar, smoked paprika, chipotle powder"
+          ]
+        },
+        {
+          "group": "Mop sauce",
+          "items": [
+            "1 1/2 cups cider vinegar",
+            "1/3 cup ketchup",
+            "3 Tbsp brown sugar",
+            "1 1/2 tsp ground black pepper",
+            "1/2 cup water"
+          ]
+        },
+        {
+          "group": "Slaw",
+          "items": [
+            "3/4 head green cabbage, thinly sliced (save the last quarter for Tuesday)",
+            "2 carrots, shredded",
+            "1/3 cup mayonnaise, plus more to taste",
+            "Salt and pepper"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "8 sandwich rolls",
+            "Hot sauce on the side — keeps the roast itself mild for the kids"
+          ]
+        }
+      ],
+      "directions": [
+        "Make the mop: whisk the cider vinegar, ketchup, brown sugar, black pepper and 1/2 cup water until the sugar dissolves. Makes about 2 1/2 cups.",
+        "By 12:30 PM: heat oven to 300°F. Unwrap the pork, pour off any accumulated juices, set it in a roasting pan and put it in.",
+        "After the first hour, add 1/4 cup of mop to the pan juices and baste. Baste again every hour with whatever has collected in the pan. Roast about 5 hours (a 6 lb roast may want 5 1/2), until the meat collapses and yields easily to a fork.",
+        "Let it rest — it can sit at room temperature up to 1 1/2 hours. Shred with two forks, discarding the big chunks of fat. Pour up to 3/4 cup of mop over the shredded meat to season and moisten it.",
+        "↻ RESERVE NOW, BEFORE IT HITS THE TABLE: pull about 2 lb of the shredded pork into a container and refrigerate it. That is Tuesday's dinner and it will not survive the table if you leave it out.",
+        "Slaw: quarter, core and thinly slice about three quarters of the cabbage (save the rest for Tuesday's pickle). Toss with the shredded carrots and 1/3 cup of the mop, then mix in the mayonnaise. Salt and pepper to taste.",
+        "↻ ALSO TONIGHT, while the pork rests: cook 2 cups dry jasmine rice (2 cups rice + 3 cups water, covered, boil then 15 min low, then 15 min off-heat covered). Cool and refrigerate — that is Tuesday's bowl base.",
+        "Serve on rolls with slaw and the remaining mop. Hot sauce on the table."
       ]
     },
     {
@@ -109,6 +418,48 @@
       "active": "20 min",
       "weeks": [
         "Mon 8/24"
+      ],
+      "blurb": "White fish baked under a blanket of garlicky fire-roasted tomatoes so it cannot dry out, with broccoli roasted hard on a sheet pan and a bright lemon-parsley orzo alongside.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Fish",
+          "items": [
+            "2 lb white fish fillets — cod, grouper or pollock (eight 4 oz fillets)",
+            "2 (14.5 oz) cans fire-roasted diced tomatoes, drained well",
+            "4 cloves garlic, minced",
+            "2 Tbsp olive oil",
+            "1 tsp dried oregano",
+            "1/2 tsp salt + freshly cracked pepper",
+            "1 Tbsp lemon juice"
+          ]
+        },
+        {
+          "group": "Broccoli",
+          "items": [
+            "2 lb broccoli crowns, cut into florets",
+            "2 Tbsp olive oil, salt and pepper"
+          ]
+        },
+        {
+          "group": "Lemon-parsley orzo",
+          "items": [
+            "1 1/2 cups dry orzo",
+            "2 Tbsp butter",
+            "Juice of 1 lemon",
+            "1 bunch flat-leaf parsley, chopped",
+            "Salt and pepper"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 400°F. Put a large pot of salted water on for the orzo.",
+        "Drain the tomatoes well — wet tomatoes make watery fish. Stir them together with the garlic, 2 Tbsp olive oil, oregano, 1/2 tsp salt, about 10 cranks of pepper and 1 Tbsp lemon juice.",
+        "Spread a third of the tomato mixture across the bottom of a 9x13 baking dish. Lay the fish fillets on it in a single layer, not overlapping. Spoon the rest of the tomatoes over the top so the fish is completely covered.",
+        "Cut the broccoli into florets and toss with 2 Tbsp olive oil, salt and pepper on a sheet pan. Spread them out cut-side down — that is where the char comes from.",
+        "Both go in: fish on the middle rack, broccoli on the upper rack. 15–18 min — fish flakes and reads 145°F, broccoli charred at the edges and still firm at the stem.",
+        "Meanwhile boil the orzo 8–9 min, drain, and toss while hot with the butter, the juice of 1 lemon, most of the chopped parsley, and salt and pepper to taste.",
+        "Scatter the last of the parsley over the fish. Lemon wedges and red pepper flakes on the table."
       ]
     },
     {
@@ -121,6 +472,57 @@
       "active": "25 min",
       "weeks": [
         "Mon 8/24"
+      ],
+      "blurb": "Yogurt-and-garam-masala marinated chicken thighs roasted hard on two sheet pans with cauliflower and Yukon potatoes, finished with cucumber raita, lemon-pickled red onion and cilantro.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chicken + marinade",
+          "items": [
+            "3 lb bone-in, skin-on chicken thighs (about 8)",
+            "1 knob fresh ginger, ~2 in, peeled and minced (about 2 Tbsp)",
+            "6 cloves garlic, minced",
+            "1 jalapeño, seeded and minced",
+            "3/4 cup plain whole-milk yogurt",
+            "1 1/2 tsp kosher salt",
+            "1/4 tsp chili powder or cayenne (kept mild on purpose)",
+            "3/4 tsp ground turmeric",
+            "3/4 tsp ground cumin",
+            "1 tsp granulated sugar",
+            "1 1/2 tsp paprika",
+            "1 1/2 tsp garam masala"
+          ]
+        },
+        {
+          "group": "Vegetables",
+          "items": [
+            "3 Tbsp olive oil",
+            "1 1/2 lb Yukon Gold potatoes, cut in 3/4-in chunks",
+            "2 lb cauliflower, 3/4-in florets",
+            "3/4 tsp kosher salt",
+            "1 tsp cumin seeds"
+          ]
+        },
+        {
+          "group": "Cucumber raita + finish",
+          "items": [
+            "3/4 cup plain whole-milk yogurt",
+            "1 English cucumber, grated and squeezed dry",
+            "2 Tbsp chopped cilantro, 1/4 tsp ground cumin, pinch salt, squeeze of lemon",
+            "1/2 red onion, sliced into thin rings",
+            "3 lemons (2 for wedges, 1 for the onion and raita)",
+            "1/3 cup chopped cilantro"
+          ]
+        }
+      ],
+      "directions": [
+        "Ahead (15 min to 24 hr): mince the ginger, garlic and jalapeño. Whisk into 3/4 cup yogurt with the salt, chili powder, turmeric, cumin, sugar, paprika and garam masala. Coat the chicken thoroughly and refrigerate.",
+        "Heat the oven to 425°F. Line two half-sheet pans with foil and rub each with 1 Tbsp olive oil.",
+        "Toss the potatoes and cauliflower with the remaining oil, 3/4 tsp salt and the cumin seeds. Divide between the two pans in a single layer — crowding is what keeps them from browning.",
+        "Lift the chicken out of the marinade, letting the excess drip off, and nestle the pieces skin-side up among the vegetables.",
+        "Roast 20 min. Toss the vegetables, swap the pans top-to-bottom, and roast 15–20 min more (35–40 total) — chicken 175°F at the bone, vegetables browned at the edges.",
+        "While it roasts: separate the red onion into rings and toss with a squeeze of lemon and a pinch of salt. Grate the cucumber, wring it out in a towel, and stir into 3/4 cup yogurt with the cilantro, cumin, salt and lemon.",
+        "Serve straight from the pans: raita, pickled onion rings, chopped cilantro, lemon wedges. Cayenne or hot sauce on the table for whoever wants it."
       ]
     },
     {
@@ -133,6 +535,44 @@
       "active": "30 min",
       "weeks": [
         "Mon 8/31"
+      ],
+      "blurb": "Thin-sliced sirloin seared hard, broccoli steamed bright in the same pan, tossed with rice noodles in a soy-ginger-chili sauce. Thirty minutes, one wok, everything chopped before the heat goes on. Built on the ad's thin-sliced sirloin tip steak at $9.99/lb.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Sauce",
+          "items": [
+            "5 Tbsp soy sauce",
+            "1 1/2 Tbsp water",
+            "1 1/2 Tbsp brown sugar",
+            "1 Tbsp chili garlic sauce (plus more at the table)",
+            "1 1/2 tsp toasted sesame oil"
+          ]
+        },
+        {
+          "group": "Stir fry",
+          "items": [
+            "12 oz rice noodles",
+            "1 1/2 lb thin-sliced sirloin tip steak, cut across the grain into bite-size strips",
+            "1 bunch broccoli, cut into small florets (the second of the two bunches)",
+            "2 carrots, grated",
+            "4-6 green onions, sliced — whites and greens kept separate",
+            "3 cloves garlic, minced",
+            "1 Tbsp grated fresh ginger",
+            "2 Tbsp vegetable oil",
+            "A handful of cilantro, from Monday's bunch"
+          ]
+        }
+      ],
+      "directions": [
+        "Cook the rice noodles per the package just to al dente. Drain, rinse under cool water so they don't glue together, and set aside.",
+        "Whisk the soy sauce, water, brown sugar, chili garlic sauce and sesame oil together. Set the bowl next to the stove.",
+        "Prep everything BEFORE the pan gets hot — this cooks too fast to chop as you go. Mince the garlic, grate the ginger and the carrots, slice the green onions into two piles (whites, greens), cut the broccoli into small florets, and slice the beef across the grain.",
+        "Heat 1 Tbsp oil in a large skillet or wok over medium-high until it shimmers. Sear the beef in TWO batches in a single layer — crowding it steams it grey. 1-2 minutes a side, just to brown; it finishes at the end. Move it to a plate with its juices.",
+        "Add the second Tbsp of oil, then the broccoli florets and 3 Tbsp water. Cover and steam 3 minutes, until bright green and barely tender.",
+        "Add the garlic, ginger and the white parts of the green onions. Stir-fry 1 minute. Add the grated carrot and go 1 minute more.",
+        "Add the noodles, the sauce, and the beef with everything on the plate. Toss until coated and the liquid is absorbed, about 2 minutes.",
+        "Off the heat. Top with the green onion tops and torn cilantro. Extra chili garlic sauce on the table."
       ]
     },
     {
@@ -145,6 +585,70 @@
       "active": "35 min",
       "weeks": [
         "Mon 8/31"
+      ],
+      "blurb": "Chicken breasts marinated in yogurt, honey and chimichurri, grilled hard and finished with more raw herb sauce, alongside crisp smoked-paprika potato wedges and a cold tomato-cucumber salad. Built on this week's anchor deal — Perdue boneless skinless chicken breasts, BOGO FREE.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chimichurri — DOUBLE BATCH, half of it is Tuesday's dinner",
+          "items": [
+            "2 cups packed Italian parsley leaves (about 1 large bunch)",
+            "1 cup packed cilantro leaves (about half a bunch — the rest goes to Thursday)",
+            "1 cup olive oil",
+            "1/2 cup red wine vinegar",
+            "6 garlic cloves, minced",
+            "2 tsp dried oregano",
+            "1 tsp ground cumin",
+            "1/2 tsp crushed red pepper (leave it out and pass it at the table for the kids)",
+            "1 tsp salt"
+          ]
+        },
+        {
+          "group": "Yogurt marinade",
+          "items": [
+            "1 cup plain Greek yogurt",
+            "1/4 cup honey",
+            "1/2 cup of the chimichurri",
+            "2 tsp salt",
+            "2 tsp freshly cracked black pepper"
+          ]
+        },
+        {
+          "group": "Chicken",
+          "items": [
+            "5 lb boneless skinless chicken breasts (both Perdue BOGO packs)",
+            "About 2.5 lb of that is tonight; the rest becomes Wednesday"
+          ]
+        },
+        {
+          "group": "Roasted potatoes",
+          "items": [
+            "3 lb russet potatoes, cut into wedges",
+            "3 Tbsp olive oil",
+            "1 1/2 tsp salt, 1 tsp black pepper, 1 tsp smoked paprika"
+          ]
+        },
+        {
+          "group": "Tomato-cucumber salad",
+          "items": [
+            "1 lb Campari tomatoes, quartered (ONE of the two packages)",
+            "1 pkg mini cucumbers, sliced (ONE of the two BOGO packages)",
+            "1/4 red onion, sliced paper thin",
+            "2 Tbsp olive oil, juice of 1/2 lemon, salt"
+          ]
+        }
+      ],
+      "directions": [
+        "SUNDAY NIGHT (or by 3 PM Monday) — make the chimichurri. Pick the parsley and cilantro leaves off the stems and mince them very fine. Mince the garlic. Stir everything together with the olive oil, red wine vinegar, oregano, cumin, red pepper and salt.",
+        "↻ SPLIT IT NOW: move half the chimichurri (about 1 cup) into a jar and put it in the back of the fridge. That is TUESDAY'S dinner. If it all gets eaten Monday, Tuesday is just plain rice.",
+        "Whisk 1/2 cup of the remaining chimichurri into the Greek yogurt and honey until smooth.",
+        "Pat all 5 lb of chicken dry. Pound any breast thicker than about an inch to even thickness. Season all over with the salt and pepper, drop into one or two gallon zip-top bags, pour the yogurt marinade in, seal, squish it around and refrigerate at least 2 hours (overnight is better).",
+        "MONDAY — heat the oven to 425°F. Toss the potato wedges with olive oil, salt, pepper and smoked paprika. Spread cut-side down on a sheet pan and roast 35-40 minutes, flipping once, until deeply browned and crisp.",
+        "Make the salad while the potatoes roast: quarter ONE package of tomatoes, slice ONE package of cucumbers, shave the red onion, toss with olive oil, lemon juice and salt. ↻ Leave the second package of each sealed in the fridge — that is Wednesday's salad.",
+        "Heat the grill to 375-400°F. Wipe most of the marinade off the chicken (the yogurt and honey will burn) and grill the FULL 5 lb — roughly 6-7 minutes a side, until 160°F. Breasts go fast and go dry fast: pull each piece when it hits temperature, not when the clock says so.",
+        "Rest the chicken 5 minutes under foil; it carries to 165°F.",
+        "↻ RESERVE NOW, BEFORE ANY OF IT REACHES THE TABLE: pull about 2 lb of the grilled chicken aside, chop it into small pieces, and refrigerate in a sealed container. That is Wednesday's quesadilla filling, and it will not survive dinner if you leave it out.",
+        "Slice the rest across the grain, spoon the reserved fresh chimichurri over the top, and serve with the potatoes and salad. Crushed red pepper on the side for whoever wants it."
       ]
     },
     {
@@ -157,6 +661,51 @@
       "active": "20 min",
       "weeks": [
         "Mon 8/31"
+      ],
+      "blurb": "Monday's grilled chimichurri chicken chopped into a creamy spinach-and-jack filling, folded into flour tortillas and griddled until crisp, with a cold tomato-cucumber salad on the side. No protein gets cooked tonight. Flour tortillas and shredded cheese are both BOGO this week.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Filling (uses Monday's chicken — nothing to cook)",
+          "items": [
+            "2 lb Monday's grilled chimichurri chicken, chopped small (already cooked, in the fridge)",
+            "4 cups fresh spinach, roughly chopped",
+            "8 oz shredded Monterey jack or Mexican-blend cheese",
+            "1 cup sour cream",
+            "1 1/2 tsp chili powder, 1/2 tsp cumin, 1/4 tsp garlic powder, 1/2 tsp salt"
+          ]
+        },
+        {
+          "group": "To assemble",
+          "items": [
+            "8 flour tortillas, 8-inch",
+            "1 Tbsp cooking oil for the pan"
+          ]
+        },
+        {
+          "group": "Side salad",
+          "items": [
+            "The reserved package of Campari tomatoes, quartered",
+            "The reserved package of mini cucumbers, sliced",
+            "1 bag lettuce shreds",
+            "2 Tbsp olive oil, juice of 1/2 lemon, salt"
+          ]
+        },
+        {
+          "group": "On the side",
+          "items": [
+            "Salsa",
+            "Pickled jalapeños — heat stays off the plate and on the table"
+          ]
+        }
+      ],
+      "directions": [
+        "Take the chopped chicken out of the fridge and toss it with the chili powder, cumin, garlic powder and salt. Monday's marinade already seasoned it, so this is a top-up, not a full seasoning — taste before you add more salt.",
+        "Roughly chop the spinach. In a large bowl, stir together the chicken, spinach, shredded cheese and sour cream until the filling holds together in a scoop.",
+        "Divide the filling among the 8 flour tortillas — about 3/4 cup each, spread over one half — and fold each one closed.",
+        "Wipe a large skillet or griddle with oil and set it over medium heat. Cook the quesadillas 3-5 minutes a side, until the tortillas are browned and crisp. Two or three at a time; hold the finished ones on a sheet pan in a 200°F oven so everyone eats hot.",
+        "Salad: quarter the reserved tomatoes, slice the reserved cucumbers, toss with the lettuce shreds, olive oil, lemon juice and salt.",
+        "Cut each quesadilla in half. Salsa and pickled jalapeños on the side."
       ]
     },
     {
@@ -169,6 +718,42 @@
       "active": "20 min",
       "weeks": [
         "Mon 8/31"
+      ],
+      "blurb": "Rice toasted in garlic butter, simmered in lemony broth, with two pounds of shrimp steamed right on top in the last five minutes — then Monday's leftover chimichurri spooned over at the table. One pan, one burner. Anchored on Publix shrimp, BOGO FREE.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "The pan",
+          "items": [
+            "2 lb raw peeled & deveined shrimp (both BOGO bags), thawed",
+            "2 cups long grain white rice",
+            "2 3/4 cups chicken broth",
+            "3/4 cup water",
+            "3 Tbsp butter",
+            "6 cloves garlic, minced",
+            "2 lemons — one juiced (about 3 Tbsp), one sliced for the table",
+            "1 1/2 tsp Tony Chachere's or other Cajun seasoning",
+            "3 Tbsp chopped parsley (from Monday's bunch)"
+          ]
+        },
+        {
+          "group": "To finish",
+          "items": [
+            "Monday's reserved chimichurri (about 1 cup, in the jar in the fridge)",
+            "Hot sauce on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Thaw the shrimp if they are still frozen — 10 minutes in a colander under cool running water does it. Pat them dry.",
+        "Juice one lemon (about 3 Tbsp) and slice the other for the table. Mince the garlic. Chop the parsley.",
+        "Melt the butter in a deep 12-inch skillet over medium heat. Add the garlic and sauté 1-2 minutes, until fragrant but not browned.",
+        "Add the rice and sauté 1-2 minutes more, stirring, until it snaps and crackles and smells toasty.",
+        "Add the broth, water, lemon juice, Cajun seasoning and parsley. Stir once to combine.",
+        "Cover, raise the heat to medium-high and bring to a full boil. Then drop to low and simmer, still covered, for 12 minutes.",
+        "Scatter all the shrimp over the surface of the rice in an even layer. Cover again and cook on low 5-6 minutes, until the shrimp are pink and opaque all the way through.",
+        "Off the heat, rest covered for 5 minutes. Fluff with a fork and stir the shrimp partway in.",
+        "↻ Spoon Monday's chimichurri over each bowl at the table — this is the point of the night. It turns a soft, mild lemon rice into something sharp and herby. Lemon slices and hot sauce on the side."
       ]
     }
   ]
