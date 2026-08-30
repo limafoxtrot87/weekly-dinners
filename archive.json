@@ -1,5 +1,5 @@
 {
-  "updated": "Aug 23, 2026 (revised)",
+  "updated": "Aug 30, 2026",
   "recipes": [
     {
       "id": "garlic-shrimp-orzo-skillet",
@@ -121,6 +121,54 @@
       "active": "25 min",
       "weeks": [
         "Mon 8/24"
+      ]
+    },
+    {
+      "id": "beef-broccoli-stir-fry-noodles",
+      "name": "Beef & Broccoli Stir-Fry Noodles",
+      "source": "https://www.budgetbytes.com/stir-fry-beef-noodles/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2016/01/Stir-Fry-Beef-Noodles-above.jpg",
+      "protein": "beef",
+      "mealType": "Pasta",
+      "active": "30 min",
+      "weeks": [
+        "Mon 8/31"
+      ]
+    },
+    {
+      "id": "chimichurri-grilled-chicken-roasted-potatoes-tomato-cucumber",
+      "name": "Chimichurri Grilled Chicken with Roasted Potatoes & Tomato-Cucumber Salad",
+      "source": "https://www.budgetbytes.com/chimichurri-grilled-chicken/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2026/05/Chimichurri-Grilled-Chicken-Front-Cut.jpg",
+      "protein": "chicken",
+      "mealType": "Sheet pan",
+      "active": "35 min",
+      "weeks": [
+        "Mon 8/31"
+      ]
+    },
+    {
+      "id": "creamy-chicken-spinach-quesadillas",
+      "name": "Creamy Chicken & Spinach Quesadillas (Monday's Chicken)",
+      "source": "https://www.budgetbytes.com/creamy-chicken-and-spinach-quesadillas/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2019/02/Creamy-Chicken-and-Spinach-Quesadillas-plated.jpg",
+      "protein": "chicken",
+      "mealType": "Other",
+      "active": "20 min",
+      "weeks": [
+        "Mon 8/31"
+      ]
+    },
+    {
+      "id": "one-pot-lemon-garlic-shrimp-rice-chimichurri",
+      "name": "One-Pot Lemon Garlic Shrimp & Rice with Monday's Chimichurri",
+      "source": "https://www.budgetbytes.com/one-pot-lemon-garlic-shrimp-and-rice/",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2021/06/Lemon-Garlic-Shrimp-and-Rice-pan.jpg",
+      "protein": "seafood",
+      "mealType": "Other",
+      "active": "20 min",
+      "weeks": [
+        "Mon 8/31"
       ]
     }
   ]
