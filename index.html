@@ -203,7 +203,8 @@
   }
   .rc-toggle:hover { background:var(--accent-wash); }
   .rc-toggle svg { width:15px; height:15px; transition:transform .25s ease; }
-  .rc[data-open="1"] .rc-toggle svg { transform:rotate(180deg); }
+  .rc[data-open="1"] .rc-toggle svg,
+  .card[data-open="1"] .rc-toggle svg { transform:rotate(180deg); }
 
   .detail { padding:4px 18px 22px; border-top:1px solid var(--line); }
   .detail[hidden] { display:none; }
@@ -577,6 +578,29 @@
                 (times > 1 ? "Made " + times + "×" : "Made once") + " · " + esc(r.weeks[r.weeks.length - 1]) +
                 "</span>" + (r.source ? '<a href="' + esc(r.source) + '" target="_blank" rel="noopener">Recipe</a>' : "") +
                 "</div></div>";
+        // THE RECIPE ITSELF. renderArc used to emit name + photo + chips + an
+        // outbound link and stop, so every past dinner was a card you could look
+        // at but not cook from. renderMenu has built this panel for the current
+        // week all along; the archive simply never did.
+        var adet = "";
+        if (r.ingredients && r.ingredients.length) {
+          adet += '<div class="h">Ingredients</div>';
+          r.ingredients.forEach(function (g) {
+            if (g.group) adet += '<div class="grp">' + esc(g.group) + "</div>";
+            adet += '<ul class="ing">' + (g.items || []).map(function (x) {
+              return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>";
+          });
+        }
+        if (r.directions && r.directions.length) {
+          adet += '<div class="h">Directions</div><ol class="steps">' +
+                  r.directions.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ol>";
+        }
+        if (adet) {
+          html += '<button class="rc-toggle" aria-expanded="false"><span>Ingredients &amp; directions</span>' +
+                  icon("i-chevron") + '</button>';
+          html += '<div class="detail" hidden>' + (r.blurb ? '<p class="blurb">' + esc(r.blurb) + "</p>" : "") +
+                  adet + "</div>";
+        }
         html += '<button class="star" data-id="' + esc(r.id) + '" aria-pressed="' + (on ? "true" : "false") +
                 '" aria-label="Favorite ' + esc(r.name) + '">' + icon("i-star") + "</button>";
         html += "</article>";
@@ -593,6 +617,16 @@
       b.addEventListener("click", function () {
         arcState[b.getAttribute("data-k")] = b.getAttribute("data-v");
         renderArc();
+      });
+    });
+    panelArc.querySelectorAll(".rc-toggle").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var card = b.closest(".card"), det = card.querySelector(".detail");
+        var open = det.hasAttribute("hidden");
+        if (open) { det.removeAttribute("hidden"); } else { det.setAttribute("hidden", ""); }
+        card.setAttribute("data-open", open ? "1" : "0");
+        b.setAttribute("aria-expanded", open ? "true" : "false");
+        b.querySelector("span").textContent = open ? "Hide details" : "Ingredients & directions";
       });
     });
     panelArc.querySelectorAll(".star").forEach(function (b) {
