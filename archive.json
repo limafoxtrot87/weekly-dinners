@@ -1,5 +1,5 @@
 {
-  "updated": "Sep 20, 2026",
+  "updated": "Sep 27, 2026",
   "recipes": [
     {
       "id": "garlic-shrimp-orzo-skillet",
@@ -969,6 +969,209 @@
       ],
       "weeks": [
         "Mon 9/21"
+      ]
+    },
+    {
+      "id": "crispy-pork-carnitas-tacos-lime-slaw-pickled-onions",
+      "name": "Crispy Pork Carnitas Tacos with Lime Slaw & Pickled Onions",
+      "source": "https://smittenkitchen.com/2011/11/homesick-texan-carnitas/",
+      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2011/11/homesick-texan-carnitas.jpg?fit=1200%2C800&quality=89&ssl=1",
+      "protein": "pork",
+      "mealType": "Tacos",
+      "active": "35 min",
+      "blurb": "Pork shoulder simmered in orange, lime, garlic and cumin until the liquid is gone, then fried in its own fat until the edges crunch. It goes into warm flour tortillas with a sharp cabbage-lime slaw, quick-pickled red onion and feta. Chosen for this week's anchor deal, Publix boneless pork Boston butt at $3.29/lb.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Carnitas (scaled up from 3 lb to 5 lb; Wednesday needs the surplus)",
+          "items": [
+            "5 lb boneless pork Boston butt, cut into 2-inch cubes (trim only the thickest fat caps; the fat is what fries it)",
+            "3/4 cup orange juice (2 navel oranges)",
+            "7 Tbsp lime juice (about 4 limes)",
+            "7 cloves garlic, peeled and crushed",
+            "1 3/4 tsp ground cumin",
+            "1 3/4 tsp kosher salt, plus more to taste",
+            "Water, just enough to barely cover the meat"
+          ]
+        },
+        {
+          "group": "Quick-pickled red onion",
+          "items": [
+            "1 red onion, sliced paper-thin",
+            "1/2 cup rice vinegar + 1/2 cup hot water",
+            "1 Tbsp sugar, 1 1/2 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "Slaw and to serve",
+          "items": [
+            "1/2 head green cabbage, finely shredded (the other half is Wednesday's)",
+            "1/2 bunch cilantro, chopped (the rest is Wednesday's)",
+            "2 limes: juice of 1 for the slaw, 1 cut into wedges",
+            "12-16 flour tortillas, taco size (Mission BOGO)",
+            "4 oz feta crumbles (one of the two packs)",
+            "Pickled jalapeños, on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Put the cubed pork in your largest Dutch oven or heavy pot (7 qt or bigger; split it between two pots if it's crowded). Add the orange juice, lime juice, crushed garlic, cumin, salt, and enough water to barely cover the meat.",
+        "Bring to a boil, then lower to a steady simmer. Simmer UNCOVERED for 2 hours. Don't stir or touch it.",
+        "Meanwhile, make the pickled onion: whisk the vinegar, hot water, sugar and salt in a jar until dissolved, add the sliced onion, press it under and leave it on the counter. It's ready in 30 minutes and keeps all week.",
+        "After 2 hours, turn the heat to medium-high and boil off the liquid, 45-60 minutes with 5 lb in the pot, stirring and turning the pieces now and then. When the liquid is gone, only rendered pork fat is left.",
+        "Let the pork sizzle in that fat until it's browned at the edges, turning gently only as needed; it will want to fall apart, which is fine. Taste and add salt.",
+        "↻ SET ASIDE 1 1/4 LB (about 4 packed cups) of the crisped pork in a container and refrigerate it NOW, before anyone serves themselves. That's Wednesday's Cuban sandwiches.",
+        "While the pork crisps: toss the shredded cabbage and half the cilantro with the juice of 1 lime and a big pinch of salt. Warm the tortillas in a dry skillet or wrapped in foil in a 300°F oven.",
+        "Serve the pork in the tortillas with slaw, pickled onion, feta, lime wedges and the pickled jalapeños on the side. Plan on 3-4 tacos for Paul."
+      ],
+      "weeks": [
+        "Mon 9/28"
+      ]
+    },
+    {
+      "id": "cuban-sandwiches-carnitas-cabbage-lime-slaw",
+      "name": "Cuban Sandwiches with Monday's Carnitas & Cabbage-Lime Slaw",
+      "source": "https://www.recipetineats.com/cuban-pork-sandwich-cubanos-from-chef-movie/",
+      "image": "https://www.recipetineats.com/tachyon/2015/04/Cuban-Sandwiches-Cubanos_side-view_680px.jpg",
+      "protein": "pork",
+      "mealType": "Sandwich",
+      "active": "25 min",
+      "blurb": "Tampa's own sandwich: Monday's orange-garlic pork, ham, Gruyère, pickles and mustard, pressed in a buttered skillet until the bread shatters. A big cold cabbage-carrot-cucumber slaw with lime and cilantro goes on the side. No protein is cooked tonight; it rides Monday's $3.29/lb pork plus two BOGO FREE deals, Greenfield uncured ham and Emmi Le Gruyère.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Sandwiches (6, cut from 2 loaves; Paul gets 2)",
+          "items": [
+            "2 loaves Publix Cuban bread, each cut into 3 lengths and split",
+            "1 1/4 lb of Monday's carnitas (set aside Monday)",
+            "8 oz sliced ham (Greenfield BOGO)",
+            "8 oz Gruyère, thinly sliced (most of the two Emmi packs)",
+            "Dill pickle sandwich slices, 3-4 per sandwich",
+            "Yellow mustard",
+            "About 4 Tbsp butter, melted"
+          ]
+        },
+        {
+          "group": "Cabbage-lime slaw",
+          "items": [
+            "1/2 head green cabbage, finely shredded (the other half of Monday's)",
+            "1 cup shredded carrot",
+            "1 cucumber, halved and thinly sliced",
+            "The rest of the cilantro, chopped",
+            "Juice of 2 limes, 2 Tbsp olive oil, 1/2 tsp kosher salt"
+          ]
+        }
+      ],
+      "directions": [
+        "Make the slaw first so it has a few minutes to soften: toss the cabbage, carrot, cucumber and cilantro with the lime juice, olive oil and salt. Taste and add salt if it needs it.",
+        "Heat a large skillet over medium heat. Warm and lightly brown Monday's pork and the ham slices, a couple of minutes per side, then move them to a plate.",
+        "Brush the cut sides of the bread with melted butter and toast them cut-side down in the skillet for about 2 minutes, until lightly golden. Work in batches.",
+        "Build the sandwiches: pork, then ham, then Gruyère and pickles on the bottom halves. Spread mustard on the top halves and close them up.",
+        "Brush the outside of each sandwich, top and bottom, with butter.",
+        "Turn the skillet to medium-high. Put in 2 sandwiches, lay a sheet of parchment on top and press them down with a heavy pot or a second skillet, weighted with cans if you need to. Cook 3 minutes a side, until golden and the cheese has melted. Repeat with the rest, keeping the finished ones on a rack in a 250°F oven.",
+        "Rest 1 minute, cut on the diagonal and serve with the slaw."
+      ],
+      "weeks": [
+        "Mon 9/28"
+      ]
+    },
+    {
+      "id": "fall-chicken-sheet-pan-butternut-squash-brussels-sprouts-fet",
+      "name": "Fall Chicken Sheet Pan with Butternut Squash, Brussels Sprouts & Feta",
+      "source": "https://www.skinnytaste.com/fall-chicken-sheet-pan-dinner/",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2026/08/Fall-Chicken-Feta-Sheet-Pan-Dinner-12.jpg",
+      "protein": "chicken",
+      "mealType": "Sheet pan",
+      "active": "20 min",
+      "blurb": "Chicken, butternut squash, Brussels sprouts and red onion roasted hot in smoked paprika, cumin and a pinch of cinnamon, then broiled under feta until it chars. Served over Tuesday's rice. Chosen for Perdue boneless skinless chicken breasts at $4.49/lb; the squash ($1.29/lb) and Brussels sprouts (2 for $5) are on the ad too.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Spice mix (1.5x the recipe)",
+          "items": [
+            "2 1/4 tsp smoked paprika",
+            "2 1/4 tsp ground cumin",
+            "1 1/2 tsp garlic powder",
+            "1 1/2 tsp onion powder",
+            "3/4 tsp ground cinnamon",
+            "2 1/4 tsp kosher salt"
+          ]
+        },
+        {
+          "group": "Sheet pan",
+          "items": [
+            "2 1/2 lb boneless skinless chicken breasts, cut into 1-inch pieces",
+            "1 medium butternut squash, peeled and diced small (about 3-4 cups)",
+            "2 pkg Brussels sprouts, trimmed and halved (about 4 cups)",
+            "1 red onion, cut into 1-inch pieces",
+            "2 1/2 Tbsp olive oil, divided",
+            "4 oz feta crumbles (the second pack)",
+            "About 6 cups of Tuesday's cooked jasmine rice, to serve"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 425°F with racks in the upper and lower thirds. Mix all the spices and the salt in a small bowl.",
+        "Microwave the whole squash for 2-3 minutes so it's easier to peel and cut, then peel and dice it small.",
+        "In a large bowl, toss the squash, Brussels sprouts and red onion with 1 1/2 Tbsp olive oil and half the spice mix. Spread them in an even layer across TWO rimmed sheet pans; one pan will steam instead of roast. Roast 10 minutes.",
+        "Meanwhile, toss the chicken pieces with the remaining 1 Tbsp olive oil and the rest of the spice mix.",
+        "Pull the pans, nestle the chicken in among the vegetables and roast another 18-20 minutes, swapping the pans halfway, until the chicken reaches 165°F and the squash is tender.",
+        "Scatter the feta over both pans and broil 2-3 minutes, one pan at a time, until it melts and chars at the edges. Watch it closely.",
+        "While it broils, reheat Tuesday's rice, covered, in the microwave with a splash of water. Serve the sheet pan over the rice."
+      ],
+      "weeks": [
+        "Mon 9/28"
+      ]
+    },
+    {
+      "id": "korean-beef-bowls-sesame-spinach",
+      "name": "Korean Beef Bowls with Sesame Spinach",
+      "source": "https://www.wellplated.com/korean-beef-bowl/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2020/03/Korean-Beef-Bowl.jpg",
+      "protein": "beef",
+      "mealType": "Bowl",
+      "active": "25 min",
+      "blurb": "Ground beef browned hard with scallions, garlic and a lot of fresh ginger, then glazed in soy, honey and rice vinegar. It goes over jasmine rice with sesame spinach, crisp cucumber and shredded carrot. Chosen for the Market ground beef 3-lb pack at $4.89/lb.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Beef (doubled from the 1-lb recipe so Paul is actually full)",
+          "items": [
+            "2 lb ground beef (from the 3-lb pack; freeze the last pound)",
+            "6 Tbsp low-sodium soy sauce, divided",
+            "2 bunches green onions, minced (about 2 1/2 cups), divided",
+            "2 Tbsp minced garlic (about 6 cloves)",
+            "1/4 cup rice vinegar",
+            "1/4 cup honey",
+            "1/4 cup minced or finely grated fresh ginger",
+            "1/4 tsp crushed red pepper flakes (more on the table)",
+            "2 Tbsp toasted sesame oil"
+          ]
+        },
+        {
+          "group": "Bowls",
+          "items": [
+            "4 cups dry jasmine rice, a DOUBLE batch (half is Thursday's)",
+            "9 oz spinach, plus 1 tsp sesame oil, 1 clove garlic and a pinch of salt",
+            "2 cucumbers, thinly sliced (the third is Wednesday's)",
+            "2 cups shredded carrot (about 3 carrots)",
+            "Toasted sesame seeds",
+            "Optional: a fried egg per bowl",
+            "Gochujang or sriracha, on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Start the rice: all 4 cups of jasmine rice, cooked per the bag. It's the only thing that takes longer than 20 minutes.",
+        "Brown the beef in your largest skillet over medium-high heat, breaking it into small pieces, about 6-8 minutes. Halfway through, add 2 Tbsp of the soy sauce and two-thirds of the green onions. The 3-lb pack isn't 93% lean like the recipe's, so spoon off the excess fat once it's browned. Stir in the garlic and cook 30 seconds.",
+        "In a small bowl, stir together the rice vinegar, honey, ginger, red pepper flakes and the remaining 4 Tbsp soy sauce.",
+        "Pour it over the beef and cook 2 minutes, stirring. Take it off the heat, stir in the 2 Tbsp sesame oil and scatter the rest of the green onions over it. Taste; add soy or more sesame oil if it wants it.",
+        "Spinach: in a second pan, warm 1 tsp sesame oil with the minced clove of garlic, pile in the spinach with a pinch of salt and toss 1-2 minutes until just wilted. Fry eggs now if you're doing them.",
+        "Build the bowls: rice, beef, spinach, cucumber and carrot, then sesame seeds. Gochujang or sriracha on the table.",
+        "↻ Spread the leftover rice (about 6 cups) on a sheet pan or wide container to cool fast, then cover and refrigerate. That's Thursday's base."
+      ],
+      "weeks": [
+        "Mon 9/28"
       ]
     }
   ]

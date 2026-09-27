@@ -1,94 +1,104 @@
 {
- "week": "Mon 9/21",
- "generated": "Sep 20, 2026",
+ "week": "Mon 9/28",
+ "generated": "Sep 27, 2026",
  "servings": 4,
  "store": "Publix",
- "reuse": "Anchored on this week's Publix FishHawk ad. Monday's lemon-garlic marinade gets split BEFORE the raw chicken touches it — 1/3 cup goes in a jar and becomes Tuesday's salad dressing. Tuesday roasts 3 lb of $4.99/lb pork tenderloin and cooks a DOUBLE batch of rice, and Wednesday's fried rice is built entirely on the cold leftovers: no protein cooked at all. The Campari tomatoes, the feta and the red onion each split Monday/Tuesday, and the two-bunch broccoli deal splits Wednesday/Thursday. Deals driving the menu: chicken breasts BOGO FREE, pork tenderloin $4.99/lb, Carando Italian sausage BOGO FREE, smoked gouda BOGO, Ben's rice BOGO. No corn, no beans — and the usual frozen peas are swapped out of the fried rice for broccoli.",
+ "reuse": "Anchored on this week's best-value Publix FishHawk proteins: boneless pork Boston butt at $3.29/lb, the 3-lb ground beef pack at $4.89/lb, and Perdue chicken breasts at $4.49/lb. Monday simmers 5 lb of the pork into carnitas and sets aside 1 1/4 lb before anyone eats. That pork becomes Wednesday's pressed Cuban sandwiches, with no protein to cook that night, just ham and Gruyère from two BOGO packs. Tuesday cooks a DOUBLE pot of jasmine rice and Thursday's sheet pan goes over the second half. One head of cabbage splits between Monday's taco slaw and Wednesday's side slaw. The cilantro and limes span the same two nights, carrots and cucumbers split Tue/Wed, the 2-for-$7 feta packs split Mon/Thu, and the two red onions split Mon/Thu. No corn and no beans anywhere, and the flour tortillas replace the corn ones the carnitas recipe suggests.",
  "sections": [
   {
    "name": "Produce",
    "items": [
     {
-     "text": "2 pkg Campari tomatoes, 1 lb each",
+     "text": "1 medium head green cabbage",
      "tags": [
       "Mon",
-      "Tue"
+      "Wed"
      ],
-     "flag": "BOGO FREE — one pack roasts Monday, one is Tuesday's salad"
+     "flag": "Half is Monday's taco slaw, half is Wednesday's side slaw"
     },
     {
-     "text": "2 pkg baby seedless cucumbers, 16 oz",
-     "tags": [
-      "Tue"
-     ],
-     "flag": "BOGO FREE — Tuesday needs 2 cucumbers; the rest are lunch snacks"
-    },
-    {
-     "text": "4 bell peppers (3 any color for Mon, 1 red for Wed)",
+     "text": "1 bunch cilantro",
      "tags": [
       "Mon",
       "Wed"
      ]
     },
     {
-     "text": "2 bunches broccoli",
-     "tags": [
-      "Wed",
-      "Thu"
-     ],
-     "flag": "2 for $6 — cut 1 cup of florets off for Wednesday, the rest is Thursday"
-    },
-    {
-     "text": "1 large red onion",
+     "text": "7 limes",
      "tags": [
       "Mon",
-      "Tue"
+      "Wed"
      ],
-     "flag": "Half roasts Monday, half goes raw and paper-thin into Tuesday's salad"
+     "flag": "4 get juiced into the carnitas pot. Don't come home with 3"
     },
     {
-     "text": "1 bunch green onions",
+     "text": "1 bag navel oranges, 6-pk",
      "tags": [
-      "Wed"
-     ]
+      "Mon"
+     ],
+     "flag": "$5.99. Two get juiced for the carnitas; the other four are lunchbox fruit"
     },
     {
-     "text": "2 carrots",
-     "tags": [
-      "Wed"
-     ]
-    },
-    {
-     "text": "1 knob fresh ginger",
-     "tags": [
-      "Wed"
-     ]
-    },
-    {
-     "text": "3 lemons",
+     "text": "2 red onions",
      "tags": [
       "Mon",
       "Thu"
      ],
-     "flag": "Monday's marinade takes two of them, zest and all"
+     "flag": "One gets quick-pickled Monday, one roasts Thursday"
     },
     {
      "text": "2 heads garlic",
      "tags": [
       "Mon",
-      "Tue",
-      "Wed",
-      "Thu"
-     ],
-     "flag": "Monday alone is 8 cloves — one head won't cover the week"
+      "Tue"
+     ]
     },
     {
-     "text": "1 bunch flat-leaf (Italian) parsley",
+     "text": "1 large knob fresh ginger (about 4 inches)",
      "tags": [
-      "Mon",
-      "Tue",
-      "Thu"
+      "Tue"
      ]
+    },
+    {
+     "text": "2 bunches green onions",
+     "tags": [
+      "Tue"
+     ]
+    },
+    {
+     "text": "1 bag Publix spinach, 9 oz",
+     "tags": [
+      "Tue"
+     ],
+     "flag": "$1.49 on the ad"
+    },
+    {
+     "text": "3 cucumbers (English or 6 mini)",
+     "tags": [
+      "Tue",
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 lb bag carrots",
+     "tags": [
+      "Tue",
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 medium butternut squash (about 2 1/2 lb)",
+     "tags": [
+      "Thu"
+     ],
+     "flag": "Fall hard squash $1.29/lb"
+    },
+    {
+     "text": "2 pkg Brussels sprouts",
+     "tags": [
+      "Thu"
+     ],
+     "flag": "2 for $5. Thursday uses both"
     }
    ]
   },
@@ -96,11 +106,11 @@
    "name": "Bakery",
    "items": [
     {
-     "text": "2 pkg Bfree pita bread",
+     "text": "2 loaves Publix Cuban bread",
      "tags": [
-      "Mon"
+      "Wed"
      ],
-     "flag": "BOGO FREE — stone baked or high protein, it's in the deli bread section not the bread aisle"
+     "flag": "Buy Monday or Tuesday if you can; a Sunday loaf is stale by Wednesday"
     }
    ]
   },
@@ -108,11 +118,18 @@
    "name": "Deli",
    "items": [
     {
-     "text": "1 pkg Red Apple smoked gouda",
+     "text": "1 pkg Greenfield Smoke uncured ham, quarter sliced, 20 oz",
      "tags": [
-      "Thu"
+      "Wed"
      ],
-     "flag": "BOGO FREE — specialty cheese case; this is what makes Thursday's pasta taste like more than pasta"
+     "flag": "BOGO FREE. Wednesday uses about 8 oz; the free pack covers lunches"
+    },
+    {
+     "text": "2 pkg Emmi Le Gruyère, 5.3 oz",
+     "tags": [
+      "Wed"
+     ],
+     "flag": "BOGO FREE, specialty cheese case. Stands in for the Swiss on the Cubanos"
     }
    ]
   },
@@ -120,26 +137,26 @@
    "name": "Meat & Seafood",
    "items": [
     {
-     "text": "2 pkg Publix boneless skinless chicken breasts, 4 lb or more each",
+     "text": "5 lb Publix boneless pork Boston butt roast",
      "tags": [
-      "Mon"
-     ],
-     "flag": "BOGO FREE — THE ANCHOR DEAL of the week. Monday cooks 3 lb; the rest goes straight in the freezer."
-    },
-    {
-     "text": "3 lb Publix extra lean pork loin tenderloins (2 tenderloins)",
-     "tags": [
-      "Tue",
+      "Mon",
       "Wed"
      ],
-     "flag": "$4.99/lb — cheapest fresh protein in the whole ad. Buy the full 3 lb; Wednesday depends on it."
+     "flag": "$3.29/lb, the best-value protein in the ad. Monday cooks all 5 lb; Wednesday's sandwiches are 1 1/4 lb of it"
     },
     {
-     "text": "2 pkg Carando Italian sausage, 16 oz each",
+     "text": "1 pkg Market ground beef, 3-lb+",
+     "tags": [
+      "Tue"
+     ],
+     "flag": "$4.89/lb in the 3-lb pack. Tuesday uses 2 lb; freeze the rest"
+    },
+    {
+     "text": "2 1/2 lb Perdue boneless skinless chicken breasts",
      "tags": [
       "Thu"
      ],
-     "flag": "BOGO FREE — Thursday uses 1 1/2 packs, freeze the other half"
+     "flag": "$4.49/lb, cheaper than the Publix-brand fillets at $5.49"
     }
    ]
   },
@@ -147,26 +164,19 @@
    "name": "Dairy & Eggs",
    "items": [
     {
-     "text": "2 pkg Président feta cheese, 8 oz each",
+     "text": "2 pkg GreenWise organic feta crumbles, 4 oz",
      "tags": [
       "Mon",
-      "Tue"
-     ],
-     "flag": "BOGO FREE — half a pack Monday, half a pack Tuesday"
-    },
-    {
-     "text": "1 dozen eggs",
-     "tags": [
-      "Wed"
-     ],
-     "flag": "Wednesday takes 5"
-    },
-    {
-     "text": "1 bag Sargento shredded parmesan or Italian blend, 5-8 oz",
-     "tags": [
       "Thu"
      ],
-     "flag": "BOGO FREE"
+     "flag": "2 for $7. One pack per night"
+    },
+    {
+     "text": "Eggs, if you're under 6 at home",
+     "tags": [
+      "Tue"
+     ],
+     "flag": "A fried egg on each bowl is optional but bumps the protein"
     }
    ]
   },
@@ -174,101 +184,126 @@
    "name": "Center Aisles",
    "items": [
     {
-     "text": "1 bag Ben's Original long grain white rice, 5 lb",
+     "text": "2 pkg Mission flour tortillas, taco size",
      "tags": [
-      "Tue",
-      "Wed"
+      "Mon"
      ],
-     "flag": "BOGO FREE — Tuesday cooks a double batch out of it"
+     "flag": "BOGO FREE. Flour, NOT corn; the recipe page suggests corn and that's out"
     },
     {
-     "text": "12 oz bow tie (farfalle) pasta",
+     "text": "1 bag Mahatma jasmine rice, 2 lb",
      "tags": [
+      "Tue",
       "Thu"
+     ],
+     "flag": "$2.49. Tuesday cooks a double batch for both nights"
+    },
+    {
+     "text": "1 jar dill pickle sandwich slices",
+     "tags": [
+      "Wed"
      ]
     },
     {
-     "text": "1 ctn Swanson chicken broth, 32 oz",
+     "text": "1 jar pickled jalapeños",
+     "tags": [
+      "Mon"
+     ],
+     "flag": "Heat on the side, for whoever wants it"
+    },
+    {
+     "text": "Gochujang or sriracha",
      "tags": [
       "Tue"
      ],
-     "flag": "BOGO FREE — the pan sauce needs 1 1/2 cups"
-    },
-    {
-     "text": "1 jar kalamata olives",
-     "tags": [
-      "Mon"
-     ]
-    },
-    {
-     "text": "1 bottle Pompeian or Bertolli olive oil",
-     "tags": [
-      "Mon",
-      "Tue",
-      "Thu"
-     ],
-     "flag": "BOGO FREE — Monday's marinade alone is 1/2 cup, so check what's left at home first"
+     "flag": "Heat on the side. Skip it if there's sriracha in the fridge"
     }
    ]
   }
  ],
- "pantryTitle": "Probably have — check before you leave",
+ "pantryTitle": "Probably have. Check before you leave",
  "pantry": [
   {
-   "text": "Dijon mustard",
+   "text": "Low-sodium soy sauce",
    "tags": [
     "Tue"
    ],
-   "flag": "Monday night's marinade takes 4 Tbsp and the pan sauce another 1 1/2 — a nearly-empty jar won't make it"
+   "flag": "6 Tbsp"
   },
   {
-   "text": "Soy sauce",
+   "text": "Rice vinegar",
    "tags": [
-    "Tue",
-    "Wed"
+    "Mon",
+    "Tue"
    ],
-   "flag": "About 7 Tbsp across the two nights"
+   "flag": "About 3/4 cup: 1/2 cup for Monday's pickled onions, 1/4 cup for Tuesday"
+  },
+  {
+   "text": "Honey",
+   "tags": [
+    "Tue"
+   ],
+   "flag": "1/4 cup"
   },
   {
    "text": "Toasted sesame oil",
    "tags": [
-    "Wed"
-   ],
-   "flag": "3 Tbsp"
-  },
-  {
-   "text": "Cooking oil (canola or vegetable)",
-   "tags": [
-    "Wed"
+    "Tue"
    ]
   },
   {
-   "text": "Brown sugar",
+   "text": "Toasted sesame seeds",
    "tags": [
     "Tue"
+   ]
+  },
+  {
+   "text": "Yellow mustard",
+   "tags": [
+    "Wed"
    ]
   },
   {
    "text": "Butter",
    "tags": [
-    "Tue"
+    "Wed"
    ]
   },
   {
-   "text": "Dried oregano",
+   "text": "Olive oil",
+   "tags": [
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "text": "Sugar",
    "tags": [
     "Mon"
    ]
   },
   {
-   "text": "Crushed red pepper flakes",
+   "text": "Ground cumin",
    "tags": [
+    "Mon",
     "Thu"
    ],
-   "flag": "1/4 tsp in the pan, the jar on the table for whoever wants it"
+   "flag": "About 5 tsp across the two nights"
   },
   {
-   "text": "Salt and black pepper",
+   "text": "Smoked paprika, garlic powder, onion powder, ground cinnamon",
+   "tags": [
+    "Thu"
+   ]
+  },
+  {
+   "text": "Crushed red pepper flakes",
+   "tags": [
+    "Tue"
+   ]
+  },
+  {
+   "text": "Kosher salt and black pepper",
    "tags": [
     "Mon",
     "Tue",
@@ -280,214 +315,210 @@
  "dinners": [
   {
    "day": "Mon",
-   "name": "Sheet Pan Greek Chicken & Vegetables",
-   "blurb": "Chicken breast and a whole sheet pan of peppers, tomatoes and red onion roasted in a lemon-garlic-oregano marinade, finished with kalamata olives, feta and lemon zest, scooped up with warm pita. Built on this week's anchor deal — Publix boneless skinless chicken breasts, BOGO FREE.",
+   "name": "Crispy Pork Carnitas Tacos with Lime Slaw & Pickled Onions",
+   "protein": "pork",
+   "mealType": "Tacos",
+   "blurb": "Pork shoulder simmered in orange, lime, garlic and cumin until the liquid is gone, then fried in its own fat until the edges crunch. It goes into warm flour tortillas with a sharp cabbage-lime slaw, quick-pickled red onion and feta. Chosen for this week's anchor deal, Publix boneless pork Boston butt at $3.29/lb.",
    "serves": 4,
-   "active": "25 min",
-   "total": "1 hr",
-   "warn": "Split the marinade into the jar BEFORE the raw chicken goes anywhere near the bowl. Tuesday's salad dressing comes out of it, and once it's touched chicken it's gone.",
+   "active": "35 min",
+   "total": "3 hr 15 min",
+   "warn": "START BY 2:45 PM. It's 3+ hours, almost all of it hands-off. Or cook it Sunday after shopping: it holds, and Monday becomes a 10-minute re-crisp in a hot skillet. Either way, 1 1/4 lb of pork gets set aside for Wednesday BEFORE serving.",
    "ingredients": [
     {
-     "group": "Lemon-garlic marinade — makes extra on purpose",
+     "group": "Carnitas (scaled up from 3 lb to 5 lb; Wednesday needs the surplus)",
      "items": [
-      "1/2 cup olive oil (Pompeian/Bertolli BOGO)",
-      "2 lemons — zest one, juice both (about 1/2 cup juice)",
-      "8 cloves garlic, minced",
-      "1 Tbsp dried oregano",
-      "1 tsp salt",
-      "20 cranks freshly cracked black pepper"
+      "5 lb boneless pork Boston butt, cut into 2-inch cubes (trim only the thickest fat caps; the fat is what fries it)",
+      "3/4 cup orange juice (2 navel oranges)",
+      "7 Tbsp lime juice (about 4 limes)",
+      "7 cloves garlic, peeled and crushed",
+      "1 3/4 tsp ground cumin",
+      "1 3/4 tsp kosher salt, plus more to taste",
+      "Water, just enough to barely cover the meat"
      ]
     },
     {
-     "group": "Chicken and vegetables",
+     "group": "Quick-pickled red onion",
      "items": [
-      "3 lb boneless skinless chicken breast (out of the BOGO pack — freeze the rest)",
-      "1 lb Campari tomatoes, halved (ONE of the two BOGO packs)",
-      "3 bell peppers, cut in 1-1.5 inch pieces",
-      "1/2 large red onion, cut in 1-1.5 inch pieces (the other half is Tuesday's salad)"
+      "1 red onion, sliced paper-thin",
+      "1/2 cup rice vinegar + 1/2 cup hot water",
+      "1 Tbsp sugar, 1 1/2 tsp kosher salt"
      ]
     },
     {
-     "group": "To finish and serve",
+     "group": "Slaw and to serve",
      "items": [
-      "1/2 cup kalamata olives, halved",
-      "4 oz crumbled feta (half the 8-oz Président BOGO pack)",
-      "A good handful of flat-leaf parsley, chopped",
-      "4 pitas, warmed (Bfree BOGO)"
+      "1/2 head green cabbage, finely shredded (the other half is Wednesday's)",
+      "1/2 bunch cilantro, chopped (the rest is Wednesday's)",
+      "2 limes: juice of 1 for the slaw, 1 cut into wedges",
+      "12-16 flour tortillas, taco size (Mission BOGO)",
+      "4 oz feta crumbles (one of the two packs)",
+      "Pickled jalapeños, on the side"
      ]
     }
    ],
    "directions": [
-    "Heat the oven to 400°F. Zest one lemon into a small bowl and set that zest aside — it goes on at the very end, not into the marinade. Juice both lemons, about 1/2 cup.",
-    "↻ Whisk the olive oil, lemon juice, garlic, oregano, salt and pepper together. POUR 1/3 CUP INTO A JAR NOW and put it in the fridge. That is Tuesday's salad dressing, and this is the only moment you can take it — raw chicken goes in this bowl next.",
-    "Cut the bell peppers and half the red onion into 1-1.5 inch pieces and halve the Campari tomatoes. Spread them on a large rimmed sheet pan — use two pans if it looks crowded, because crowded vegetables steam instead of roast. Toss with about half of the marinade that's left. Roast 10 minutes.",
-    "While that goes: pound the chicken breasts to an even 1/2-3/4 inch thick and cut each one into two pieces. Toss them in a shallow dish with the rest of the marinade.",
-    "Pull the pan out, stir the vegetables, and push them to the edges to open up the middle. Lay the chicken in the center. Back in the oven for 20-25 minutes, until the thickest piece reads 165°F.",
-    "Worth the extra five minutes: broil 3-5 minutes at the end for color and a few charred edges.",
-    "Scatter the olives, feta, reserved lemon zest and parsley over the whole pan. Warm the pitas and serve straight off the sheet. Whatever chicken is left makes good lunches.",
-    "↻ BEFORE BED — marinate Tuesday's pork. It needs 2 hours minimum and overnight is better. Whisk 4 Tbsp dijon, 4 Tbsp soy sauce, 4 Tbsp olive oil, 2 Tbsp brown sugar, 2 minced garlic cloves and plenty of black pepper; pour it over the 3 lb of tenderloin in a zip-top bag and refrigerate."
+    "Put the cubed pork in your largest Dutch oven or heavy pot (7 qt or bigger; split it between two pots if it's crowded). Add the orange juice, lime juice, crushed garlic, cumin, salt, and enough water to barely cover the meat.",
+    "Bring to a boil, then lower to a steady simmer. Simmer UNCOVERED for 2 hours. Don't stir or touch it.",
+    "Meanwhile, make the pickled onion: whisk the vinegar, hot water, sugar and salt in a jar until dissolved, add the sliced onion, press it under and leave it on the counter. It's ready in 30 minutes and keeps all week.",
+    "After 2 hours, turn the heat to medium-high and boil off the liquid, 45-60 minutes with 5 lb in the pot, stirring and turning the pieces now and then. When the liquid is gone, only rendered pork fat is left.",
+    "Let the pork sizzle in that fat until it's browned at the edges, turning gently only as needed; it will want to fall apart, which is fine. Taste and add salt.",
+    "↻ SET ASIDE 1 1/4 LB (about 4 packed cups) of the crisped pork in a container and refrigerate it NOW, before anyone serves themselves. That's Wednesday's Cuban sandwiches.",
+    "While the pork crisps: toss the shredded cabbage and half the cilantro with the juice of 1 lime and a big pinch of salt. Warm the tortillas in a dry skillet or wrapped in foil in a 300°F oven.",
+    "Serve the pork in the tortillas with slaw, pickled onion, feta, lime wedges and the pickled jalapeños on the side. Plan on 3-4 tacos for Paul."
    ],
-   "reuse": "1/3 cup of the marinade is set aside raw and becomes Tuesday's salad dressing. Half the red onion, half the feta and the second pack of BOGO tomatoes also carry to Tuesday. Last job of the night: get Tuesday's pork into its marinade.",
-   "source": "https://www.budgetbytes.com/sheet-pan-greek-chicken-and-vegetables/",
-   "image": "https://www.budgetbytes.com/wp-content/uploads/2018/12/Sheet-Pan-Greek-Chicken-and-Vegetables-spatula.jpg",
-   "alt": "Sheet pan of roasted Greek chicken with peppers, tomatoes, olives and feta"
+   "reuse": "Hands 1 1/4 lb of pork to Wednesday's Cubanos. The other half of the cabbage and the cilantro go to Wednesday's slaw, the second red onion to Thursday, and the second feta pack to Thursday. Leftover pickled onion is good on Tuesday's bowls.",
+   "source": "https://smittenkitchen.com/2011/11/homesick-texan-carnitas/",
+   "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2011/11/homesick-texan-carnitas.jpg?fit=1200%2C800&quality=89&ssl=1",
+   "alt": "Crispy browned pork carnitas pieces in a cast-iron pot"
   },
   {
    "day": "Tue",
-   "name": "Soy-Dijon Pork Tenderloin, Rice & Tomato-Cucumber-Feta Salad",
-   "blurb": "Two tenderloins marinated overnight in dijon and soy, seared hard and roasted, sliced over rice with a reduced pan sauce, next to a cold tomato-cucumber-feta salad dressed with Monday's reserved lemon-garlic oil. Chosen for the best per-pound protein deal in the ad — Publix extra lean pork loin tenderloins at $4.99/lb.",
-   "serves": 4,
-   "active": "25 min",
-   "total": "55 min (plus the overnight marinade, started Monday)",
-   "warn": "The rice is a DOUBLE batch and about half the pork gets set aside — Wednesday cooks no protein at all and depends on both. Cool the rice fast and get it in the fridge tonight; warm rice makes gummy fried rice.",
-   "ingredients": [
-    {
-     "group": "Pork — marinated Monday night",
-     "items": [
-      "3 lb pork tenderloin, 2 tenderloins ($4.99/lb this week)",
-      "4 Tbsp dijon mustard",
-      "4 Tbsp soy sauce",
-      "4 Tbsp olive oil for the marinade, plus 2 Tbsp for the pan",
-      "2 Tbsp brown sugar",
-      "2 cloves garlic, minced",
-      "Plenty of freshly cracked black pepper"
-     ]
-    },
-    {
-     "group": "Pan sauce",
-     "items": [
-      "1 1/2 Tbsp butter",
-      "1 1/2 Tbsp dijon mustard",
-      "1 1/2 Tbsp brown sugar",
-      "1 1/2 cups chicken broth (Swanson BOGO)"
-     ]
-    },
-    {
-     "group": "Rice — DOUBLE BATCH",
-     "items": [
-      "2 1/2 cups dry long-grain white rice (Ben's Original BOGO)",
-      "5 cups water",
-      "1 tsp salt"
-     ]
-    },
-    {
-     "group": "Tomato-cucumber-feta salad",
-     "items": [
-      "1 lb Campari tomatoes, quartered (the second BOGO pack)",
-      "2 baby seedless cucumbers, sliced",
-      "1/2 red onion, sliced paper-thin (Monday's other half)",
-      "4 oz feta, crumbled (the rest of the BOGO pack)",
-      "Monday's reserved 1/3 cup lemon-garlic dressing, out of the jar",
-      "Chopped parsley"
-     ]
-    }
-   ],
-   "directions": [
-    "Heat the oven to 400°F. Start the rice: 2 1/2 cups dry rice, 5 cups water, 1 tsp salt. Bring to a boil, cover, drop to low for 18 minutes, then off the heat and left covered 5 more. ↻ This is deliberately double — Wednesday needs 4 cups of it cold.",
-    "Lift the pork out of the bag and wipe the excess marinade off it so it sears instead of steams. If you want a deeper sauce, reserve 1/4 cup of the marinade.",
-    "Heat 2 Tbsp olive oil in a large oven-safe skillet over medium. Sear the tenderloins about 5 minutes a side until properly browned — one at a time if both won't fit without crowding.",
-    "Move the pork to a foil-lined sheet pan and roast 25-30 minutes, until the center reads 145°F.",
-    "While it roasts, build the pan sauce in the same skillet: melt the butter, whisk in the dijon and brown sugar (or the reserved marinade), pour in the broth, and simmer over medium, whisking now and then, until it's reduced by half — 15-20 minutes.",
-    "Salad: quarter the tomatoes, slice the cucumbers, and cut the red onion as thin as you can get it. Toss with the reserved lemon-garlic dressing, the feta and the parsley. Let it sit while the pork rests — the onion mellows and the tomatoes let go of some juice.",
-    "Rest the pork a full 10 minutes, then slice into 1/2-inch medallions. Plate over rice with the pan sauce spooned across, salad alongside.",
-    "↻ BEFORE YOU SIT DOWN: set aside about half the sliced pork (roughly 1 lb) and 4 cups of the rice. Spread the rice on a sheet pan or plate so it cools fast, then refrigerate both covered. That is Wednesday's entire dinner, and cold day-old rice is exactly what fried rice needs."
-   ],
-   "reuse": "Takes Monday's reserved lemon-garlic dressing, Monday's other half red onion, the second pack of BOGO Campari tomatoes and the rest of the BOGO feta. Hands forward about 1 lb of cooked pork and 4 cups of cooked rice to Wednesday.",
-   "source": "https://www.budgetbytes.com/soy-dijon-pork-tenderloin/",
-   "image": "https://www.budgetbytes.com/wp-content/uploads/2012/11/Soy-Dijon-PorkTloin-board.jpg",
-   "alt": "Sliced soy-dijon pork tenderloin medallions on a cutting board"
-  },
-  {
-   "day": "Wed",
-   "name": "Pork Fried Rice (Tuesday's pork, Tuesday's rice)",
-   "blurb": "The fastest night of the week and the cheapest: Tuesday's cold rice and cold roast pork hit a hot pan with egg, carrot, pepper, broccoli, ginger and garlic. No new protein bought, no protein cooked. Adapted from Budget Bytes' chicken fried rice — same method, Tuesday's already-cooked pork folded in at the end, and broccoli in place of the frozen peas.",
-   "serves": 4,
-   "active": "20 min",
-   "total": "20 min",
-   "warn": "Prep every single thing before the pan gets hot. Once it's going there is no time to go chop a carrot.",
-   "ingredients": [
-    {
-     "group": "From Tuesday",
-     "items": [
-      "4 cups cooked rice, cold from the fridge",
-      "About 1 lb cooked pork tenderloin, diced 1/2 inch"
-     ]
-    },
-    {
-     "group": "Tonight",
-     "items": [
-      "5 large eggs, whisked",
-      "2 carrots, diced small",
-      "1 red bell pepper, diced",
-      "1 cup small broccoli florets (cut off one of the 2-for-$6 bunches)",
-      "4 green onions, sliced, white ends and green tops kept separate",
-      "3 cloves garlic, minced",
-      "1 Tbsp grated fresh ginger",
-      "3 Tbsp cooking oil, divided",
-      "3 Tbsp toasted sesame oil",
-      "4 Tbsp soy sauce"
-     ]
-    }
-   ],
-   "directions": [
-    "Prep first, cook second. Dice the carrots, bell pepper and pork; cut the broccoli into small florets; slice the green onions and keep the white ends apart from the green tops; mince the garlic and grate the ginger.",
-    "Whisk the eggs. Heat a large nonstick skillet or wok over medium with 2 Tbsp of the cooking oil. Scramble the eggs gently until just set and slide them out onto a plate.",
-    "Turn the heat up to medium-high. Carrots first, 2 minutes. Then the bell pepper, broccoli and the white ends of the green onions, 2-3 minutes more, until the broccoli is bright green and barely tender. Move it all onto the plate with the eggs.",
-    "Add the last 1 Tbsp of oil. Garlic and ginger for 30 seconds, then the cold rice. Press it flat into the pan and leave it alone for a minute before stirring — that's where the toasted bits come from. About 3 minutes total.",
-    "Pour the soy sauce and toasted sesame oil over the rice and stir until the color is even.",
-    "Turn the heat OFF, then fold the pork, eggs and vegetables back in. The residual heat is enough to warm the pork through — it's already cooked, and anything more dries it out.",
-    "Taste and add soy sauce if it needs it. Green onion tops over the top. Sriracha or chili crisp on the table for whoever wants heat."
-   ],
-   "reuse": "This meal is the payoff. It buys no protein and cooks none — it runs on Tuesday's 1 lb of $4.99/lb pork and 4 cups of BOGO rice, plus a cup of broccoli off Thursday's bunches.",
-   "source": "https://www.budgetbytes.com/chicken-fried-rice/",
-   "image": "https://www.budgetbytes.com/wp-content/uploads/2024/02/Chicken-Fried-Rice-Plated.jpg",
-   "alt": "Fried rice with egg, carrot, pepper and green onion on a plate"
-  },
-  {
-   "day": "Thu",
-   "name": "Italian Sausage & Broccoli Pasta",
-   "blurb": "No sauce — just farfalle, browned Italian sausage and a pile of fresh broccoli tossed in garlicky chili oil, with smoked gouda melted through it and a hard squeeze of lemon at the table. Chosen off two deals at once: Carando Italian sausage BOGO FREE and Red Apple smoked gouda BOGO FREE.",
+   "name": "Korean Beef Bowls with Sesame Spinach",
+   "protein": "beef",
+   "mealType": "Bowl",
+   "blurb": "Ground beef browned hard with scallions, garlic and a lot of fresh ginger, then glazed in soy, honey and rice vinegar. It goes over jasmine rice with sesame spinach, crisp cucumber and shredded carrot. Chosen for the Market ground beef 3-lb pack at $4.89/lb.",
    "serves": 4,
    "active": "25 min",
    "total": "30 min",
-   "warn": "Scaled up hard from the original, which is 8 light servings. This is 4 real ones: three times the sausage and fresh broccoli instead of frozen.",
+   "warn": "Cook the FULL 4 cups of rice. Half of it is Thursday's.",
    "ingredients": [
     {
-     "group": "Pasta and sausage",
+     "group": "Beef (doubled from the 1-lb recipe so Paul is actually full)",
      "items": [
-      "12 oz bow tie (farfalle) pasta",
-      "1 1/2 lb Italian sausage, casings removed (1 1/2 of the two BOGO packs)",
-      "3 Tbsp olive oil",
-      "4 cloves garlic, minced",
-      "1/4 tsp crushed red pepper in the pan — the jar goes on the table"
+      "2 lb ground beef (from the 3-lb pack; freeze the last pound)",
+      "6 Tbsp low-sodium soy sauce, divided",
+      "2 bunches green onions, minced (about 2 1/2 cups), divided",
+      "2 Tbsp minced garlic (about 6 cloves)",
+      "1/4 cup rice vinegar",
+      "1/4 cup honey",
+      "1/4 cup minced or finely grated fresh ginger",
+      "1/4 tsp crushed red pepper flakes (more on the table)",
+      "2 Tbsp toasted sesame oil"
      ]
     },
     {
-     "group": "Vegetables and cheese",
+     "group": "Bowls",
      "items": [
-      "2 bunches broccoli cut into florets, minus the cup Wednesday took (about 1 1/4 lb)",
-      "3 oz smoked gouda, grated (Red Apple BOGO)",
-      "2 oz shredded parmesan or Italian blend",
-      "Salt and black pepper to taste",
-      "1 lemon, cut into wedges",
-      "Chopped parsley"
+      "4 cups dry jasmine rice, a DOUBLE batch (half is Thursday's)",
+      "9 oz spinach, plus 1 tsp sesame oil, 1 clove garlic and a pinch of salt",
+      "2 cucumbers, thinly sliced (the third is Wednesday's)",
+      "2 cups shredded carrot (about 3 carrots)",
+      "Toasted sesame seeds",
+      "Optional: a fried egg per bowl",
+      "Gochujang or sriracha, on the side"
      ]
     }
    ],
    "directions": [
-    "Bring a large pot of well-salted water to a boil and cook the farfalle to al dente, 7-10 minutes. ↻ Before you drain it, dip out 1 cup of the pasta water.",
-    "While the water heats, mince the garlic and cut the broccoli into bite-sized florets.",
-    "Heat the olive oil in a large skillet over medium. Garlic for 1-2 minutes, until it smells like something but hasn't browned, then the 1/4 tsp crushed red pepper for another 30 seconds.",
-    "Squeeze the sausage out of its casings into the skillet. Break it up with a spatula and cook until browned through, 8-10 minutes.",
-    "Add the broccoli, toss it in the sausage fat, and cook 4-5 minutes until it's tender with a little color on it. Fresh broccoli takes longer than the frozen the original recipe uses — give it the time.",
-    "Add the drained pasta to the skillet with a splash of the pasta water and toss until every piece is coated in the garlic oil. More pasta water, a splash at a time, if it looks dry.",
-    "Off the heat, stir in the smoked gouda and the parmesan so they melt into the pasta rather than seizing. Salt and pepper to taste.",
-    "Parsley over the top. Lemon wedges and the red pepper jar on the table — the squeeze of lemon is what keeps this from tasting heavy, so don't skip it."
+    "Start the rice: all 4 cups of jasmine rice, cooked per the bag. It's the only thing that takes longer than 20 minutes.",
+    "Brown the beef in your largest skillet over medium-high heat, breaking it into small pieces, about 6-8 minutes. Halfway through, add 2 Tbsp of the soy sauce and two-thirds of the green onions. The 3-lb pack isn't 93% lean like the recipe's, so spoon off the excess fat once it's browned. Stir in the garlic and cook 30 seconds.",
+    "In a small bowl, stir together the rice vinegar, honey, ginger, red pepper flakes and the remaining 4 Tbsp soy sauce.",
+    "Pour it over the beef and cook 2 minutes, stirring. Take it off the heat, stir in the 2 Tbsp sesame oil and scatter the rest of the green onions over it. Taste; add soy or more sesame oil if it wants it.",
+    "Spinach: in a second pan, warm 1 tsp sesame oil with the minced clove of garlic, pile in the spinach with a pinch of salt and toss 1-2 minutes until just wilted. Fry eggs now if you're doing them.",
+    "Build the bowls: rice, beef, spinach, cucumber and carrot, then sesame seeds. Gochujang or sriracha on the table.",
+    "↻ Spread the leftover rice (about 6 cups) on a sheet pan or wide container to cool fast, then cover and refrigerate. That's Thursday's base."
    ],
-   "reuse": "Finishes the two-bunch broccoli deal that Wednesday opened, and the last of the parsley and garlic from Monday.",
-   "source": "https://www.budgetbytes.com/spicy-sausage-broccoli-pasta/",
-   "image": "https://www.budgetbytes.com/wp-content/uploads/2012/02/Broccoli-Sausage-11.jpg",
-   "alt": "Bow tie pasta with Italian sausage and broccoli in a skillet"
+   "reuse": "The double rice batch goes to Thursday. The cucumbers and carrots are shared with Wednesday's slaw, and Monday's leftover pickled onion goes well here.",
+   "source": "https://www.wellplated.com/korean-beef-bowl/",
+   "image": "https://www.wellplated.com/wp-content/uploads/2020/03/Korean-Beef-Bowl.jpg",
+   "alt": "Korean ground beef over rice with carrots, cucumber and green onions"
+  },
+  {
+   "day": "Wed",
+   "name": "Cuban Sandwiches with Monday's Carnitas & Cabbage-Lime Slaw",
+   "protein": "pork",
+   "mealType": "Sandwich",
+   "blurb": "Tampa's own sandwich: Monday's orange-garlic pork, ham, Gruyère, pickles and mustard, pressed in a buttered skillet until the bread shatters. A big cold cabbage-carrot-cucumber slaw with lime and cilantro goes on the side. No protein is cooked tonight; it rides Monday's $3.29/lb pork plus two BOGO FREE deals, Greenfield uncured ham and Emmi Le Gruyère.",
+   "serves": 4,
+   "active": "25 min",
+   "total": "30 min",
+   "warn": "",
+   "ingredients": [
+    {
+     "group": "Sandwiches (6, cut from 2 loaves; Paul gets 2)",
+     "items": [
+      "2 loaves Publix Cuban bread, each cut into 3 lengths and split",
+      "1 1/4 lb of Monday's carnitas (set aside Monday)",
+      "8 oz sliced ham (Greenfield BOGO)",
+      "8 oz Gruyère, thinly sliced (most of the two Emmi packs)",
+      "Dill pickle sandwich slices, 3-4 per sandwich",
+      "Yellow mustard",
+      "About 4 Tbsp butter, melted"
+     ]
+    },
+    {
+     "group": "Cabbage-lime slaw",
+     "items": [
+      "1/2 head green cabbage, finely shredded (the other half of Monday's)",
+      "1 cup shredded carrot",
+      "1 cucumber, halved and thinly sliced",
+      "The rest of the cilantro, chopped",
+      "Juice of 2 limes, 2 Tbsp olive oil, 1/2 tsp kosher salt"
+     ]
+    }
+   ],
+   "directions": [
+    "Make the slaw first so it has a few minutes to soften: toss the cabbage, carrot, cucumber and cilantro with the lime juice, olive oil and salt. Taste and add salt if it needs it.",
+    "Heat a large skillet over medium heat. Warm and lightly brown Monday's pork and the ham slices, a couple of minutes per side, then move them to a plate.",
+    "Brush the cut sides of the bread with melted butter and toast them cut-side down in the skillet for about 2 minutes, until lightly golden. Work in batches.",
+    "Build the sandwiches: pork, then ham, then Gruyère and pickles on the bottom halves. Spread mustard on the top halves and close them up.",
+    "Brush the outside of each sandwich, top and bottom, with butter.",
+    "Turn the skillet to medium-high. Put in 2 sandwiches, lay a sheet of parchment on top and press them down with a heavy pot or a second skillet, weighted with cans if you need to. Cook 3 minutes a side, until golden and the cheese has melted. Repeat with the rest, keeping the finished ones on a rack in a 250°F oven.",
+    "Rest 1 minute, cut on the diagonal and serve with the slaw."
+   ],
+   "reuse": "Built entirely on Monday's surplus pork, plus the second half of Monday's cabbage and cilantro and the last of Tuesday's cucumbers and carrots.",
+   "source": "https://www.recipetineats.com/cuban-pork-sandwich-cubanos-from-chef-movie/",
+   "image": "https://www.recipetineats.com/tachyon/2015/04/Cuban-Sandwiches-Cubanos_side-view_680px.jpg",
+   "alt": "Pressed Cuban sandwiches with pork, ham, melted cheese and pickles"
+  },
+  {
+   "day": "Thu",
+   "name": "Fall Chicken Sheet Pan with Butternut Squash, Brussels Sprouts & Feta",
+   "protein": "chicken",
+   "mealType": "Sheet pan",
+   "blurb": "Chicken, butternut squash, Brussels sprouts and red onion roasted hot in smoked paprika, cumin and a pinch of cinnamon, then broiled under feta until it chars. Served over Tuesday's rice. Chosen for Perdue boneless skinless chicken breasts at $4.49/lb; the squash ($1.29/lb) and Brussels sprouts (2 for $5) are on the ad too.",
+   "serves": 4,
+   "active": "20 min",
+   "total": "55 min",
+   "warn": "The recipe is written for thighs. With breasts, the vegetables go in 10 minutes AHEAD of the chicken so the chicken doesn't dry out.",
+   "ingredients": [
+    {
+     "group": "Spice mix (1.5x the recipe)",
+     "items": [
+      "2 1/4 tsp smoked paprika",
+      "2 1/4 tsp ground cumin",
+      "1 1/2 tsp garlic powder",
+      "1 1/2 tsp onion powder",
+      "3/4 tsp ground cinnamon",
+      "2 1/4 tsp kosher salt"
+     ]
+    },
+    {
+     "group": "Sheet pan",
+     "items": [
+      "2 1/2 lb boneless skinless chicken breasts, cut into 1-inch pieces",
+      "1 medium butternut squash, peeled and diced small (about 3-4 cups)",
+      "2 pkg Brussels sprouts, trimmed and halved (about 4 cups)",
+      "1 red onion, cut into 1-inch pieces",
+      "2 1/2 Tbsp olive oil, divided",
+      "4 oz feta crumbles (the second pack)",
+      "About 6 cups of Tuesday's cooked jasmine rice, to serve"
+     ]
+    }
+   ],
+   "directions": [
+    "Heat the oven to 425°F with racks in the upper and lower thirds. Mix all the spices and the salt in a small bowl.",
+    "Microwave the whole squash for 2-3 minutes so it's easier to peel and cut, then peel and dice it small.",
+    "In a large bowl, toss the squash, Brussels sprouts and red onion with 1 1/2 Tbsp olive oil and half the spice mix. Spread them in an even layer across TWO rimmed sheet pans; one pan will steam instead of roast. Roast 10 minutes.",
+    "Meanwhile, toss the chicken pieces with the remaining 1 Tbsp olive oil and the rest of the spice mix.",
+    "Pull the pans, nestle the chicken in among the vegetables and roast another 18-20 minutes, swapping the pans halfway, until the chicken reaches 165°F and the squash is tender.",
+    "Scatter the feta over both pans and broil 2-3 minutes, one pan at a time, until it melts and chars at the edges. Watch it closely.",
+    "While it broils, reheat Tuesday's rice, covered, in the microwave with a splash of water. Serve the sheet pan over the rice."
+   ],
+   "reuse": "Sits on Tuesday's double rice batch. It uses the second red onion and the second feta pack.",
+   "source": "https://www.skinnytaste.com/fall-chicken-sheet-pan-dinner/",
+   "image": "https://www.skinnytaste.com/wp-content/uploads/2026/08/Fall-Chicken-Feta-Sheet-Pan-Dinner-12.jpg",
+   "alt": "Sheet pan of roasted chicken, butternut squash and Brussels sprouts topped with charred feta"
   }
  ]
 }
