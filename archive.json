@@ -1,6 +1,228 @@
 {
-  "updated": "Sep 27, 2026",
+  "updated": "Oct 4, 2026",
   "recipes": [
+    {
+      "id": "chicken-shawarma-wraps-lemon-yogurt-sauce",
+      "name": "Chicken Shawarma Wraps with Lemon Yogurt Sauce",
+      "source": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/",
+      "image": "https://www.recipetineats.com/tachyon/2017/01/Chicken-Shawarma-Wrap_3.jpg",
+      "protein": "chicken",
+      "mealType": "Wraps",
+      "active": "30 min",
+      "blurb": "Thin chicken cutlets marinated in cardamom, cumin, coriander, smoked paprika and lemon, seared hard until charred. They're wrapped in warm pita with garlicky lemon yogurt, spinach, Campari tomatoes, cucumber, red onion and feta. Chosen for this week's anchor deal: Springer Mountain Farms chicken breasts, BOGO FREE.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chicken and marinade (scaled 1.5x and switched from thighs to breasts, per the recipe's own note)",
+          "items": [
+            "3 lb boneless skinless chicken breasts (the first Springer pack)",
+            "2 cloves garlic, minced",
+            "1 1/2 Tbsp ground coriander",
+            "1 1/2 Tbsp ground cumin",
+            "1 1/2 Tbsp ground cardamom",
+            "1/2 tsp cayenne (the recipe's 1 1/2 tsp, dialed down for the kids; hot sauce on the side)",
+            "1 Tbsp smoked paprika",
+            "1 Tbsp kosher salt + black pepper",
+            "3 Tbsp lemon juice (about 1 1/2 lemons)",
+            "4 1/2 Tbsp olive oil"
+          ]
+        },
+        {
+          "group": "Lemon yogurt sauce (TRIPLE batch: 1 cup is Tuesday's)",
+          "items": [
+            "3 cups plain Greek yogurt",
+            "3/4 tsp finely grated garlic (about 1 1/2 cloves)",
+            "3 Tbsp lemon juice (about 1 1/2 lemons)",
+            "3 Tbsp olive oil",
+            "3/4 tsp kosher salt, pinch of pepper"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "8-10 pitas or naan",
+            "1 bag (6 oz) baby spinach (the other bag is Wednesday's)",
+            "1 pkg Campari tomatoes, sliced (the other pack is Tuesday's)",
+            "1 English cucumber, sliced",
+            "1 red onion, sliced paper-thin",
+            "1 pkg (4 oz) crumbled feta (the other is Tuesday's)",
+            "Hot sauce, on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "MORNING (or Sunday night): cut each chicken breast in half horizontally into thin steaks no thicker than 1/2 inch (1 cm). Pound any thick spots lightly.",
+        "Mix the garlic, coriander, cumin, cardamom, cayenne, paprika, salt, pepper, lemon juice and olive oil in a large zip-top bag. Add the chicken, massage to coat, and refrigerate at least 3 hours and up to 24.",
+        "Make the sauce: stir together the yogurt, grated garlic, lemon juice, olive oil, salt and pepper. Thin with a spoonful of water if it's stiff. ↻ Spoon 1 CUP into a jar, label it TUESDAY and refrigerate it. It keeps 3 days. Let the rest sit at least 20 minutes.",
+        "Slice the tomatoes, cucumber and red onion. Set out the spinach, feta and hot sauce.",
+        "Heat a large skillet or grill pan on HIGH with a thin slick of oil. Cook the chicken in batches without crowding, about 2 minutes per side, until deeply golden and cooked through (165°F). Thin breast cutlets dry out fast, so don't go longer.",
+        "Rest the chicken 5 minutes, then slice into strips.",
+        "Warm the pitas in a dry skillet, or wrapped in foil in a 300°F oven for 10 minutes.",
+        "Build the wraps: a swipe of yogurt sauce, spinach, tomato, cucumber, onion, chicken, then feta. Hot sauce on the side. Plan on 3 wraps for Paul."
+      ],
+      "weeks": [
+        "Mon 10/5"
+      ]
+    },
+    {
+      "id": "pork-chops-apples-onions-sage-rice-roasted-broccoli",
+      "name": "Pork Chops with Apples & Onions, Sage Rice & Roasted Broccoli",
+      "source": "https://www.wellplated.com/pork-chops-with-apples/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2023/10/Pork-Chops-with-Apples-Recipe.jpg",
+      "protein": "pork",
+      "mealType": "Skillet",
+      "active": "30 min",
+      "blurb": "Flour-dusted pork chops seared golden, then simmered in a buttery Dijon pan sauce with sliced apples, onions and fresh sage. They're served over Wednesday's rice, reheated with butter and sage, with charred lemony broccoli. Chosen for Publix assorted pork loin chops, BOGO FREE (8 per pack: cook one, freeze one), with Sweetango apples, also BOGO.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Pork and apples (chops doubled to 8, sauce scaled 1.5x)",
+          "items": [
+            "8 pork loin chops, at least 3/4 inch thick (one BOGO pack; freeze the free one)",
+            "1/3 cup all-purpose flour",
+            "1 1/2 tsp kosher salt, divided; 3/4 tsp black pepper, divided",
+            "3 Tbsp olive or neutral oil",
+            "3 Tbsp unsalted butter",
+            "3 Sweetango apples, thinly sliced, peels on",
+            "1 1/2 sweet onions, thinly sliced",
+            "1 Tbsp Dijon mustard",
+            "1 1/2 cups low-sodium chicken broth",
+            "1 1/2 Tbsp chopped fresh sage, plus more to serve"
+          ]
+        },
+        {
+          "group": "Sides",
+          "items": [
+            "Wednesday's reserved rice + 1 Tbsp butter + 1 tsp chopped sage",
+            "1 bunch broccoli, cut into florets, + 2 Tbsp olive oil + 1/2 tsp salt + 1 lemon"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 425°F. Toss the broccoli with 2 Tbsp olive oil and 1/2 tsp salt on a sheet pan and roast 18-22 minutes, until the edges char. It's hands-off while you do the chops.",
+        "Pat the chops dry. In a shallow dish, whisk the flour with 3/4 tsp salt and a scant 1/2 tsp pepper.",
+        "Heat 1 1/2 Tbsp oil in a 12-inch skillet over medium-high. Dredge 4 chops in the flour, shake off the excess, and sear 2-3 minutes per side until browned but not cooked through. Move them to a plate. Repeat with the remaining oil and chops.",
+        "Lower the heat to medium-low. Melt the butter, then add the apples, onions and the remaining salt and pepper. Cook 5 minutes, stirring often, until the apples just turn tender. Stir in the Dijon.",
+        "Slowly pour in the broth, stirring and scraping up the browned bits. Simmer 3 minutes.",
+        "Stir in the sage. Return the chops and their juices to the pan, overlapping is fine, and simmer until they reach 135°F, 2-5 minutes. Check boneless or thin chops early. Rest 5 minutes off the heat.",
+        "Meanwhile, reheat Wednesday's rice: microwave it covered with 2 Tbsp water for 3-4 minutes, stirring halfway. Stir in 1 Tbsp butter, 1 tsp chopped sage and a pinch of salt.",
+        "Squeeze the lemon over the broccoli. Serve the chops over the rice, spooning the apples, onions and pan sauce on top, with broccoli alongside. 2 chops for Paul."
+      ],
+      "weeks": [
+        "Mon 10/5"
+      ]
+    },
+    {
+      "id": "steak-fajitas-lime-cilantro-crema-campari-pico",
+      "name": "Steak Fajitas with Lime-Cilantro Crema & Campari Pico",
+      "source": "https://www.wellplated.com/beef-fajitas/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2026/08/Healthy-Beef-Fajitas.jpg",
+      "protein": "beef",
+      "mealType": "Skillet",
+      "active": "30 min",
+      "blurb": "Cumin, coriander and lime-zest rubbed sirloin seared in cast iron and sliced thin. It comes with caramelized peppers and onions, warm flour tortillas, a fresh tomato pico, feta and Monday's yogurt sauce turned into a lime crema. Chosen for Publix boneless top sirloin at $6.99/lb, the best-value steak in the ad, swapped in for the recipe's flank ($15.99/lb this week).",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Steak and marinade (scaled from 1 1/2 lb to 2 1/2 lb)",
+          "items": [
+            "2 1/2 lb boneless top sirloin steak, about 1 inch thick",
+            "3 1/2 tsp ground cumin (plus 3/4 tsp for the vegetables)",
+            "1 1/2 tsp chili powder (plus 3/4 tsp for the vegetables)",
+            "1/2 tsp chipotle chile powder (the recipe uses more; kept mild for the kids)",
+            "1 1/2 tsp ground coriander",
+            "1 1/2 tsp kosher salt (plus 3/4 tsp for the vegetables)",
+            "3 limes: zest and juice (about 1/3 cup juice)",
+            "2 Tbsp olive oil for the marinade + 2 Tbsp for cooking",
+            "1 1/2 Tbsp Worcestershire sauce",
+            "2 tsp honey"
+          ]
+        },
+        {
+          "group": "Vegetables",
+          "items": [
+            "4 bell peppers, cut into 1/4-inch strips (the other 2 are Wednesday's)",
+            "2 sweet onions, halved and cut into 1/4-inch strips",
+            "3 cloves garlic, minced"
+          ]
+        },
+        {
+          "group": "Crema, pico and to serve",
+          "items": [
+            "1 cup reserved yogurt sauce from Monday + juice of 1 lime + 2 Tbsp chopped cilantro",
+            "1 pkg Campari tomatoes, diced, + 1/4 sweet onion, minced, + 1/4 cup cilantro + juice of 1 lime + salt",
+            "16 flour tortillas (Mission BOGO), NOT corn",
+            "1 pkg (4 oz) crumbled feta",
+            "2 avocados, sliced",
+            "1 lime in wedges; hot sauce or pickled jalapeños on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Mix 3 1/2 tsp cumin, 1 1/2 tsp chili powder, the chipotle powder, coriander and 1 1/2 tsp salt in a small bowl. Zest the 3 limes straight into it and stir.",
+        "Make shallow diagonal cuts across the top of the steak, then repeat the other way for a crosshatch. Do both sides. Rub the spice mix all over and put the steak in a sturdy zip-top bag.",
+        "In the same bowl, whisk the juice of those 3 limes, 2 Tbsp olive oil, the Worcestershire and the honey. Pour it into the bag, seal, and turn to coat. Rest at room temperature 30-60 minutes, turning once or twice.",
+        "Meanwhile: stir the juice of 1 lime and 2 Tbsp cilantro into Monday's reserved cup of yogurt sauce (that's the crema). Toss the diced tomatoes, minced onion, 1/4 cup cilantro, juice of 1 lime and a pinch of salt (that's the pico).",
+        "Heat the oven to 300°F and put the tortillas in, wrapped in foil.",
+        "Remove the steak, shake off the marinade and pat it COMPLETELY dry. Heat 1 Tbsp oil in your largest cast-iron skillet over medium-high. Sear 4-6 minutes per side to 135°F for medium-rare (sirloin is leaner than the recipe's flank, so pull it a little earlier than the 140°F it gives). Cook in two batches if it won't fit flat. Rest 10 minutes under foil, then slice thin across the grain.",
+        "Add the remaining 1 Tbsp oil to the same skillet. Add the peppers and onions and sauté, stirring often, until they soften and the onions start to turn golden, about 8 minutes.",
+        "Lower to medium and add 3/4 tsp each of cumin, chili powder and salt. Cook 6-8 minutes more, until soft and caramelized. Stir in the garlic for 30 seconds and take it off the heat.",
+        "Pile the steak on a platter with its board juices poured over, with the vegetables alongside. Serve with tortillas, crema, pico, feta, avocado, lime wedges and heat on the side. Plan on 4-5 fajitas for Paul."
+      ],
+      "weeks": [
+        "Mon 10/5"
+      ]
+    },
+    {
+      "id": "thai-red-curry-chicken-broccoli-spinach",
+      "name": "Thai Red Curry Chicken with Broccoli & Spinach",
+      "source": "https://www.wellplated.com/thai-chicken-curry/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2018/03/Thai-Chicken-Curry-with-Coconut-Milk.jpg",
+      "protein": "chicken",
+      "mealType": "Curry",
+      "active": "20 min",
+      "blurb": "Seared chicken baked in a red-curry coconut sauce with peppers, onion, ginger and broccoli. Spinach and lime go in at the end, and it's served over jasmine rice with cilantro. Uses the second (free) pack of this week's Springer Mountain Farms chicken breast BOGO, plus coconut milk 2 for $7 and the jasmine rice BOGO.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Curry (scaled from 1 1/2 lb to 2 1/2 lb chicken)",
+          "items": [
+            "2 1/2 lb boneless skinless chicken breasts (the free Springer pack)",
+            "3/4 tsp kosher salt, 3/4 tsp black pepper",
+            "3 Tbsp coconut oil (or neutral oil)",
+            "2 bell peppers, thinly sliced",
+            "1 sweet onion, thinly sliced (stands in for the recipe's leek so the onion bag gets used up)",
+            "3 cloves garlic, minced",
+            "1 tsp grated fresh ginger",
+            "3 Tbsp Thai Kitchen red curry paste (mild; sriracha on the side for more)",
+            "2 cans (13.66 oz) full-fat coconut milk",
+            "1 bunch broccoli, cut into bite-size florets (added; the other bunch is Thursday's)",
+            "1 bag (6 oz) baby spinach (added)",
+            "Juice of 1 lime, plus 1 in wedges (added for brightness)",
+            "1/3 cup cilantro, torn"
+          ]
+        },
+        {
+          "group": "Rice (DOUBLE: half is Thursday's)",
+          "items": [
+            "4 cups dry jasmine rice"
+          ]
+        }
+      ],
+      "directions": [
+        "Start the rice: rinse 4 cups of jasmine rice and cook it per the package (rice cooker or pot). ↻ This is a DOUBLE batch, and half is Thursday's.",
+        "Heat the oven to 375°F. Halve any thick chicken breasts horizontally so they cook evenly, cut them into large chunks, pat dry, and season with the salt and pepper.",
+        "Heat the coconut oil in your largest ovenproof skillet (12-inch or bigger) over medium-high. Sear the chicken in batches until golden on both sides, not cooked through, then move it to a plate.",
+        "Lower the heat to medium-low. Add the peppers, onion, garlic and ginger and cook 2 minutes, until slightly softened.",
+        "Stir in the curry paste and cook 5 minutes, stirring often. Add a splash of coconut milk if it sticks. Slowly pour in the coconut milk, stirring as you go. Stir in the broccoli, then nestle the chicken and its juices back in. If the skillet is overfull, move everything to a 9x13 baking dish.",
+        "Bake 25 minutes, until the chicken reaches 165°F.",
+        "Stir in the spinach until it wilts, then squeeze in the juice of 1 lime and taste for salt. Scatter the cilantro on top.",
+        "Serve over rice with lime wedges and sriracha on the side. ↻ Spread the second half of the rice on a sheet pan to cool for 15 minutes, then cover and refrigerate it for Thursday."
+      ],
+      "weeks": [
+        "Mon 10/5"
+      ]
+    },
     {
       "id": "garlic-shrimp-orzo-skillet",
       "name": "Garlic Shrimp & Orzo Skillet",
