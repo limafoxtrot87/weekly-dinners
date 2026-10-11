@@ -1,122 +1,122 @@
 {
- "week": "Mon 10/5",
- "generated": "Oct 4, 2026",
+ "week": "Mon 10/12",
+ "generated": "Oct 11, 2026",
  "servings": 4,
  "store": "Publix",
  "pantryTitle": "Probably have. Check before you leave",
- "reuse": "Anchored on this week's top Publix FishHawk fresh-protein deals: Springer Mountain Farms chicken breasts BOGO FREE (both packs used, Mon and Wed), Publix assorted pork loin chops BOGO FREE (Thu, freeze the free pack), and boneless top sirloin at $6.99/lb, the best-value steak in the ad (Tue). Monday makes a TRIPLE batch of lemon yogurt sauce and sets 1 cup aside. On Tuesday it gets lime and cilantro stirred in and becomes the fajita crema. Wednesday cooks a DOUBLE pot of jasmine rice (the BOGO bag), and Thursday's pork chops go over the second half, reheated with butter and sage. The two Campari tomato packs (BOGO) split Mon/Tue. The two feta packs (2 for $4) split Mon/Tue. The two spinach bags (2 for $6) split Mon/Wed and the two broccoli bunches (2 for $6) split Wed/Thu. The cilantro and limes span Tue/Wed, the bell peppers split Tue/Wed, and one 3-lb bag of sweet onions covers Tue, Wed and Thu. No corn and no beans anywhere: flour tortillas only, and the curry was picked specifically because it has no chickpeas or peas.",
+ "reuse": "Deal-anchored week: pork shoulder steaks BOGO (Mon), Perdue thin-sliced chicken BOGO (Tue), Publix jumbo shrimp $14.99/24 oz (Wed), Butterball 3-lb ground turkey $10.99 (Thu). Cook once, eat twice: Monday's double jar of pickled red onions tops Thursday's meatball plates, and Wednesday's triple pot of rice becomes Thursday's lemon-herb rice. Shared perishables: green onions (Mon/Wed/Thu), cucumbers, tomatoes and red onions (Mon/Thu), parsley (Mon/Tue/Thu), lemons (Tue/Thu), the zucchini tray (Tue/Thu) and one bottle of white wine (Mon/Tue).",
  "sections": [
   {
    "name": "Produce",
    "items": [
     {
-     "text": "2 pkg Campari tomatoes, 1 lb each",
+     "text": "3 bunches broccoli",
      "tags": [
-      "Mon",
-      "Tue"
-     ],
-     "flag": "BOGO FREE. One pack sliced for Monday's wraps, one diced into Tuesday's pico"
-    },
-    {
-     "text": "2 bags Publix baby spinach, 6 oz",
-     "tags": [
-      "Mon",
       "Wed"
      ],
-     "flag": "2 for $6. Greens in Monday's wraps, wilted into Wednesday's curry"
+     "flag": "2 for $6"
     },
     {
-     "text": "2 bunches broccoli",
-     "tags": [
-      "Wed",
-      "Thu"
-     ],
-     "flag": "2 for $6. One bakes in the curry, one roasts Thursday"
-    },
-    {
-     "text": "6 bell peppers, red/yellow/orange",
-     "tags": [
-      "Tue",
-      "Wed"
-     ],
-     "flag": "$2.99/lb. 4 for fajitas, 2 for the curry"
-    },
-    {
-     "text": "1 bag sweet onions, 3 lb",
-     "tags": [
-      "Tue",
-      "Wed",
-      "Thu"
-     ],
-     "flag": "$4.99. 2 for Tue, 1 Wed, 1-2 Thu"
-    },
-    {
-     "text": "1 red onion",
+     "text": "2 bags baby gold potatoes, 24 oz",
      "tags": [
       "Mon"
-     ]
-    },
-    {
-     "text": "1 English cucumber",
-     "tags": [
-      "Mon"
-     ]
-    },
-    {
-     "text": "2 ripe avocados",
-     "tags": [
-      "Tue"
-     ]
-    },
-    {
-     "text": "1 bunch cilantro",
-     "tags": [
-      "Tue",
-      "Wed"
-     ]
-    },
-    {
-     "text": "8 limes",
-     "tags": [
-      "Tue",
-      "Wed"
      ],
-     "flag": "6 Tuesday, 2 Wednesday"
+     "flag": "$3.99 each"
+    },
+    {
+     "text": "2 trays yellow squash/zucchini, 24 oz: 1 squash, 1 zucchini",
+     "tags": [
+      "Tue",
+      "Thu"
+     ],
+     "flag": "$3.99 each. Hold ~12 oz zucchini back Tuesday for Thursday's meatballs"
+    },
+    {
+     "text": "3 hot house cucumbers",
+     "tags": [
+      "Mon",
+      "Thu"
+     ],
+     "flag": "2 for $4. 1 for Monday's salad, 2 for Thursday"
+    },
+    {
+     "text": "2 lb tomatoes on the vine",
+     "tags": [
+      "Mon",
+      "Thu"
+     ],
+     "flag": "$1.99/lb. 1 lb each night"
+    },
+    {
+     "text": "3 red onions",
+     "tags": [
+      "Mon",
+      "Thu"
+     ],
+     "flag": "2 pickled Monday (half the jar is Thursday's), 1/2 grated into the meatballs"
+    },
+    {
+     "text": "2 bunches green onions",
+     "tags": [
+      "Mon",
+      "Wed",
+      "Thu"
+     ]
+    },
+    {
+     "text": "2 bunches flat-leaf parsley",
+     "tags": [
+      "Mon",
+      "Tue",
+      "Thu"
+     ]
     },
     {
      "text": "4 lemons",
      "tags": [
-      "Mon",
-      "Thu"
-     ],
-     "flag": "3 Monday (marinade + sauce), 1 for Thursday's broccoli"
-    },
-    {
-     "text": "1 head garlic",
-     "tags": [
-      "Mon",
       "Tue",
-      "Wed"
+      "Thu"
      ]
     },
     {
-     "text": "1 small knob fresh ginger",
+     "text": "2 heads garlic",
+     "tags": [
+      "Mon",
+      "Wed",
+      "Thu"
+     ],
+     "flag": "~20 cloves across the week"
+    },
+    {
+     "text": "1 piece fresh ginger, 3 inch",
      "tags": [
       "Wed"
      ]
     },
     {
-     "text": "1 pack fresh sage",
+     "text": "2 shallots",
+     "tags": [
+      "Tue"
+     ]
+    },
+    {
+     "text": "1 pkg fresh mint",
      "tags": [
       "Thu"
      ]
     },
     {
-     "text": "2 bags Sweetango apples",
+     "text": "1 pkg fresh oregano",
      "tags": [
       "Thu"
      ],
-     "flag": "BOGO FREE. 3 go in the pan; the rest are lunchbox fruit"
+     "flag": "or use 2 tsp dried"
+    },
+    {
+     "text": "1 pkg fresh dill",
+     "tags": [
+      "Thu"
+     ]
     }
    ]
   },
@@ -124,10 +124,17 @@
    "name": "Bakery",
    "items": [
     {
-     "text": "10 pita or naan flatbreads (about 2 pkg)",
+     "text": "8 pitas",
      "tags": [
-      "Mon"
+      "Thu"
      ]
+    },
+    {
+     "text": "1 loaf whole-wheat bread (5 slices)",
+     "tags": [
+      "Thu"
+     ],
+     "flag": "Sara Lee Honey Wheat is BOGO FREE in the bread aisle"
     }
    ]
   },
@@ -135,26 +142,32 @@
    "name": "Meat & Seafood",
    "items": [
     {
-     "text": "Springer Mountain Farms boneless chicken breasts, 2 packs (about 5 1/2 lb total)",
+     "text": "2 packs Publix pork shoulder blade steaks, ~4 lb total",
      "tags": [
-      "Mon",
-      "Wed"
+      "Mon"
      ],
-     "flag": "BOGO FREE, this week's anchor deal. 3 lb Monday, 2 1/2 lb Wednesday. If the two packs come in light, add a third"
+     "flag": "BOGO FREE: Monday's anchor deal. Pick thick (3/4 inch+) steaks"
     },
     {
-     "text": "2 1/2 lb Publix boneless top sirloin steak",
+     "text": "2 packs Perdue thin-sliced chicken breasts, ~2 1/2 lb total",
      "tags": [
       "Tue"
      ],
-     "flag": "$6.99/lb, the best-value steak in the ad (skirt is $23.99, flank $15.99)"
+     "flag": "BOGO FREE: Tuesday's anchor deal"
     },
     {
-     "text": "2 pkg Publix assorted pork loin chops, 8 per pack",
+     "text": "2 bags Publix peeled & deveined jumbo white shrimp, 24 oz, frozen",
+     "tags": [
+      "Wed"
+     ],
+     "flag": "$14.99 each. Frozen holds until Wednesday; the $8.99/lb counter shrimp is cheaper but previously frozen and won't last 3 days"
+    },
+    {
+     "text": "1 tray Butterball ground turkey, 85% lean, 48 oz",
      "tags": [
       "Thu"
      ],
-     "flag": "BOGO FREE. Cook one pack, freeze the free one. Pick chops at least 3/4 inch thick"
+     "flag": "$10.99, about $3.66/lb"
     }
    ]
   },
@@ -162,20 +175,17 @@
    "name": "Dairy & Eggs",
    "items": [
     {
-     "text": "1 tub plain Greek yogurt, 32 oz (full-fat or 2%)",
+     "text": "16 oz plain Greek yogurt (2% or whole)",
      "tags": [
-      "Mon",
-      "Tue"
-     ],
-     "flag": "3 cups become Monday's sauce; 1 cup of that is Tuesday's crema"
+      "Thu"
+     ]
     },
     {
-     "text": "2 pkg Publix crumbled feta, 4 oz",
+     "text": "6 oz crumbled feta",
      "tags": [
-      "Mon",
-      "Tue"
+      "Thu"
      ],
-     "flag": "2 for $4. One pack each night"
+     "flag": "Président is 2 for $9"
     }
    ]
   },
@@ -183,354 +193,374 @@
    "name": "Center Aisles",
    "items": [
     {
-     "text": "1 bag Mission soft taco flour tortillas, 20-ct",
+     "text": "1 bottle dry white wine",
+     "tags": [
+      "Mon",
+      "Tue"
+     ],
+     "flag": "or swap in low-sodium chicken broth"
+    },
+    {
+     "text": "1 carton low-sodium chicken broth",
      "tags": [
       "Tue"
      ],
-     "flag": "BOGO FREE. Flour, never corn"
+     "flag": "Progresso is BOGO FREE"
     },
     {
-     "text": "2 cans Thai Kitchen coconut milk, full-fat",
+     "text": "12 oz whole-wheat spaghetti",
      "tags": [
-      "Wed"
-     ],
-     "flag": "2 for $7"
-    },
-    {
-     "text": "1 jar Thai Kitchen red curry paste",
-     "tags": [
-      "Wed"
+      "Tue"
      ]
     },
     {
-     "text": "1 bag Super Lucky Elephant jasmine rice, 5 lb",
+     "text": "1 jar brined capers",
+     "tags": [
+      "Tue"
+     ]
+    },
+    {
+     "text": "1 bag rice, 32 oz (jasmine or GreenWise organic)",
      "tags": [
       "Wed",
       "Thu"
      ],
-     "flag": "BOGO FREE. Skip if the rice bin is full"
+     "flag": "GreenWise organic is 2 for $7. Wednesday cooks 4 1/2 cups dry, about half for Thursday"
     },
     {
-     "text": "1 carton Swanson chicken broth, 32 oz",
+     "text": "Seasoned breadcrumbs (whole-wheat or panko)",
      "tags": [
       "Thu"
-     ],
-     "flag": "$2.00"
-    },
-    {
-     "text": "1 jar ground cardamom",
-     "tags": [
-      "Mon"
-     ],
-     "flag": "The shawarma needs 1 1/2 Tbsp, more than most spice racks hold"
+     ]
     }
    ]
   }
  ],
  "pantry": [
   {
-   "text": "Olive oil",
+   "text": "Olive oil + neutral oil",
    "tags": [
     "Mon",
     "Tue",
-    "Thu"
-   ],
-   "flag": "About 3/4 cup across the week. Filippo Berio is BOGO if you're low"
-  },
-  {
-   "text": "Coconut oil or neutral oil",
-   "tags": [
     "Wed",
     "Thu"
-   ]
+   ],
+   "flag": "~1 cup olive oil across the week. Bertolli is BOGO if you're low"
   },
   {
    "text": "Butter",
    "tags": [
-    "Thu"
-   ],
-   "flag": "4 Tbsp"
-  },
-  {
-   "text": "Ground cumin",
-   "tags": [
     "Mon",
     "Tue"
    ],
-   "flag": "About 3 Tbsp total"
+   "flag": "9 Tbsp. Cabot is BOGO FREE if you're low"
   },
   {
-   "text": "Ground coriander",
+   "text": "Soy sauce",
    "tags": [
     "Mon",
-    "Tue"
+    "Wed"
+   ],
+   "flag": "~3/4 cup"
+  },
+  {
+   "text": "Rice vinegar, honey, toasted sesame seeds",
+   "tags": [
+    "Wed"
    ]
   },
   {
-   "text": "Smoked paprika, cayenne",
+   "text": "Red wine vinegar (1 cup) + sugar",
    "tags": [
     "Mon"
    ]
   },
   {
-   "text": "Chili powder, chipotle chile powder",
+   "text": "All-purpose flour",
    "tags": [
     "Tue"
    ]
   },
   {
-   "text": "Worcestershire sauce, honey",
-   "tags": [
-    "Tue"
-   ]
-  },
-  {
-   "text": "Dijon mustard, all-purpose flour",
+   "text": "Eggs",
    "tags": [
     "Thu"
-   ]
+   ],
+   "flag": "2"
   },
   {
-   "text": "Hot sauce / sriracha / pickled jalapeños (heat on the side)",
+   "text": "Parmesan",
    "tags": [
-    "Mon",
-    "Tue",
-    "Wed"
+    "Tue"
    ]
   },
   {
-   "text": "Kosher salt, black pepper",
+   "text": "Kosher salt, black pepper, red pepper flakes",
    "tags": [
     "all"
+   ]
+  },
+  {
+   "text": "Foil, parchment, oil spray",
+   "tags": [
+    "Mon",
+    "Wed",
+    "Thu"
    ]
   }
  ],
  "dinners": [
   {
    "day": "Mon",
-   "name": "Chicken Shawarma Wraps with Lemon Yogurt Sauce",
-   "protein": "chicken",
-   "mealType": "Wraps",
-   "blurb": "Thin chicken cutlets marinated in cardamom, cumin, coriander, smoked paprika and lemon, seared hard until charred. They're wrapped in warm pita with garlicky lemon yogurt, spinach, Campari tomatoes, cucumber, red onion and feta. Chosen for this week's anchor deal: Springer Mountain Farms chicken breasts, BOGO FREE.",
+   "name": "Seared Pork Shoulder Steaks with Garlic-Wine Pan Sauce, Roasted Baby Golds & Cucumber-Tomato Salad",
+   "protein": "pork",
+   "mealType": "Oven + skillet",
+   "blurb": "Thick pork shoulder steaks, slow-baked and then hard-seared in cast iron, finished with a garlic, scallion, white wine and butter pan sauce. Served with crispy roasted baby gold potatoes and a sharp cucumber-tomato salad with quick-pickled red onions. Chosen for this week's anchor deal: Publix pork shoulder blade steaks, BOGO FREE.",
    "serves": 4,
-   "active": "30 min",
-   "total": "35 min + 3-24 hr marinating",
-   "warn": "MARINATE BY 3 PM (or Sunday night): it needs at least 3 hours. And set aside 1 cup of the yogurt sauce for Tuesday BEFORE serving.",
-   "image": "https://www.recipetineats.com/tachyon/2017/01/Chicken-Shawarma-Wrap_3.jpg",
-   "alt": "Chicken shawarma wrapped in flatbread with lettuce, tomato and yogurt sauce",
+   "active": "40 min",
+   "total": "1 hr 30 min (30 min of it is the pork resting at room temp)",
+   "warn": "Make the FULL double jar of pickled onions. Half is Thursday's.",
+   "image": "https://www.wellplated.com/wp-content/uploads/2024/12/Pork-Steak.jpg",
+   "alt": "Seared pork shoulder steak with garlic pan sauce and green onions",
    "ingredients": [
     {
-     "group": "Chicken and marinade (scaled 1.5x and switched from thighs to breasts, per the recipe's own note)",
+     "group": "Pork steaks (recipe scaled 1.5x; bone-in shoulder steaks)",
      "items": [
-      "3 lb boneless skinless chicken breasts (the first Springer pack)",
-      "2 cloves garlic, minced",
-      "1 1/2 Tbsp ground coriander",
-      "1 1/2 Tbsp ground cumin",
-      "1 1/2 Tbsp ground cardamom",
-      "1/2 tsp cayenne (the recipe's 1 1/2 tsp, dialed down for the kids; hot sauce on the side)",
-      "1 Tbsp smoked paprika",
-      "1 Tbsp kosher salt + black pepper",
-      "3 Tbsp lemon juice (about 1 1/2 lemons)",
-      "4 1/2 Tbsp olive oil"
+      "2 packs Publix pork shoulder blade steaks, about 4 lb bone-in total, 3/4 to 1 inch thick (BOGO)",
+      "1 Tbsp kosher salt",
+      "3/4 tsp black pepper",
+      "1 1/2 to 2 Tbsp neutral oil"
      ]
     },
     {
-     "group": "Lemon yogurt sauce (TRIPLE batch: 1 cup is Tuesday's)",
+     "group": "Pan sauce (1.5x)",
      "items": [
-      "3 cups plain Greek yogurt",
-      "3/4 tsp finely grated garlic (about 1 1/2 cloves)",
-      "3 Tbsp lemon juice (about 1 1/2 lemons)",
+      "6 green onions, thinly sliced (the rest of the bunch goes to Wednesday)",
+      "5 garlic cloves, minced",
+      "1 1/2 cups dry white wine (or low-sodium chicken broth). Save the rest of the bottle for Tuesday.",
+      "1 Tbsp soy sauce",
+      "3 Tbsp unsalted butter"
+     ]
+    },
+    {
+     "group": "Potatoes",
+     "items": [
+      "2 bags (24 oz each) baby gold potatoes, halved",
       "3 Tbsp olive oil",
-      "3/4 tsp kosher salt, pinch of pepper"
+      "1 tsp kosher salt + pepper"
      ]
     },
     {
-     "group": "To serve",
+     "group": "Pickled onions (DOUBLE: half is Thursday's) + salad",
      "items": [
-      "8-10 pitas or naan",
-      "1 bag (6 oz) baby spinach (the other bag is Wednesday's)",
-      "1 pkg Campari tomatoes, sliced (the other pack is Tuesday's)",
-      "1 English cucumber, sliced",
-      "1 red onion, sliced paper-thin",
-      "1 pkg (4 oz) crumbled feta (the other is Tuesday's)",
-      "Hot sauce, on the side"
+      "2 red onions, sliced paper-thin",
+      "1 cup red wine vinegar",
+      "1 cup hot water",
+      "1 Tbsp sugar",
+      "2 tsp kosher salt",
+      "1 hot house cucumber, chunked",
+      "1 lb tomatoes on the vine, chunked (the other pound is Thursday's)",
+      "2 Tbsp olive oil",
+      "Small handful parsley, chopped"
      ]
     }
    ],
    "directions": [
-    "MORNING (or Sunday night): cut each chicken breast in half horizontally into thin steaks no thicker than 1/2 inch (1 cm). Pound any thick spots lightly.",
-    "Mix the garlic, coriander, cumin, cardamom, cayenne, paprika, salt, pepper, lemon juice and olive oil in a large zip-top bag. Add the chicken, massage to coat, and refrigerate at least 3 hours and up to 24.",
-    "Make the sauce: stir together the yogurt, grated garlic, lemon juice, olive oil, salt and pepper. Thin with a spoonful of water if it's stiff. ↻ Spoon 1 CUP into a jar, label it TUESDAY and refrigerate it. It keeps 3 days. Let the rest sit at least 20 minutes.",
-    "Slice the tomatoes, cucumber and red onion. Set out the spinach, feta and hot sauce.",
-    "Heat a large skillet or grill pan on HIGH with a thin slick of oil. Cook the chicken in batches without crowding, about 2 minutes per side, until deeply golden and cooked through (165°F). Thin breast cutlets dry out fast, so don't go longer.",
-    "Rest the chicken 5 minutes, then slice into strips.",
-    "Warm the pitas in a dry skillet, or wrapped in foil in a 300°F oven for 10 minutes.",
-    "Build the wraps: a swipe of yogurt sauce, spinach, tomato, cucumber, onion, chicken, then feta. Hot sauce on the side. Plan on 3 wraps for Paul."
+    "4:30 PM: PICKLE THE ONIONS. Put both sliced red onions in a quart jar with the vinegar, hot water, sugar and salt. Shake and leave it on the counter. Half the jar is Thursday's, so make the full batch.",
+    "Heat the oven to 425°F. Pat the pork steaks dry and season all over with the salt and pepper. Set them on a wire rack over a parchment-lined sheet pan and leave them at room temperature for 30 minutes.",
+    "Meanwhile, toss the halved potatoes with the olive oil, salt and pepper on a second sheet pan. Roast 25-30 min, tossing once, until browned. Pull them out, tent with foil, and drop the oven to 275°F (prop the door open for 2-3 min).",
+    "Bake the pork at 275°F until the thickest part reads 120-125°F, 25-35 min. Bone-in thick steaks run longer than the recipe's 20-25 min. Pull any that finish early. Slide the potatoes onto the lower rack for the last 10 min to rewarm.",
+    "Salad: toss the cucumber and tomatoes with the olive oil, a pinch of salt, a splash of the pickling liquid, a big forkful of pickled onions and the parsley.",
+    "Heat 1 Tbsp oil in a cast-iron skillet over medium-high until it's smoking. Sear the steaks 2 at a time without moving them, about 3 min, until crusted. Flip and cook 2-3 min more, to 145°F. Add oil between batches. Rest under foil for 5 min.",
+    "Sauce: lower the heat to medium. Add the green onions and garlic and cook 30 seconds. Add the wine and soy sauce, scraping up the browned bits. Simmer until reduced by a bit more than half, about 5-6 min. Off the heat, stir in the butter.",
+    "Spoon the sauce over the steaks. Serve with the potatoes and salad. Shoulder steaks are fatty and very forgiving, so they're hard to overcook. Paul gets the biggest steak (about 50 g protein)."
    ],
-   "reuse": "Hands 1 cup of yogurt sauce to Tuesday's fajita crema. The second Campari pack and feta pack go to Tuesday; the second spinach bag goes to Wednesday's curry. The second BOGO chicken pack is Wednesday's.",
-   "source": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/ (sauce: https://www.recipetineats.com/lemon-yogurt-sauce/)"
+   "reuse": "Hands the second half of the pickled red onions to Thursday's meatball plates. Shares the green onions with Wednesday, the cucumber, tomatoes and parsley with Thursday, and the bottle of white wine with Tuesday.",
+   "source": "https://www.wellplated.com/pork-steak/"
   },
   {
    "day": "Tue",
-   "name": "Steak Fajitas with Lime-Cilantro Crema & Campari Pico",
-   "protein": "beef",
-   "mealType": "Skillet",
-   "blurb": "Cumin, coriander and lime-zest rubbed sirloin seared in cast iron and sliced thin. It comes with caramelized peppers and onions, warm flour tortillas, a fresh tomato pico, feta and Monday's yogurt sauce turned into a lime crema. Chosen for Publix boneless top sirloin at $6.99/lb, the best-value steak in the ad, swapped in for the recipe's flank ($15.99/lb this week).",
-   "serves": 4,
-   "active": "30 min",
-   "total": "1 hr 15 min (includes 30 min hands-off marinating)",
-   "warn": "Start the marinade by 4:45, or rub the steak in the morning and refrigerate it. Take it out 30 minutes before cooking.",
-   "image": "https://www.wellplated.com/wp-content/uploads/2026/08/Healthy-Beef-Fajitas.jpg",
-   "alt": "Sliced steak fajitas with peppers and onions in a cast-iron skillet",
-   "ingredients": [
-    {
-     "group": "Steak and marinade (scaled from 1 1/2 lb to 2 1/2 lb)",
-     "items": [
-      "2 1/2 lb boneless top sirloin steak, about 1 inch thick",
-      "3 1/2 tsp ground cumin (plus 3/4 tsp for the vegetables)",
-      "1 1/2 tsp chili powder (plus 3/4 tsp for the vegetables)",
-      "1/2 tsp chipotle chile powder (the recipe uses more; kept mild for the kids)",
-      "1 1/2 tsp ground coriander",
-      "1 1/2 tsp kosher salt (plus 3/4 tsp for the vegetables)",
-      "3 limes: zest and juice (about 1/3 cup juice)",
-      "2 Tbsp olive oil for the marinade + 2 Tbsp for cooking",
-      "1 1/2 Tbsp Worcestershire sauce",
-      "2 tsp honey"
-     ]
-    },
-    {
-     "group": "Vegetables",
-     "items": [
-      "4 bell peppers, cut into 1/4-inch strips (the other 2 are Wednesday's)",
-      "2 sweet onions, halved and cut into 1/4-inch strips",
-      "3 cloves garlic, minced"
-     ]
-    },
-    {
-     "group": "Crema, pico and to serve",
-     "items": [
-      "1 cup reserved yogurt sauce from Monday + juice of 1 lime + 2 Tbsp chopped cilantro",
-      "1 pkg Campari tomatoes, diced, + 1/4 sweet onion, minced, + 1/4 cup cilantro + juice of 1 lime + salt",
-      "16 flour tortillas (Mission BOGO), NOT corn",
-      "1 pkg (4 oz) crumbled feta",
-      "2 avocados, sliced",
-      "1 lime in wedges; hot sauce or pickled jalapeños on the side"
-     ]
-    }
-   ],
-   "directions": [
-    "Mix 3 1/2 tsp cumin, 1 1/2 tsp chili powder, the chipotle powder, coriander and 1 1/2 tsp salt in a small bowl. Zest the 3 limes straight into it and stir.",
-    "Make shallow diagonal cuts across the top of the steak, then repeat the other way for a crosshatch. Do both sides. Rub the spice mix all over and put the steak in a sturdy zip-top bag.",
-    "In the same bowl, whisk the juice of those 3 limes, 2 Tbsp olive oil, the Worcestershire and the honey. Pour it into the bag, seal, and turn to coat. Rest at room temperature 30-60 minutes, turning once or twice.",
-    "Meanwhile: stir the juice of 1 lime and 2 Tbsp cilantro into Monday's reserved cup of yogurt sauce (that's the crema). Toss the diced tomatoes, minced onion, 1/4 cup cilantro, juice of 1 lime and a pinch of salt (that's the pico).",
-    "Heat the oven to 300°F and put the tortillas in, wrapped in foil.",
-    "Remove the steak, shake off the marinade and pat it COMPLETELY dry. Heat 1 Tbsp oil in your largest cast-iron skillet over medium-high. Sear 4-6 minutes per side to 135°F for medium-rare (sirloin is leaner than the recipe's flank, so pull it a little earlier than the 140°F it gives). Cook in two batches if it won't fit flat. Rest 10 minutes under foil, then slice thin across the grain.",
-    "Add the remaining 1 Tbsp oil to the same skillet. Add the peppers and onions and sauté, stirring often, until they soften and the onions start to turn golden, about 8 minutes.",
-    "Lower to medium and add 3/4 tsp each of cumin, chili powder and salt. Cook 6-8 minutes more, until soft and caramelized. Stir in the garlic for 30 seconds and take it off the heat.",
-    "Pile the steak on a platter with its board juices poured over, with the vegetables alongside. Serve with tortillas, crema, pico, feta, avocado, lime wedges and heat on the side. Plan on 4-5 fajitas for Paul."
-   ],
-   "reuse": "Uses Monday's yogurt sauce (as the crema), the second Campari pack and the second feta pack. Shares the cilantro, limes, bell peppers and sweet onions with Wednesday.",
-   "source": "https://www.wellplated.com/beef-fajitas/"
-  },
-  {
-   "day": "Wed",
-   "name": "Thai Red Curry Chicken with Broccoli & Spinach",
+   "name": "Lemon Chicken Piccata with Whole-Wheat Spaghetti & Roasted Squash",
    "protein": "chicken",
-   "mealType": "Curry",
-   "blurb": "Seared chicken baked in a red-curry coconut sauce with peppers, onion, ginger and broccoli. Spinach and lime go in at the end, and it's served over jasmine rice with cilantro. Uses the second (free) pack of this week's Springer Mountain Farms chicken breast BOGO, plus coconut milk 2 for $7 and the jasmine rice BOGO.",
+   "mealType": "Skillet",
+   "blurb": "Thin chicken cutlets dusted in flour and pan-fried golden in olive oil and butter, then glossed with a lemon, caper, shallot and white wine sauce. Extra sauce dresses whole-wheat spaghetti, and roasted yellow squash and zucchini go alongside. Chosen for Perdue thin-sliced chicken breasts, BOGO FREE: both packs go in tonight.",
    "serves": 4,
-   "active": "20 min",
-   "total": "50 min (25 min of it in the oven)",
-   "warn": "Cook a DOUBLE pot of rice tonight: half is Thursday's.",
-   "image": "https://www.wellplated.com/wp-content/uploads/2018/03/Thai-Chicken-Curry-with-Coconut-Milk.jpg",
-   "alt": "Thai red curry chicken in coconut sauce in a skillet with cilantro",
+   "active": "35 min",
+   "total": "40 min",
+   "warn": "Roast only ~1 1/2 trays of squash. Hold back 2 small zucchini (~12 oz) for Thursday's meatballs.",
+   "image": "https://www.wellplated.com/wp-content/uploads/2024/03/Lemon-Chicken-Piccata-Recipe.1.jpg",
+   "alt": "Lemon chicken piccata cutlets in a skillet with capers and parsley",
    "ingredients": [
     {
-     "group": "Curry (scaled from 1 1/2 lb to 2 1/2 lb chicken)",
+     "group": "Chicken (recipe scaled 1.25x; Perdue cutlets are already thin)",
      "items": [
-      "2 1/2 lb boneless skinless chicken breasts (the free Springer pack)",
-      "3/4 tsp kosher salt, 3/4 tsp black pepper",
-      "3 Tbsp coconut oil (or neutral oil)",
-      "2 bell peppers, thinly sliced",
-      "1 sweet onion, thinly sliced (stands in for the recipe's leek so the onion bag gets used up)",
-      "3 cloves garlic, minced",
-      "1 tsp grated fresh ginger",
-      "3 Tbsp Thai Kitchen red curry paste (mild; sriracha on the side for more)",
-      "2 cans (13.66 oz) full-fat coconut milk",
-      "1 bunch broccoli, cut into bite-size florets (added; the other bunch is Thursday's)",
-      "1 bag (6 oz) baby spinach (added)",
-      "Juice of 1 lime, plus 1 in wedges (added for brightness)",
-      "1/3 cup cilantro, torn"
+      "2 packs Perdue thin-sliced chicken breasts, about 2 1/2 lb (BOGO)",
+      "1 1/4 tsp kosher salt",
+      "1/2 tsp black pepper",
+      "1/4 cup all-purpose flour",
+      "3 Tbsp olive oil",
+      "3 Tbsp unsalted butter (for cooking)"
      ]
     },
     {
-     "group": "Rice (DOUBLE: half is Thursday's)",
+     "group": "Piccata sauce (1.5x, so there's enough for the pasta)",
      "items": [
-      "4 cups dry jasmine rice"
-     ]
-    }
-   ],
-   "directions": [
-    "Start the rice: rinse 4 cups of jasmine rice and cook it per the package (rice cooker or pot). ↻ This is a DOUBLE batch, and half is Thursday's.",
-    "Heat the oven to 375°F. Halve any thick chicken breasts horizontally so they cook evenly, cut them into large chunks, pat dry, and season with the salt and pepper.",
-    "Heat the coconut oil in your largest ovenproof skillet (12-inch or bigger) over medium-high. Sear the chicken in batches until golden on both sides, not cooked through, then move it to a plate.",
-    "Lower the heat to medium-low. Add the peppers, onion, garlic and ginger and cook 2 minutes, until slightly softened.",
-    "Stir in the curry paste and cook 5 minutes, stirring often. Add a splash of coconut milk if it sticks. Slowly pour in the coconut milk, stirring as you go. Stir in the broccoli, then nestle the chicken and its juices back in. If the skillet is overfull, move everything to a 9x13 baking dish.",
-    "Bake 25 minutes, until the chicken reaches 165°F.",
-    "Stir in the spinach until it wilts, then squeeze in the juice of 1 lime and taste for salt. Scatter the cilantro on top.",
-    "Serve over rice with lime wedges and sriracha on the side. ↻ Spread the second half of the rice on a sheet pan to cool for 15 minutes, then cover and refrigerate it for Thursday."
-   ],
-   "reuse": "Second Springer BOGO pack. Uses the second spinach bag (from Mon), the cilantro, limes, peppers and onions (shared with Tue), and one broccoli bunch (the other is Thu). Hands half the rice to Thursday.",
-   "source": "https://www.wellplated.com/thai-chicken-curry/"
-  },
-  {
-   "day": "Thu",
-   "name": "Pork Chops with Apples & Onions, Sage Rice & Roasted Broccoli",
-   "protein": "pork",
-   "mealType": "Skillet",
-   "blurb": "Flour-dusted pork chops seared golden, then simmered in a buttery Dijon pan sauce with sliced apples, onions and fresh sage. They're served over Wednesday's rice, reheated with butter and sage, with charred lemony broccoli. Chosen for Publix assorted pork loin chops, BOGO FREE (8 per pack: cook one, freeze one), with Sweetango apples, also BOGO.",
-   "serves": 4,
-   "active": "30 min",
-   "total": "35 min",
-   "warn": "Thin or boneless chops in the 'assorted' pack overcook fast. Pull everything at 135°F; it climbs to 145°F while resting.",
-   "image": "https://www.wellplated.com/wp-content/uploads/2023/10/Pork-Chops-with-Apples-Recipe.jpg",
-   "alt": "Seared pork chops with sliced apples and onions in a skillet",
-   "ingredients": [
-    {
-     "group": "Pork and apples (chops doubled to 8, sauce scaled 1.5x)",
-     "items": [
-      "8 pork loin chops, at least 3/4 inch thick (one BOGO pack; freeze the free one)",
-      "1/3 cup all-purpose flour",
-      "1 1/2 tsp kosher salt, divided; 3/4 tsp black pepper, divided",
-      "3 Tbsp olive or neutral oil",
-      "3 Tbsp unsalted butter",
-      "3 Sweetango apples, thinly sliced, peels on",
-      "1 1/2 sweet onions, thinly sliced",
-      "1 Tbsp Dijon mustard",
-      "1 1/2 cups low-sodium chicken broth",
-      "1 1/2 Tbsp chopped fresh sage, plus more to serve"
+      "2 shallots, thinly sliced",
+      "1/2 cup low-sodium chicken broth",
+      "1/2 cup dry white wine (the rest of Monday's bottle)",
+      "2 lemons, zested and juiced",
+      "1/3 cup brined capers, rinsed",
+      "3 Tbsp cold unsalted butter (to finish)",
+      "1/3 cup chopped parsley, plus more to garnish"
      ]
     },
     {
      "group": "Sides",
      "items": [
-      "Wednesday's reserved rice + 1 Tbsp butter + 1 tsp chopped sage",
-      "1 bunch broccoli, cut into florets, + 2 Tbsp olive oil + 1/2 tsp salt + 1 lemon"
+      "12 oz whole-wheat spaghetti",
+      "1 tray (24 oz) yellow squash + about half the zucchini tray, cut into half-moons",
+      "2 Tbsp olive oil, salt, pepper",
+      "Parmesan, to pass"
      ]
     }
    ],
    "directions": [
-    "Heat the oven to 425°F. Toss the broccoli with 2 Tbsp olive oil and 1/2 tsp salt on a sheet pan and roast 18-22 minutes, until the edges char. It's hands-off while you do the chops.",
-    "Pat the chops dry. In a shallow dish, whisk the flour with 3/4 tsp salt and a scant 1/2 tsp pepper.",
-    "Heat 1 1/2 Tbsp oil in a 12-inch skillet over medium-high. Dredge 4 chops in the flour, shake off the excess, and sear 2-3 minutes per side until browned but not cooked through. Move them to a plate. Repeat with the remaining oil and chops.",
-    "Lower the heat to medium-low. Melt the butter, then add the apples, onions and the remaining salt and pepper. Cook 5 minutes, stirring often, until the apples just turn tender. Stir in the Dijon.",
-    "Slowly pour in the broth, stirring and scraping up the browned bits. Simmer 3 minutes.",
-    "Stir in the sage. Return the chops and their juices to the pan, overlapping is fine, and simmer until they reach 135°F, 2-5 minutes. Check boneless or thin chops early. Rest 5 minutes off the heat.",
-    "Meanwhile, reheat Wednesday's rice: microwave it covered with 2 Tbsp water for 3-4 minutes, stirring halfway. Stir in 1 Tbsp butter, 1 tsp chopped sage and a pinch of salt.",
-    "Squeeze the lemon over the broccoli. Serve the chops over the rice, spooning the apples, onions and pan sauce on top, with broccoli alongside. 2 chops for Paul."
+    "Heat the oven to 425°F and put a pot of salted water on to boil.",
+    "Toss the squash and zucchini with the olive oil, salt and pepper on a sheet pan. Roast 20-25 min until the edges brown. KEEP 2 small zucchini (~12 oz) raw for Thursday.",
+    "Pat the cutlets dry. If any piece is thicker than 1/2 inch, slice it in half horizontally. Season both sides with salt and pepper and dredge lightly in the flour.",
+    "Heat 1 1/2 Tbsp oil and 1 1/2 Tbsp butter in a large heavy skillet over medium to medium-high heat. Cook the cutlets in a single layer, 2-3 min per side, until golden and cooked through (165°F). Move them to a plate. Repeat with the rest of the oil and cooking butter; it takes 2-3 batches.",
+    "Meanwhile, cook the spaghetti according to the package. Save 1 cup of pasta water before draining.",
+    "Lower the heat to medium-low. Cook the shallots in the same skillet 2-3 min until lightly caramelized. Add the wine and broth, raise the heat to medium, and simmer 3-4 min until reduced by half.",
+    "Turn the heat to low. Stir in the lemon zest and juice, the capers, and the 3 Tbsp cold butter. Season to taste, then stir in the parsley.",
+    "Toss the drained spaghetti with about a third of the sauce and a splash of pasta water. Spoon the rest of the sauce over the chicken. Squeeze lemon over the squash. Pass the Parmesan. Paul's share is about 10 oz of chicken (~65 g protein)."
    ],
-   "reuse": "Finishes Wednesday's double batch of rice, the second broccoli bunch, the last sweet onions and the fourth lemon. Freeze the free pork chop pack for a later week.",
-   "source": "https://www.wellplated.com/pork-chops-with-apples/"
+   "reuse": "Holds back ~12 oz of zucchini for Thursday's meatballs. Shares the lemons and parsley with Thursday and finishes Monday's bottle of wine.",
+   "source": "https://www.wellplated.com/chicken-piccata/"
+  },
+  {
+   "day": "Wed",
+   "name": "Sheet Pan Sesame-Ginger Shrimp & Broccoli over Jasmine Rice",
+   "protein": "shrimp",
+   "mealType": "Sheet pan",
+   "blurb": "Broccoli roasted in a soy, rice vinegar, honey, garlic and ginger glaze until the edges char. Jumbo shrimp go onto the pan for the last 5 minutes, then everything gets sesame seeds and scallions and goes over jasmine rice. No cornstarch in this sauce, which is why this recipe won over the stir-fry versions. Chosen for Publix peeled & deveined jumbo white shrimp, 24-oz bags at $14.99.",
+   "serves": 4,
+   "active": "20 min",
+   "total": "50 min",
+   "warn": "Move the shrimp to the fridge Tuesday night to thaw. Cook a TRIPLE pot of rice, because about half is Thursday's.",
+   "image": "https://www.wellplated.com/wp-content/uploads/2018/09/Shrimp-and-Broccoli-Chinese-Food.jpg",
+   "alt": "Sheet pan of roasted shrimp and broccoli with sesame seeds and green onions",
+   "ingredients": [
+    {
+     "group": "Shrimp and broccoli (recipe doubled, plus extra shrimp; two sheet pans)",
+     "items": [
+      "3 lb jumbo raw shrimp, peeled and deveined (2 frozen 24-oz bags, thawed)",
+      "3 bunches broccoli, cut into florets (about 10 cups)",
+      "4 Tbsp toasted sesame seeds",
+      "1/2 cup sliced green onions (the rest of Monday's bunch + the second bunch)"
+     ]
+    },
+    {
+     "group": "Sauce (2x)",
+     "items": [
+      "2/3 cup lower-sodium soy sauce",
+      "6 Tbsp rice vinegar",
+      "6 Tbsp extra-virgin olive oil",
+      "4 Tbsp honey",
+      "4 Tbsp water",
+      "6 garlic cloves, minced",
+      "2 Tbsp minced fresh ginger",
+      "1/4 tsp red pepper flakes (more at the table)"
+     ]
+    },
+    {
+     "group": "Rice (TRIPLE: about half is Thursday's)",
+     "items": [
+      "4 1/2 cups dry jasmine rice + water per the package"
+     ]
+    }
+   ],
+   "directions": [
+    "TUESDAY NIGHT: move both bags of shrimp to the fridge to thaw. If you forget, put them in a sealed bag in cold water for 15-20 min on Wednesday.",
+    "Cook all 4 1/2 cups of rice (use a big pot or two batches). That's three times what tonight needs: about half is Thursday's.",
+    "Heat the oven to 400°F. Line two rimmed sheet pans with foil and oil them lightly. Divide the florets between the pans.",
+    "Whisk the soy sauce, rice vinegar, olive oil, honey, water, garlic, ginger and pepper flakes. Drizzle half over the broccoli and toss. Roast 20-22 min, tossing and swapping the pans halfway, until tender.",
+    "Pat the shrimp dry. Add them to the pans, pour half of the remaining sauce over, toss, and spread in an even layer. Roast 5-6 min, just until pink and opaque. Don't let them go longer.",
+    "Sprinkle with the sesame seeds and green onions. Serve over rice with the last of the sauce drizzled on top. Sriracha or pepper flakes on the side for heat.",
+    "BEFORE YOU SIT DOWN: spread about 5 cups of the leftover rice on a plate or sheet to cool fast, then refrigerate it covered. That's Thursday's lemon-herb rice. Paul's share is about 3/4 lb of shrimp (~70 g protein)."
+   ],
+   "reuse": "Over-cooks the rice on purpose: about 5 cups becomes Thursday's lemon-herb rice. Finishes the green onions from Monday; save a few dark-green tops for Thursday's tzatziki.",
+   "source": "https://www.wellplated.com/shrimp-and-broccoli/"
+  },
+  {
+   "day": "Thu",
+   "name": "Greek Turkey Meatballs with Tzatziki, Lemon-Herb Rice & Pickled Onions",
+   "protein": "turkey",
+   "mealType": "Bowls / pitas",
+   "blurb": "Juicy turkey meatballs packed with grated zucchini, garlic, red onion, mint, parsley and oregano, baked on sheet pans. Serve them over lemon-herb rice made from Wednesday's batch or tucked into warm pitas, with cool garlicky tzatziki, cucumber, tomato, feta and Monday's pickled onions. Chosen for the Butterball 48-oz ground turkey tray at $10.99, about $3.66/lb.",
+   "serves": 4,
+   "active": "40 min",
+   "total": "50 min (+1 hr tzatziki chill, hands-off)",
+   "warn": "Make the tzatziki FIRST; it needs an hour in the fridge. The extra meatballs are lunches.",
+   "image": "https://www.skinnytaste.com/wp-content/uploads/2010/08/Greek-Turkey-Meatballs-9.jpg",
+   "alt": "Greek turkey meatballs with tzatziki sauce",
+   "ingredients": [
+    {
+     "group": "Meatballs (recipe scaled 2.4x to the full 3 lb tray)",
+     "items": [
+      "3 lb ground turkey (Butterball 48-oz tray)",
+      "2 1/2 cups grated zucchini, squeezed very dry (the ~12 oz held back Tuesday)",
+      "5 slices whole-wheat bread",
+      "2/3 cup seasoned breadcrumbs (whole-wheat or panko)",
+      "2 large eggs",
+      "7 garlic cloves, minced",
+      "1/2 red onion, grated",
+      "1/3 cup chopped fresh oregano (or 2 tsp dried)",
+      "2/3 cup chopped parsley",
+      "1/3 cup chopped fresh mint",
+      "2 1/2 tsp kosher salt + black pepper",
+      "Olive oil spray"
+     ]
+    },
+    {
+     "group": "Tzatziki (2x; skinnytaste.com/tzatziki)",
+     "items": [
+      "16 oz plain Greek yogurt (2% or whole; thick enough that you can skip the recipe's straining)",
+      "1 hot house cucumber, peeled, seeded, grated and squeezed dry (about 2 cups)",
+      "2 garlic cloves, crushed",
+      "2 tsp lemon juice",
+      "2 Tbsp chopped fresh dill",
+      "2 Tbsp sliced green-onion tops (in place of the recipe's chives, saved from Wednesday)",
+      "Salt and pepper"
+     ]
+    },
+    {
+     "group": "Lemon-herb rice + to serve",
+     "items": [
+      "~5 cups of Wednesday's cooked rice",
+      "1 lemon, zested and juiced",
+      "2 Tbsp olive oil",
+      "1/4 cup parsley + 2 Tbsp mint, chopped",
+      "8 pitas",
+      "1 hot house cucumber, sliced",
+      "1 lb tomatoes on the vine, chopped",
+      "Monday's pickled red onions",
+      "6 oz crumbled feta",
+      "Hot sauce on the side"
+     ]
+    }
+   ],
+   "directions": [
+    "TZATZIKI FIRST: grate the cucumber, salt it lightly, and squeeze it hard in a clean towel. Stir it into the yogurt with the garlic, lemon juice, dill, green-onion tops, salt and pepper. Refrigerate at least 1 hour.",
+    "Heat the oven to 350°F. Line 2 sheet pans with parchment or spray them with oil.",
+    "Wet the bread with water, squeeze out the excess, and tear it into small pieces in a large bowl. Add the turkey, eggs, zucchini, breadcrumbs, garlic, grated onion, mint, parsley, oregano, salt and pepper. Mix gently with your hands until just combined.",
+    "Form 1/4-cup portions and flatten them slightly (about 32-36). Refrigerate them 10-15 min if you have time; they hold their shape better.",
+    "Bake 20-25 min until cooked through (165°F), rotating the pans halfway. This is the recipe's oven method. Its stovetop method (very low heat, 5-6 min per side) is too slow for 3 lb.",
+    "Rice: warm Wednesday's rice in a large covered skillet with the olive oil and a splash of water, 5 min, until steaming. Off the heat, stir in the lemon zest and juice, the parsley, the mint and a pinch of salt.",
+    "Slice the cucumber, chop the tomatoes, crumble the feta and warm the pitas.",
+    "Build bowls or pitas: rice, meatballs, a big spoon of tzatziki, cucumber-tomato, pickled onions and feta. Paul's share is about 12 oz of turkey (~65 g protein). Leftover meatballs are Friday lunches."
+   ],
+   "reuse": "Wraps up the week. Uses Wednesday's extra rice, Monday's pickled onions, the zucchini held back Tuesday, the green-onion tops saved Wednesday, and the last of the lemons, parsley, cucumber and tomatoes.",
+   "source": "https://www.skinnytaste.com/greek-turkey-meatballs/"
   }
  ]
 }

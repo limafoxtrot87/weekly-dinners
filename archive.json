@@ -1,6 +1,254 @@
 {
-  "updated": "Oct 4, 2026",
+  "updated": "Oct 11, 2026",
   "recipes": [
+    {
+      "id": "greek-turkey-meatballs-tzatziki-lemon-herb-rice-pickled-onio",
+      "name": "Greek Turkey Meatballs with Tzatziki, Lemon-Herb Rice & Pickled Onions",
+      "source": "https://www.skinnytaste.com/greek-turkey-meatballs/",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2010/08/Greek-Turkey-Meatballs-9.jpg",
+      "protein": "turkey",
+      "mealType": "Bowls / pitas",
+      "active": "40 min",
+      "blurb": "Juicy turkey meatballs packed with grated zucchini, garlic, red onion, mint, parsley and oregano, baked on sheet pans. Serve them over lemon-herb rice made from Wednesday's batch or tucked into warm pitas, with cool garlicky tzatziki, cucumber, tomato, feta and Monday's pickled onions. Chosen for the Butterball 48-oz ground turkey tray at $10.99, about $3.66/lb.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Meatballs (recipe scaled 2.4x to the full 3 lb tray)",
+          "items": [
+            "3 lb ground turkey (Butterball 48-oz tray)",
+            "2 1/2 cups grated zucchini, squeezed very dry (the ~12 oz held back Tuesday)",
+            "5 slices whole-wheat bread",
+            "2/3 cup seasoned breadcrumbs (whole-wheat or panko)",
+            "2 large eggs",
+            "7 garlic cloves, minced",
+            "1/2 red onion, grated",
+            "1/3 cup chopped fresh oregano (or 2 tsp dried)",
+            "2/3 cup chopped parsley",
+            "1/3 cup chopped fresh mint",
+            "2 1/2 tsp kosher salt + black pepper",
+            "Olive oil spray"
+          ]
+        },
+        {
+          "group": "Tzatziki (2x; skinnytaste.com/tzatziki)",
+          "items": [
+            "16 oz plain Greek yogurt (2% or whole; thick enough that you can skip the recipe's straining)",
+            "1 hot house cucumber, peeled, seeded, grated and squeezed dry (about 2 cups)",
+            "2 garlic cloves, crushed",
+            "2 tsp lemon juice",
+            "2 Tbsp chopped fresh dill",
+            "2 Tbsp sliced green-onion tops (in place of the recipe's chives, saved from Wednesday)",
+            "Salt and pepper"
+          ]
+        },
+        {
+          "group": "Lemon-herb rice + to serve",
+          "items": [
+            "~5 cups of Wednesday's cooked rice",
+            "1 lemon, zested and juiced",
+            "2 Tbsp olive oil",
+            "1/4 cup parsley + 2 Tbsp mint, chopped",
+            "8 pitas",
+            "1 hot house cucumber, sliced",
+            "1 lb tomatoes on the vine, chopped",
+            "Monday's pickled red onions",
+            "6 oz crumbled feta",
+            "Hot sauce on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "TZATZIKI FIRST: grate the cucumber, salt it lightly, and squeeze it hard in a clean towel. Stir it into the yogurt with the garlic, lemon juice, dill, green-onion tops, salt and pepper. Refrigerate at least 1 hour.",
+        "Heat the oven to 350°F. Line 2 sheet pans with parchment or spray them with oil.",
+        "Wet the bread with water, squeeze out the excess, and tear it into small pieces in a large bowl. Add the turkey, eggs, zucchini, breadcrumbs, garlic, grated onion, mint, parsley, oregano, salt and pepper. Mix gently with your hands until just combined.",
+        "Form 1/4-cup portions and flatten them slightly (about 32-36). Refrigerate them 10-15 min if you have time; they hold their shape better.",
+        "Bake 20-25 min until cooked through (165°F), rotating the pans halfway. This is the recipe's oven method. Its stovetop method (very low heat, 5-6 min per side) is too slow for 3 lb.",
+        "Rice: warm Wednesday's rice in a large covered skillet with the olive oil and a splash of water, 5 min, until steaming. Off the heat, stir in the lemon zest and juice, the parsley, the mint and a pinch of salt.",
+        "Slice the cucumber, chop the tomatoes, crumble the feta and warm the pitas.",
+        "Build bowls or pitas: rice, meatballs, a big spoon of tzatziki, cucumber-tomato, pickled onions and feta. Paul's share is about 12 oz of turkey (~65 g protein). Leftover meatballs are Friday lunches."
+      ],
+      "weeks": [
+        "Mon 10/12"
+      ]
+    },
+    {
+      "id": "lemon-chicken-piccata-whole-wheat-spaghetti-roasted-squash",
+      "name": "Lemon Chicken Piccata with Whole-Wheat Spaghetti & Roasted Squash",
+      "source": "https://www.wellplated.com/chicken-piccata/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2024/03/Lemon-Chicken-Piccata-Recipe.1.jpg",
+      "protein": "chicken",
+      "mealType": "Skillet",
+      "active": "35 min",
+      "blurb": "Thin chicken cutlets dusted in flour and pan-fried golden in olive oil and butter, then glossed with a lemon, caper, shallot and white wine sauce. Extra sauce dresses whole-wheat spaghetti, and roasted yellow squash and zucchini go alongside. Chosen for Perdue thin-sliced chicken breasts, BOGO FREE: both packs go in tonight.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chicken (recipe scaled 1.25x; Perdue cutlets are already thin)",
+          "items": [
+            "2 packs Perdue thin-sliced chicken breasts, about 2 1/2 lb (BOGO)",
+            "1 1/4 tsp kosher salt",
+            "1/2 tsp black pepper",
+            "1/4 cup all-purpose flour",
+            "3 Tbsp olive oil",
+            "3 Tbsp unsalted butter (for cooking)"
+          ]
+        },
+        {
+          "group": "Piccata sauce (1.5x, so there's enough for the pasta)",
+          "items": [
+            "2 shallots, thinly sliced",
+            "1/2 cup low-sodium chicken broth",
+            "1/2 cup dry white wine (the rest of Monday's bottle)",
+            "2 lemons, zested and juiced",
+            "1/3 cup brined capers, rinsed",
+            "3 Tbsp cold unsalted butter (to finish)",
+            "1/3 cup chopped parsley, plus more to garnish"
+          ]
+        },
+        {
+          "group": "Sides",
+          "items": [
+            "12 oz whole-wheat spaghetti",
+            "1 tray (24 oz) yellow squash + about half the zucchini tray, cut into half-moons",
+            "2 Tbsp olive oil, salt, pepper",
+            "Parmesan, to pass"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 425°F and put a pot of salted water on to boil.",
+        "Toss the squash and zucchini with the olive oil, salt and pepper on a sheet pan. Roast 20-25 min until the edges brown. KEEP 2 small zucchini (~12 oz) raw for Thursday.",
+        "Pat the cutlets dry. If any piece is thicker than 1/2 inch, slice it in half horizontally. Season both sides with salt and pepper and dredge lightly in the flour.",
+        "Heat 1 1/2 Tbsp oil and 1 1/2 Tbsp butter in a large heavy skillet over medium to medium-high heat. Cook the cutlets in a single layer, 2-3 min per side, until golden and cooked through (165°F). Move them to a plate. Repeat with the rest of the oil and cooking butter; it takes 2-3 batches.",
+        "Meanwhile, cook the spaghetti according to the package. Save 1 cup of pasta water before draining.",
+        "Lower the heat to medium-low. Cook the shallots in the same skillet 2-3 min until lightly caramelized. Add the wine and broth, raise the heat to medium, and simmer 3-4 min until reduced by half.",
+        "Turn the heat to low. Stir in the lemon zest and juice, the capers, and the 3 Tbsp cold butter. Season to taste, then stir in the parsley.",
+        "Toss the drained spaghetti with about a third of the sauce and a splash of pasta water. Spoon the rest of the sauce over the chicken. Squeeze lemon over the squash. Pass the Parmesan. Paul's share is about 10 oz of chicken (~65 g protein)."
+      ],
+      "weeks": [
+        "Mon 10/12"
+      ]
+    },
+    {
+      "id": "seared-pork-shoulder-steaks-garlic-wine-pan-sauce-roasted-ba",
+      "name": "Seared Pork Shoulder Steaks with Garlic-Wine Pan Sauce, Roasted Baby Golds & Cucumber-Tomato Salad",
+      "source": "https://www.wellplated.com/pork-steak/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2024/12/Pork-Steak.jpg",
+      "protein": "pork",
+      "mealType": "Oven + skillet",
+      "active": "40 min",
+      "blurb": "Thick pork shoulder steaks, slow-baked and then hard-seared in cast iron, finished with a garlic, scallion, white wine and butter pan sauce. Served with crispy roasted baby gold potatoes and a sharp cucumber-tomato salad with quick-pickled red onions. Chosen for this week's anchor deal: Publix pork shoulder blade steaks, BOGO FREE.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Pork steaks (recipe scaled 1.5x; bone-in shoulder steaks)",
+          "items": [
+            "2 packs Publix pork shoulder blade steaks, about 4 lb bone-in total, 3/4 to 1 inch thick (BOGO)",
+            "1 Tbsp kosher salt",
+            "3/4 tsp black pepper",
+            "1 1/2 to 2 Tbsp neutral oil"
+          ]
+        },
+        {
+          "group": "Pan sauce (1.5x)",
+          "items": [
+            "6 green onions, thinly sliced (the rest of the bunch goes to Wednesday)",
+            "5 garlic cloves, minced",
+            "1 1/2 cups dry white wine (or low-sodium chicken broth). Save the rest of the bottle for Tuesday.",
+            "1 Tbsp soy sauce",
+            "3 Tbsp unsalted butter"
+          ]
+        },
+        {
+          "group": "Potatoes",
+          "items": [
+            "2 bags (24 oz each) baby gold potatoes, halved",
+            "3 Tbsp olive oil",
+            "1 tsp kosher salt + pepper"
+          ]
+        },
+        {
+          "group": "Pickled onions (DOUBLE: half is Thursday's) + salad",
+          "items": [
+            "2 red onions, sliced paper-thin",
+            "1 cup red wine vinegar",
+            "1 cup hot water",
+            "1 Tbsp sugar",
+            "2 tsp kosher salt",
+            "1 hot house cucumber, chunked",
+            "1 lb tomatoes on the vine, chunked (the other pound is Thursday's)",
+            "2 Tbsp olive oil",
+            "Small handful parsley, chopped"
+          ]
+        }
+      ],
+      "directions": [
+        "4:30 PM: PICKLE THE ONIONS. Put both sliced red onions in a quart jar with the vinegar, hot water, sugar and salt. Shake and leave it on the counter. Half the jar is Thursday's, so make the full batch.",
+        "Heat the oven to 425°F. Pat the pork steaks dry and season all over with the salt and pepper. Set them on a wire rack over a parchment-lined sheet pan and leave them at room temperature for 30 minutes.",
+        "Meanwhile, toss the halved potatoes with the olive oil, salt and pepper on a second sheet pan. Roast 25-30 min, tossing once, until browned. Pull them out, tent with foil, and drop the oven to 275°F (prop the door open for 2-3 min).",
+        "Bake the pork at 275°F until the thickest part reads 120-125°F, 25-35 min. Bone-in thick steaks run longer than the recipe's 20-25 min. Pull any that finish early. Slide the potatoes onto the lower rack for the last 10 min to rewarm.",
+        "Salad: toss the cucumber and tomatoes with the olive oil, a pinch of salt, a splash of the pickling liquid, a big forkful of pickled onions and the parsley.",
+        "Heat 1 Tbsp oil in a cast-iron skillet over medium-high until it's smoking. Sear the steaks 2 at a time without moving them, about 3 min, until crusted. Flip and cook 2-3 min more, to 145°F. Add oil between batches. Rest under foil for 5 min.",
+        "Sauce: lower the heat to medium. Add the green onions and garlic and cook 30 seconds. Add the wine and soy sauce, scraping up the browned bits. Simmer until reduced by a bit more than half, about 5-6 min. Off the heat, stir in the butter.",
+        "Spoon the sauce over the steaks. Serve with the potatoes and salad. Shoulder steaks are fatty and very forgiving, so they're hard to overcook. Paul gets the biggest steak (about 50 g protein)."
+      ],
+      "weeks": [
+        "Mon 10/12"
+      ]
+    },
+    {
+      "id": "sheet-pan-sesame-ginger-shrimp-broccoli-over-jasmine-rice",
+      "name": "Sheet Pan Sesame-Ginger Shrimp & Broccoli over Jasmine Rice",
+      "source": "https://www.wellplated.com/shrimp-and-broccoli/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2018/09/Shrimp-and-Broccoli-Chinese-Food.jpg",
+      "protein": "shrimp",
+      "mealType": "Sheet pan",
+      "active": "20 min",
+      "blurb": "Broccoli roasted in a soy, rice vinegar, honey, garlic and ginger glaze until the edges char. Jumbo shrimp go onto the pan for the last 5 minutes, then everything gets sesame seeds and scallions and goes over jasmine rice. No cornstarch in this sauce, which is why this recipe won over the stir-fry versions. Chosen for Publix peeled & deveined jumbo white shrimp, 24-oz bags at $14.99.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Shrimp and broccoli (recipe doubled, plus extra shrimp; two sheet pans)",
+          "items": [
+            "3 lb jumbo raw shrimp, peeled and deveined (2 frozen 24-oz bags, thawed)",
+            "3 bunches broccoli, cut into florets (about 10 cups)",
+            "4 Tbsp toasted sesame seeds",
+            "1/2 cup sliced green onions (the rest of Monday's bunch + the second bunch)"
+          ]
+        },
+        {
+          "group": "Sauce (2x)",
+          "items": [
+            "2/3 cup lower-sodium soy sauce",
+            "6 Tbsp rice vinegar",
+            "6 Tbsp extra-virgin olive oil",
+            "4 Tbsp honey",
+            "4 Tbsp water",
+            "6 garlic cloves, minced",
+            "2 Tbsp minced fresh ginger",
+            "1/4 tsp red pepper flakes (more at the table)"
+          ]
+        },
+        {
+          "group": "Rice (TRIPLE: about half is Thursday's)",
+          "items": [
+            "4 1/2 cups dry jasmine rice + water per the package"
+          ]
+        }
+      ],
+      "directions": [
+        "TUESDAY NIGHT: move both bags of shrimp to the fridge to thaw. If you forget, put them in a sealed bag in cold water for 15-20 min on Wednesday.",
+        "Cook all 4 1/2 cups of rice (use a big pot or two batches). That's three times what tonight needs: about half is Thursday's.",
+        "Heat the oven to 400°F. Line two rimmed sheet pans with foil and oil them lightly. Divide the florets between the pans.",
+        "Whisk the soy sauce, rice vinegar, olive oil, honey, water, garlic, ginger and pepper flakes. Drizzle half over the broccoli and toss. Roast 20-22 min, tossing and swapping the pans halfway, until tender.",
+        "Pat the shrimp dry. Add them to the pans, pour half of the remaining sauce over, toss, and spread in an even layer. Roast 5-6 min, just until pink and opaque. Don't let them go longer.",
+        "Sprinkle with the sesame seeds and green onions. Serve over rice with the last of the sauce drizzled on top. Sriracha or pepper flakes on the side for heat.",
+        "BEFORE YOU SIT DOWN: spread about 5 cups of the leftover rice on a plate or sheet to cool fast, then refrigerate it covered. That's Thursday's lemon-herb rice. Paul's share is about 3/4 lb of shrimp (~70 g protein)."
+      ],
+      "weeks": [
+        "Mon 10/12"
+      ]
+    },
     {
       "id": "chicken-shawarma-wraps-lemon-yogurt-sauce",
       "name": "Chicken Shawarma Wraps with Lemon Yogurt Sauce",
