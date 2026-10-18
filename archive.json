@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 11, 2026",
+  "updated": "Oct 18, 2026",
   "recipes": [
     {
       "id": "greek-turkey-meatballs-tzatziki-lemon-herb-rice-pickled-onio",
@@ -247,6 +247,218 @@
       ],
       "weeks": [
         "Mon 10/12"
+      ]
+    },
+    {
+      "id": "apple-cider-glazed-pork-tenderloin-roasted-butternut-squash-",
+      "name": "Apple Cider Glazed Pork Tenderloin with Roasted Butternut Squash & Brussels Sprouts",
+      "source": "https://www.recipetineats.com/apple-cider-glazed-pork-tenderloin/",
+      "image": "https://www.recipetineats.com/tachyon/2016/01/Apple-Cider-Glazed-Pork-Tenderloin_6.jpg",
+      "protein": "pork",
+      "mealType": "Oven + skillet",
+      "active": "40 min",
+      "blurb": "Pork tenderloin marinated in apple cider, honey and garlic, seared, roasted, then rolled in the marinade boiled down with butter and Dijon into a glossy glaze. Served with caramelized roasted butternut squash and crispy Brussels sprouts. Chosen for the deal: Publix extra lean pork loin tenderloins, BOGO FREE. This is the ad's best protein value, but the deals file ranks it near the bottom because BOGOs record a $0 saving.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Pork + marinade (recipe scaled ~3.5x, sugar cut since fresh cider is sweet)",
+          "items": [
+            "2 packs Publix extra lean pork tenderloins, 3.5-4 lb total (BOGO)",
+            "4 cups (32 oz) apple cider, non-alcoholic (the original uses sweet hard cider, which also works)",
+            "3 bay leaves",
+            "3 Tbsp honey",
+            "2 Tbsp apple cider vinegar (adaptation: balances the sweeter non-alcoholic cider)",
+            "6 garlic cloves, minced",
+            "1 1/2 tsp kosher salt + plenty of black pepper",
+            "2 Tbsp olive oil for searing"
+          ]
+        },
+        {
+          "group": "Glaze",
+          "items": [
+            "4 Tbsp butter",
+            "3 Tbsp Dijon mustard",
+            "Salt and pepper"
+          ]
+        },
+        {
+          "group": "Vegetables",
+          "items": [
+            "2 butternut squash (~4.5 lb total), peeled, seeded, cut into 3/4-inch cubes",
+            "2 packs Brussels sprouts, trimmed and halved",
+            "5 Tbsp olive oil, kosher salt, pepper"
+          ]
+        }
+      ],
+      "directions": [
+        "MORNING (or Sunday night): whisk the cider, bay leaves, honey, cider vinegar, garlic, salt and pepper. Put the pork and marinade in 2 gallon zip-top bags and refrigerate 1-24 hours. Take it out 30 min before cooking.",
+        "Heat the oven to 400°F. Toss ALL the squash cubes with 3 Tbsp olive oil, salt and pepper and spread them over 2 sheet pans in a single layer. Sheet 2 is Thursday's. Toss the Brussels sprouts with 2 Tbsp olive oil, salt and pepper and add them to the open space on sheet 1, cut side down (use a third pan if crowded).",
+        "Roast 30-35 min, flipping halfway, until the squash is tender and browned at the edges and the sprouts are crisp. Pull them, tent sheet 1 with foil, and let sheet 2 cool. Drop the oven to 375°F.",
+        "Lift the pork out of the marinade and pat it dry. SAVE THE MARINADE. Heat the olive oil in a large oven-safe skillet over medium-high and sear the tenderloins (in batches if needed) until golden on all sides, 5-6 min. Move them to a sheet pan.",
+        "Roast at 375°F for 14-20 min, until the thickest part reads 145°F. Rest loosely covered with foil for 5-10 min.",
+        "Glaze: put the same skillet over high heat. Melt the butter, then pour in the reserved marinade and the Dijon and whisk. Boil hard until syrupy and reduced by about two-thirds, 12-15 min (this batch is about 3.5x the original, so it takes longer than the recipe's 4-5 min). Fish out the bay leaves and adjust the salt.",
+        "SET ASIDE FOR THURSDAY: 1 whole tenderloin left unsliced, 1/2 cup of glaze, and all of sheet 2's squash. Cool them and refrigerate in separate containers.",
+        "Roll the remaining pork in the glaze and slice it 1/2 inch thick. Serve with the squash and sprouts, and spoon the extra glaze over everything, sprouts included."
+      ],
+      "weeks": [
+        "Mon 10/19"
+      ]
+    },
+    {
+      "id": "baked-mediterranean-shrimp-feta-artichokes-olives-over-whole",
+      "name": "Baked Mediterranean Shrimp with Feta, Artichokes & Olives over Whole-Wheat Couscous",
+      "source": "https://www.wellplated.com/mediterranean-shrimp/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2020/03/Baked-Mediterranean-Shrimp.jpg",
+      "protein": "shrimp",
+      "mealType": "Skillet + oven",
+      "active": "25 min",
+      "blurb": "Big shrimp baked on a garlicky fire-roasted tomato sauce with artichokes, Kalamata olives and feta, finished with lemon and parsley. Spinach is wilted into the sauce for extra greens. Chosen for the deal: White Shrimp, colossal U/15, 32-oz bag, $19.99, the #2 protein in this week's ad.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Shrimp + sauce (recipe scaled 2x: 1 lb serves 3)",
+          "items": [
+            "2 lb colossal white shrimp (the full 32-oz bag), thawed, peeled and deveined, patted dry",
+            "1 1/2 tsp kosher salt, divided + 1 tsp black pepper, divided",
+            "3 Tbsp olive oil",
+            "1 large red onion, chopped",
+            "4 garlic cloves, minced",
+            "2 cans (14.5 oz) fire-roasted diced tomatoes, with juices",
+            "2 tsp dried oregano",
+            "1/4 tsp red pepper flakes in the dish (put more on the table for anyone who wants heat)",
+            "2 tsp honey",
+            "2 Tbsp red wine vinegar",
+            "1 bag (9 oz) spinach, roughly chopped (addition)",
+            "2 cans (14 oz) artichoke hearts, drained and quartered",
+            "3/4 cup pitted Kalamata olives",
+            "1 cup crumbled feta (about half the 8-oz block; the rest is Thursday's)",
+            "1/4 cup chopped parsley (the rest of the bunch is Thursday's)",
+            "1 lemon, juiced (about 3-4 Tbsp)"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "2 cups whole-wheat couscous + 2 1/2 cups water or broth, 1 Tbsp olive oil, salt"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 400°F. Peel and devein the shrimp if needed, pat them very dry, and toss with 3/4 tsp salt and 1/2 tsp pepper.",
+        "Heat the olive oil in a large ovenproof skillet over medium. Add the onion with the remaining salt and pepper and cook about 5 min until soft, lowering the heat so it doesn't brown. Add the garlic and cook 30 seconds.",
+        "Stir in the tomatoes, oregano and red pepper flakes. Lower the heat to medium-low and simmer gently 10 min. Stir in the vinegar and honey, then the spinach a handful at a time until wilted. Remove from the heat.",
+        "Couscous: bring the water to a boil with the oil and a pinch of salt, stir in the couscous, cover, take it off the heat and let it sit 5 min, then fluff.",
+        "If 2 lb of shrimp won't fit in one layer in your skillet, pour the sauce into a 9x13 baking dish. Scatter the artichokes and olives over the sauce, arrange the shrimp in a single layer on top, and sprinkle with the feta.",
+        "Bake 12-15 min, until the sauce bubbles, the feta is lightly browned, and the shrimp are opaque and C-shaped. Colossal shrimp can take a few minutes longer than the recipe's 10-12. Don't let them curl into tight O's.",
+        "Squeeze the lemon over the top, scatter the parsley, and spoon it over the couscous."
+      ],
+      "weeks": [
+        "Mon 10/19"
+      ]
+    },
+    {
+      "id": "harvest-farro-bowls-cider-pork-roasted-squash-apple-feta",
+      "name": "Harvest Farro Bowls with Monday's Cider Pork, Roasted Squash, Apple & Feta",
+      "source": "https://smittenkitchen.com/2012/10/butternut-squash-salad-with-farro-and-pepitas/",
+      "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2012/10/butternut-squash-salad-with-farro-and-pepitas.jpg?fit=1200%2C800&quality=89&ssl=1",
+      "protein": "pork",
+      "mealType": "Grain bowl",
+      "active": "20 min",
+      "blurb": "Smitten Kitchen's butternut squash and farro salad (chewy farro, Monday's roasted squash, quick-pickled red onion, salty cheese, toasted pepitas) over spinach with crisp apple. Topped with Monday's pork, sliced and seared warm in its cider glaze. It's a warm-and-cold bowl, not reheated leftovers. No new protein to buy: it uses Monday's BOGO pork, and the squash is $0.99/lb this week.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Farro salad (recipe scaled 1.5x for a main)",
+          "items": [
+            "1 1/2 cups semi-pearled farro",
+            "Monday's reserved roasted butternut squash (~2.5 lb raw weight)",
+            "1/2 cup toasted salted pepitas",
+            "3/4 cup crumbled feta (the rest of Tuesday's block; the recipe's ricotta salata, which the author says feta can replace)",
+            "1 1/2 Tbsp sherry vinegar (or the red wine vinegar from Tuesday)",
+            "1 1/2 Tbsp water, 3/4 tsp kosher salt, 3/4 tsp sugar",
+            "1/2 red onion, finely chopped",
+            "4-5 Tbsp olive oil"
+          ]
+        },
+        {
+          "group": "Bowls (additions)",
+          "items": [
+            "Monday's reserved cooked pork tenderloin (~1.25 lb) + the 1/2 cup cider glaze",
+            "2 Gala apples, diced",
+            "1 bag (9 oz) spinach",
+            "Rest of the parsley bunch, chopped",
+            "1 lemon"
+          ]
+        }
+      ],
+      "directions": [
+        "Simmer the farro in a big pot of salted water until tender but still chewy, about 25-30 min (follow the package if it says otherwise). Drain and let it cool slightly.",
+        "Meanwhile, quick-pickle the onion: whisk the vinegar, water, salt and sugar until dissolved, and stir in the chopped red onion. It won't be fully covered, which is fine. Leave it at least 15-30 min.",
+        "Let Monday's squash come toward room temperature (or warm it 10 min at 400°F if you prefer).",
+        "In a big bowl, toss the farro, squash, onion with all its brine, the feta, pepitas, apples and parsley with 3 Tbsp olive oil. Add more oil and a squeeze of lemon to taste. It should taste bright and well salted.",
+        "Slice the pork 1/2 inch thick. Warm the cider glaze in a skillet over medium-high, add the pork, and turn it 1-2 min until hot and glossy. Don't cook it longer or it dries out.",
+        "Bowls: a big handful of spinach, a heap of farro salad, warm glazed pork on top, and a drizzle of whatever glaze is left in the pan."
+      ],
+      "weeks": [
+        "Mon 10/19"
+      ]
+    },
+    {
+      "id": "korean-beef-bulgogi-rice-bowls-sesame-spinach",
+      "name": "Korean Beef Bulgogi Rice Bowls with Sesame Spinach",
+      "source": "https://www.recipetineats.com/korean-beef-bowl-bulgogi-korean-bbq-beef/",
+      "image": "https://www.recipetineats.com/tachyon/2015/08/Korean-Beef-Bowl_Featured-Image.jpg",
+      "protein": "beef",
+      "mealType": "Stir-fry bowl",
+      "active": "25 min",
+      "blurb": "Thin-sliced ribeye marinated in soy, garlic, ginger and grated apple (the apple tenderizes and caramelizes), stir-fried hard with onion and carrot, then piled on rice with garlicky sesame spinach and scallions. Gochujang or sriracha goes on the table, not in the pan. Chosen for the deal: GreenWise Angus boneless thin-sliced ribeye at $22.49/lb, the #1 protein in this week's ad. It's already sliced, so there's no knife work.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Beef + marinade (recipe scaled ~2.25x: 14 oz serves 2-3)",
+          "items": [
+            "2 lb GreenWise thin-sliced boneless ribeye, cut into 1/2-inch strips",
+            "7 Tbsp soy sauce",
+            "3 Tbsp brown sugar",
+            "2 Tbsp mirin",
+            "1 Tbsp toasted sesame oil",
+            "1/3 cup grated yellow onion (about 1/4 of the large onion)",
+            "5 garlic cloves, minced",
+            "1/3 cup grated red apple (about 1/2 Gala apple, skin on)",
+            "1 tsp grated fresh ginger",
+            "Black pepper"
+          ]
+        },
+        {
+          "group": "Stir-fry",
+          "items": [
+            "The rest of the large yellow onion, thinly sliced",
+            "1 bunch scallions: whites sliced for the pan, greens sliced for the top",
+            "2 carrots, halved lengthwise and thinly sliced on the diagonal",
+            "2-3 Tbsp neutral oil",
+            "1 Tbsp sesame seeds + more to serve"
+          ]
+        },
+        {
+          "group": "Bowls",
+          "items": [
+            "2 1/2 cups jasmine or brown rice, uncooked",
+            "1 bag (9 oz) spinach",
+            "1 tsp toasted sesame oil, 1 small garlic clove (minced), pinch of salt, sesame seeds",
+            "Gochujang or sriracha on the side for heat"
+          ]
+        }
+      ],
+      "directions": [
+        "MORNING: pat the beef strips dry. Stir together the soy sauce, brown sugar, mirin, sesame oil, grated onion, garlic, grated apple, ginger and pepper. Toss with the beef, cover, and refrigerate 1 hour to all day.",
+        "Start the rice (on the stove or in the rice cooker).",
+        "Sesame spinach: in a large wok or skillet over medium-high, heat 1 tsp sesame oil and the small garlic clove for 20 seconds, add the spinach and a pinch of salt, and toss until just wilted, about 1-2 min. Tip it into a bowl and sprinkle with sesame seeds. Wipe out the pan.",
+        "Heat 1 Tbsp neutral oil in the pan over HIGH heat. Add a third of the sliced onion and scallion whites and cook 1 min.",
+        "Add a third of the beef with its marinade and a third of the carrots. Toss constantly 3-5 min, until the beef is just cooked and starting to caramelize while still a little saucy. Move it to a bowl. Repeat with the remaining two batches.",
+        "Toss everything together with the sesame seeds. Spoon over rice with the sesame spinach alongside and the scallion greens on top. Gochujang or sriracha at the table."
+      ],
+      "weeks": [
+        "Mon 10/19"
       ]
     },
     {

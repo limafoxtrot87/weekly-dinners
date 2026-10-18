@@ -1,78 +1,80 @@
 {
- "week": "Mon 10/12",
- "generated": "Oct 11, 2026",
+ "week": "Mon 10/19",
+ "generated": "Oct 18, 2026",
  "servings": 4,
  "store": "Publix",
  "pantryTitle": "Probably have. Check before you leave",
- "reuse": "Deal-anchored week: pork shoulder steaks BOGO (Mon), Perdue thin-sliced chicken BOGO (Tue), Publix jumbo shrimp $14.99/24 oz (Wed), Butterball 3-lb ground turkey $10.99 (Thu). Cook once, eat twice: Monday's double jar of pickled red onions tops Thursday's meatball plates, and Wednesday's triple pot of rice becomes Thursday's lemon-herb rice. Shared perishables: green onions (Mon/Wed/Thu), cucumbers, tomatoes and red onions (Mon/Thu), parsley (Mon/Tue/Thu), lemons (Tue/Thu), the zucchini tray (Tue/Thu) and one bottle of white wine (Mon/Tue).",
+ "reuse": "Deal-anchored week: the two top-ranked proteins in the ad, GreenWise thin-sliced ribeye ($22.49/lb, Wed) and colossal white shrimp ($19.99/32 oz, Tue), plus Publix pork tenderloin BOGO FREE (Mon + Thu). The deals file puts real BOGOs at the bottom because it records their saving as $0, but this one is the best value in the ad. Cook once, eat twice: Monday roasts all the pork and both squashes. A whole tenderloin, half the squash and 1/2 cup of cider glaze become Thursday's farro bowls, so Thursday needs no protein cooking. Shared perishables: spinach (Tue/Wed/Thu), feta, parsley, red onions and lemons (Tue/Thu), Gala apples (Wed/Thu), garlic (Mon/Tue/Wed).",
  "sections": [
   {
    "name": "Produce",
    "items": [
     {
-     "text": "3 bunches broccoli",
+     "text": "2 butternut squash, ~4.5 lb total",
      "tags": [
-      "Wed"
+      "Mon",
+      "Thu"
      ],
-     "flag": "2 for $6"
+     "flag": "Fall hard squash $0.99/lb. Monday roasts both; one sheet is Thursday's"
     },
     {
-     "text": "2 bags baby gold potatoes, 24 oz",
+     "text": "2 packs Brussels sprouts",
      "tags": [
       "Mon"
      ],
-     "flag": "$3.99 each"
+     "flag": "2 for $5"
     },
     {
-     "text": "2 trays yellow squash/zucchini, 24 oz: 1 squash, 1 zucchini",
+     "text": "3 bags Publix spinach, 9 oz",
      "tags": [
       "Tue",
-      "Thu"
-     ],
-     "flag": "$3.99 each. Hold ~12 oz zucchini back Tuesday for Thursday's meatballs"
-    },
-    {
-     "text": "3 hot house cucumbers",
-     "tags": [
-      "Mon",
-      "Thu"
-     ],
-     "flag": "2 for $4. 1 for Monday's salad, 2 for Thursday"
-    },
-    {
-     "text": "2 lb tomatoes on the vine",
-     "tags": [
-      "Mon",
-      "Thu"
-     ],
-     "flag": "$1.99/lb. 1 lb each night"
-    },
-    {
-     "text": "3 red onions",
-     "tags": [
-      "Mon",
-      "Thu"
-     ],
-     "flag": "2 pickled Monday (half the jar is Thursday's), 1/2 grated into the meatballs"
-    },
-    {
-     "text": "2 bunches green onions",
-     "tags": [
-      "Mon",
       "Wed",
       "Thu"
-     ]
+     ],
+     "flag": "2 for $4. One bag per night"
     },
     {
-     "text": "2 bunches flat-leaf parsley",
+     "text": "1 bag GreenWise organic Gala apples, 2 lb",
      "tags": [
-      "Mon",
+      "Wed",
+      "Thu"
+     ],
+     "flag": "$4.99. 1/2 apple for Wednesday's marinade, 2 for Thursday, the rest are snacks"
+    },
+    {
+     "text": "2 red onions",
+     "tags": [
       "Tue",
       "Thu"
      ]
     },
     {
-     "text": "4 lemons",
+     "text": "1 large yellow onion",
+     "tags": [
+      "Wed"
+     ]
+    },
+    {
+     "text": "2 carrots",
+     "tags": [
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 bunch scallions",
+     "tags": [
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 bunch flat-leaf parsley",
+     "tags": [
+      "Tue",
+      "Thu"
+     ]
+    },
+    {
+     "text": "2 lemons",
      "tags": [
       "Tue",
       "Thu"
@@ -82,59 +84,23 @@
      "text": "2 heads garlic",
      "tags": [
       "Mon",
-      "Wed",
-      "Thu"
+      "Tue",
+      "Wed"
      ],
-     "flag": "~20 cloves across the week"
+     "flag": "~16 cloves across the week"
     },
     {
-     "text": "1 piece fresh ginger, 3 inch",
+     "text": "1 small knob fresh ginger",
      "tags": [
       "Wed"
      ]
     },
     {
-     "text": "2 shallots",
+     "text": "Apple cider (non-alcoholic), at least 32 oz",
      "tags": [
-      "Tue"
-     ]
-    },
-    {
-     "text": "1 pkg fresh mint",
-     "tags": [
-      "Thu"
-     ]
-    },
-    {
-     "text": "1 pkg fresh oregano",
-     "tags": [
-      "Thu"
+      "Mon"
      ],
-     "flag": "or use 2 tsp dried"
-    },
-    {
-     "text": "1 pkg fresh dill",
-     "tags": [
-      "Thu"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Bakery",
-   "items": [
-    {
-     "text": "8 pitas",
-     "tags": [
-      "Thu"
-     ]
-    },
-    {
-     "text": "1 loaf whole-wheat bread (5 slices)",
-     "tags": [
-      "Thu"
-     ],
-     "flag": "Sara Lee Honey Wheat is BOGO FREE in the bread aisle"
+     "flag": "In the produce cooler. Monday's marinade uses 4 cups"
     }
    ]
   },
@@ -142,32 +108,26 @@
    "name": "Meat & Seafood",
    "items": [
     {
-     "text": "2 packs Publix pork shoulder blade steaks, ~4 lb total",
+     "text": "2 packs Publix extra lean pork loin tenderloins, 3.5-4 lb total",
      "tags": [
-      "Mon"
+      "Mon",
+      "Thu"
      ],
-     "flag": "BOGO FREE: Monday's anchor deal. Pick thick (3/4 inch+) steaks"
+     "flag": "BOGO FREE. Cook both Monday. If the packs are small, buy a second BOGO pair"
     },
     {
-     "text": "2 packs Perdue thin-sliced chicken breasts, ~2 1/2 lb total",
+     "text": "1 bag White Shrimp, colossal U/15, frozen, 32 oz",
      "tags": [
       "Tue"
      ],
-     "flag": "BOGO FREE: Tuesday's anchor deal"
+     "flag": "$19.99. Thaw in the fridge Monday night"
     },
     {
-     "text": "2 bags Publix peeled & deveined jumbo white shrimp, 24 oz, frozen",
+     "text": "2 lb GreenWise Angus thin-sliced boneless ribeye",
      "tags": [
       "Wed"
      ],
-     "flag": "$14.99 each. Frozen holds until Wednesday; the $8.99/lb counter shrimp is cheaper but previously frozen and won't last 3 days"
-    },
-    {
-     "text": "1 tray Butterball ground turkey, 85% lean, 48 oz",
-     "tags": [
-      "Thu"
-     ],
-     "flag": "$10.99, about $3.66/lb"
+     "flag": "$22.49/lb, about $45. Check the tag for a BOGO. Cheaper swap: 3 packs Demakes shaved beef, 10 oz, $5.99 each"
     }
    ]
   },
@@ -175,17 +135,12 @@
    "name": "Dairy & Eggs",
    "items": [
     {
-     "text": "16 oz plain Greek yogurt (2% or whole)",
+     "text": "1 block feta, 8 oz",
      "tags": [
-      "Thu"
-     ]
-    },
-    {
-     "text": "6 oz crumbled feta",
-     "tags": [
+      "Tue",
       "Thu"
      ],
-     "flag": "Président is 2 for $9"
+     "flag": "1 cup Tuesday, 3/4 cup Thursday"
     }
    ]
   },
@@ -193,45 +148,44 @@
    "name": "Center Aisles",
    "items": [
     {
-     "text": "1 bottle dry white wine",
-     "tags": [
-      "Mon",
-      "Tue"
-     ],
-     "flag": "or swap in low-sodium chicken broth"
-    },
-    {
-     "text": "1 carton low-sodium chicken broth",
+     "text": "2 cans fire-roasted diced tomatoes, 14.5 oz",
      "tags": [
       "Tue"
      ],
-     "flag": "Progresso is BOGO FREE"
+     "flag": "Plain, not Rotel. Rotel has green chiles"
     },
     {
-     "text": "12 oz whole-wheat spaghetti",
+     "text": "2 cans artichoke hearts, 14 oz",
      "tags": [
       "Tue"
      ]
     },
     {
-     "text": "1 jar brined capers",
+     "text": "1 jar pitted Kalamata olives",
      "tags": [
       "Tue"
      ]
     },
     {
-     "text": "1 bag rice, 32 oz (jasmine or GreenWise organic)",
+     "text": "1 box whole-wheat couscous",
      "tags": [
-      "Wed",
+      "Tue"
+     ],
+     "flag": "2 cups"
+    },
+    {
+     "text": "1 bag farro (semi-pearled)",
+     "tags": [
       "Thu"
      ],
-     "flag": "GreenWise organic is 2 for $7. Wednesday cooks 4 1/2 cups dry, about half for Thursday"
+     "flag": "1 1/2 cups"
     },
     {
-     "text": "Seasoned breadcrumbs (whole-wheat or panko)",
+     "text": "1 bag toasted salted pepitas",
      "tags": [
       "Thu"
-     ]
+     ],
+     "flag": "1/2 cup"
     }
    ]
   }
@@ -245,322 +199,312 @@
     "Wed",
     "Thu"
    ],
-   "flag": "~1 cup olive oil across the week. Bertolli is BOGO if you're low"
+   "flag": "~1 cup olive oil across the week"
   },
   {
    "text": "Butter",
    "tags": [
-    "Mon",
-    "Tue"
+    "Mon"
    ],
-   "flag": "9 Tbsp. Cabot is BOGO FREE if you're low"
+   "flag": "4 Tbsp"
   },
   {
    "text": "Soy sauce",
    "tags": [
-    "Mon",
     "Wed"
    ],
-   "flag": "~3/4 cup"
+   "flag": "7 Tbsp"
   },
   {
-   "text": "Rice vinegar, honey, toasted sesame seeds",
+   "text": "Toasted sesame oil, sesame seeds, mirin",
    "tags": [
     "Wed"
    ]
   },
   {
-   "text": "Red wine vinegar (1 cup) + sugar",
+   "text": "Honey",
+   "tags": [
+    "Mon",
+    "Tue"
+   ]
+  },
+  {
+   "text": "Brown sugar + white sugar",
+   "tags": [
+    "Wed",
+    "Thu"
+   ]
+  },
+  {
+   "text": "Dijon mustard",
+   "tags": [
+    "Mon"
+   ],
+   "flag": "3 Tbsp"
+  },
+  {
+   "text": "Apple cider vinegar",
    "tags": [
     "Mon"
    ]
   },
   {
-   "text": "All-purpose flour",
+   "text": "Red wine vinegar (sherry vinegar if you have it)",
    "tags": [
-    "Tue"
-   ]
-  },
-  {
-   "text": "Eggs",
-   "tags": [
+    "Tue",
     "Thu"
-   ],
-   "flag": "2"
+   ]
   },
   {
-   "text": "Parmesan",
+   "text": "Bay leaves, dried oregano, red pepper flakes",
    "tags": [
+    "Mon",
     "Tue"
    ]
   },
   {
-   "text": "Kosher salt, black pepper, red pepper flakes",
+   "text": "Jasmine or brown rice",
+   "tags": [
+    "Wed"
+   ],
+   "flag": "2 1/2 cups"
+  },
+  {
+   "text": "Gochujang or sriracha",
+   "tags": [
+    "Wed"
+   ],
+   "flag": "For heat at the table"
+  },
+  {
+   "text": "Kosher salt + black pepper",
    "tags": [
     "all"
    ]
   },
   {
-   "text": "Foil, parchment, oil spray",
+   "text": "Gallon zip-top bags",
    "tags": [
-    "Mon",
-    "Wed",
-    "Thu"
+    "Mon"
    ]
   }
  ],
  "dinners": [
   {
    "day": "Mon",
-   "name": "Seared Pork Shoulder Steaks with Garlic-Wine Pan Sauce, Roasted Baby Golds & Cucumber-Tomato Salad",
+   "name": "Apple Cider Glazed Pork Tenderloin with Roasted Butternut Squash & Brussels Sprouts",
    "protein": "pork",
    "mealType": "Oven + skillet",
-   "blurb": "Thick pork shoulder steaks, slow-baked and then hard-seared in cast iron, finished with a garlic, scallion, white wine and butter pan sauce. Served with crispy roasted baby gold potatoes and a sharp cucumber-tomato salad with quick-pickled red onions. Chosen for this week's anchor deal: Publix pork shoulder blade steaks, BOGO FREE.",
+   "blurb": "Pork tenderloin marinated in apple cider, honey and garlic, seared, roasted, then rolled in the marinade boiled down with butter and Dijon into a glossy glaze. Served with caramelized roasted butternut squash and crispy Brussels sprouts. Chosen for the deal: Publix extra lean pork loin tenderloins, BOGO FREE. This is the ad's best protein value, but the deals file ranks it near the bottom because BOGOs record a $0 saving.",
    "serves": 4,
    "active": "40 min",
-   "total": "1 hr 30 min (30 min of it is the pork resting at room temp)",
-   "warn": "Make the FULL double jar of pickled onions. Half is Thursday's.",
-   "image": "https://www.wellplated.com/wp-content/uploads/2024/12/Pork-Steak.jpg",
-   "alt": "Seared pork shoulder steak with garlic pan sauce and green onions",
+   "total": "1 hr 20 min (+1-24 hr marinating, hands-off)",
+   "warn": "COOK ONCE, EAT TWICE: roast ALL the pork and BOTH squashes. Set aside 1 whole cooked tenderloin (~1.25 lb), the second sheet of squash, and 1/2 cup of glaze for Thursday.",
+   "image": "https://www.recipetineats.com/tachyon/2016/01/Apple-Cider-Glazed-Pork-Tenderloin_6.jpg",
+   "alt": "Sliced apple cider glazed pork tenderloin with a glossy sauce",
    "ingredients": [
     {
-     "group": "Pork steaks (recipe scaled 1.5x; bone-in shoulder steaks)",
+     "group": "Pork + marinade (recipe scaled ~3.5x, sugar cut since fresh cider is sweet)",
      "items": [
-      "2 packs Publix pork shoulder blade steaks, about 4 lb bone-in total, 3/4 to 1 inch thick (BOGO)",
-      "1 Tbsp kosher salt",
-      "3/4 tsp black pepper",
-      "1 1/2 to 2 Tbsp neutral oil"
-     ]
-    },
-    {
-     "group": "Pan sauce (1.5x)",
-     "items": [
-      "6 green onions, thinly sliced (the rest of the bunch goes to Wednesday)",
-      "5 garlic cloves, minced",
-      "1 1/2 cups dry white wine (or low-sodium chicken broth). Save the rest of the bottle for Tuesday.",
-      "1 Tbsp soy sauce",
-      "3 Tbsp unsalted butter"
-     ]
-    },
-    {
-     "group": "Potatoes",
-     "items": [
-      "2 bags (24 oz each) baby gold potatoes, halved",
-      "3 Tbsp olive oil",
-      "1 tsp kosher salt + pepper"
-     ]
-    },
-    {
-     "group": "Pickled onions (DOUBLE: half is Thursday's) + salad",
-     "items": [
-      "2 red onions, sliced paper-thin",
-      "1 cup red wine vinegar",
-      "1 cup hot water",
-      "1 Tbsp sugar",
-      "2 tsp kosher salt",
-      "1 hot house cucumber, chunked",
-      "1 lb tomatoes on the vine, chunked (the other pound is Thursday's)",
-      "2 Tbsp olive oil",
-      "Small handful parsley, chopped"
-     ]
-    }
-   ],
-   "directions": [
-    "4:30 PM: PICKLE THE ONIONS. Put both sliced red onions in a quart jar with the vinegar, hot water, sugar and salt. Shake and leave it on the counter. Half the jar is Thursday's, so make the full batch.",
-    "Heat the oven to 425°F. Pat the pork steaks dry and season all over with the salt and pepper. Set them on a wire rack over a parchment-lined sheet pan and leave them at room temperature for 30 minutes.",
-    "Meanwhile, toss the halved potatoes with the olive oil, salt and pepper on a second sheet pan. Roast 25-30 min, tossing once, until browned. Pull them out, tent with foil, and drop the oven to 275°F (prop the door open for 2-3 min).",
-    "Bake the pork at 275°F until the thickest part reads 120-125°F, 25-35 min. Bone-in thick steaks run longer than the recipe's 20-25 min. Pull any that finish early. Slide the potatoes onto the lower rack for the last 10 min to rewarm.",
-    "Salad: toss the cucumber and tomatoes with the olive oil, a pinch of salt, a splash of the pickling liquid, a big forkful of pickled onions and the parsley.",
-    "Heat 1 Tbsp oil in a cast-iron skillet over medium-high until it's smoking. Sear the steaks 2 at a time without moving them, about 3 min, until crusted. Flip and cook 2-3 min more, to 145°F. Add oil between batches. Rest under foil for 5 min.",
-    "Sauce: lower the heat to medium. Add the green onions and garlic and cook 30 seconds. Add the wine and soy sauce, scraping up the browned bits. Simmer until reduced by a bit more than half, about 5-6 min. Off the heat, stir in the butter.",
-    "Spoon the sauce over the steaks. Serve with the potatoes and salad. Shoulder steaks are fatty and very forgiving, so they're hard to overcook. Paul gets the biggest steak (about 50 g protein)."
-   ],
-   "reuse": "Hands the second half of the pickled red onions to Thursday's meatball plates. Shares the green onions with Wednesday, the cucumber, tomatoes and parsley with Thursday, and the bottle of white wine with Tuesday.",
-   "source": "https://www.wellplated.com/pork-steak/"
-  },
-  {
-   "day": "Tue",
-   "name": "Lemon Chicken Piccata with Whole-Wheat Spaghetti & Roasted Squash",
-   "protein": "chicken",
-   "mealType": "Skillet",
-   "blurb": "Thin chicken cutlets dusted in flour and pan-fried golden in olive oil and butter, then glossed with a lemon, caper, shallot and white wine sauce. Extra sauce dresses whole-wheat spaghetti, and roasted yellow squash and zucchini go alongside. Chosen for Perdue thin-sliced chicken breasts, BOGO FREE: both packs go in tonight.",
-   "serves": 4,
-   "active": "35 min",
-   "total": "40 min",
-   "warn": "Roast only ~1 1/2 trays of squash. Hold back 2 small zucchini (~12 oz) for Thursday's meatballs.",
-   "image": "https://www.wellplated.com/wp-content/uploads/2024/03/Lemon-Chicken-Piccata-Recipe.1.jpg",
-   "alt": "Lemon chicken piccata cutlets in a skillet with capers and parsley",
-   "ingredients": [
-    {
-     "group": "Chicken (recipe scaled 1.25x; Perdue cutlets are already thin)",
-     "items": [
-      "2 packs Perdue thin-sliced chicken breasts, about 2 1/2 lb (BOGO)",
-      "1 1/4 tsp kosher salt",
-      "1/2 tsp black pepper",
-      "1/4 cup all-purpose flour",
-      "3 Tbsp olive oil",
-      "3 Tbsp unsalted butter (for cooking)"
-     ]
-    },
-    {
-     "group": "Piccata sauce (1.5x, so there's enough for the pasta)",
-     "items": [
-      "2 shallots, thinly sliced",
-      "1/2 cup low-sodium chicken broth",
-      "1/2 cup dry white wine (the rest of Monday's bottle)",
-      "2 lemons, zested and juiced",
-      "1/3 cup brined capers, rinsed",
-      "3 Tbsp cold unsalted butter (to finish)",
-      "1/3 cup chopped parsley, plus more to garnish"
-     ]
-    },
-    {
-     "group": "Sides",
-     "items": [
-      "12 oz whole-wheat spaghetti",
-      "1 tray (24 oz) yellow squash + about half the zucchini tray, cut into half-moons",
-      "2 Tbsp olive oil, salt, pepper",
-      "Parmesan, to pass"
-     ]
-    }
-   ],
-   "directions": [
-    "Heat the oven to 425°F and put a pot of salted water on to boil.",
-    "Toss the squash and zucchini with the olive oil, salt and pepper on a sheet pan. Roast 20-25 min until the edges brown. KEEP 2 small zucchini (~12 oz) raw for Thursday.",
-    "Pat the cutlets dry. If any piece is thicker than 1/2 inch, slice it in half horizontally. Season both sides with salt and pepper and dredge lightly in the flour.",
-    "Heat 1 1/2 Tbsp oil and 1 1/2 Tbsp butter in a large heavy skillet over medium to medium-high heat. Cook the cutlets in a single layer, 2-3 min per side, until golden and cooked through (165°F). Move them to a plate. Repeat with the rest of the oil and cooking butter; it takes 2-3 batches.",
-    "Meanwhile, cook the spaghetti according to the package. Save 1 cup of pasta water before draining.",
-    "Lower the heat to medium-low. Cook the shallots in the same skillet 2-3 min until lightly caramelized. Add the wine and broth, raise the heat to medium, and simmer 3-4 min until reduced by half.",
-    "Turn the heat to low. Stir in the lemon zest and juice, the capers, and the 3 Tbsp cold butter. Season to taste, then stir in the parsley.",
-    "Toss the drained spaghetti with about a third of the sauce and a splash of pasta water. Spoon the rest of the sauce over the chicken. Squeeze lemon over the squash. Pass the Parmesan. Paul's share is about 10 oz of chicken (~65 g protein)."
-   ],
-   "reuse": "Holds back ~12 oz of zucchini for Thursday's meatballs. Shares the lemons and parsley with Thursday and finishes Monday's bottle of wine.",
-   "source": "https://www.wellplated.com/chicken-piccata/"
-  },
-  {
-   "day": "Wed",
-   "name": "Sheet Pan Sesame-Ginger Shrimp & Broccoli over Jasmine Rice",
-   "protein": "shrimp",
-   "mealType": "Sheet pan",
-   "blurb": "Broccoli roasted in a soy, rice vinegar, honey, garlic and ginger glaze until the edges char. Jumbo shrimp go onto the pan for the last 5 minutes, then everything gets sesame seeds and scallions and goes over jasmine rice. No cornstarch in this sauce, which is why this recipe won over the stir-fry versions. Chosen for Publix peeled & deveined jumbo white shrimp, 24-oz bags at $14.99.",
-   "serves": 4,
-   "active": "20 min",
-   "total": "50 min",
-   "warn": "Move the shrimp to the fridge Tuesday night to thaw. Cook a TRIPLE pot of rice, because about half is Thursday's.",
-   "image": "https://www.wellplated.com/wp-content/uploads/2018/09/Shrimp-and-Broccoli-Chinese-Food.jpg",
-   "alt": "Sheet pan of roasted shrimp and broccoli with sesame seeds and green onions",
-   "ingredients": [
-    {
-     "group": "Shrimp and broccoli (recipe doubled, plus extra shrimp; two sheet pans)",
-     "items": [
-      "3 lb jumbo raw shrimp, peeled and deveined (2 frozen 24-oz bags, thawed)",
-      "3 bunches broccoli, cut into florets (about 10 cups)",
-      "4 Tbsp toasted sesame seeds",
-      "1/2 cup sliced green onions (the rest of Monday's bunch + the second bunch)"
-     ]
-    },
-    {
-     "group": "Sauce (2x)",
-     "items": [
-      "2/3 cup lower-sodium soy sauce",
-      "6 Tbsp rice vinegar",
-      "6 Tbsp extra-virgin olive oil",
-      "4 Tbsp honey",
-      "4 Tbsp water",
+      "2 packs Publix extra lean pork tenderloins, 3.5-4 lb total (BOGO)",
+      "4 cups (32 oz) apple cider, non-alcoholic (the original uses sweet hard cider, which also works)",
+      "3 bay leaves",
+      "3 Tbsp honey",
+      "2 Tbsp apple cider vinegar (adaptation: balances the sweeter non-alcoholic cider)",
       "6 garlic cloves, minced",
-      "2 Tbsp minced fresh ginger",
-      "1/4 tsp red pepper flakes (more at the table)"
+      "1 1/2 tsp kosher salt + plenty of black pepper",
+      "2 Tbsp olive oil for searing"
      ]
     },
     {
-     "group": "Rice (TRIPLE: about half is Thursday's)",
+     "group": "Glaze",
      "items": [
-      "4 1/2 cups dry jasmine rice + water per the package"
-     ]
-    }
-   ],
-   "directions": [
-    "TUESDAY NIGHT: move both bags of shrimp to the fridge to thaw. If you forget, put them in a sealed bag in cold water for 15-20 min on Wednesday.",
-    "Cook all 4 1/2 cups of rice (use a big pot or two batches). That's three times what tonight needs: about half is Thursday's.",
-    "Heat the oven to 400°F. Line two rimmed sheet pans with foil and oil them lightly. Divide the florets between the pans.",
-    "Whisk the soy sauce, rice vinegar, olive oil, honey, water, garlic, ginger and pepper flakes. Drizzle half over the broccoli and toss. Roast 20-22 min, tossing and swapping the pans halfway, until tender.",
-    "Pat the shrimp dry. Add them to the pans, pour half of the remaining sauce over, toss, and spread in an even layer. Roast 5-6 min, just until pink and opaque. Don't let them go longer.",
-    "Sprinkle with the sesame seeds and green onions. Serve over rice with the last of the sauce drizzled on top. Sriracha or pepper flakes on the side for heat.",
-    "BEFORE YOU SIT DOWN: spread about 5 cups of the leftover rice on a plate or sheet to cool fast, then refrigerate it covered. That's Thursday's lemon-herb rice. Paul's share is about 3/4 lb of shrimp (~70 g protein)."
-   ],
-   "reuse": "Over-cooks the rice on purpose: about 5 cups becomes Thursday's lemon-herb rice. Finishes the green onions from Monday; save a few dark-green tops for Thursday's tzatziki.",
-   "source": "https://www.wellplated.com/shrimp-and-broccoli/"
-  },
-  {
-   "day": "Thu",
-   "name": "Greek Turkey Meatballs with Tzatziki, Lemon-Herb Rice & Pickled Onions",
-   "protein": "turkey",
-   "mealType": "Bowls / pitas",
-   "blurb": "Juicy turkey meatballs packed with grated zucchini, garlic, red onion, mint, parsley and oregano, baked on sheet pans. Serve them over lemon-herb rice made from Wednesday's batch or tucked into warm pitas, with cool garlicky tzatziki, cucumber, tomato, feta and Monday's pickled onions. Chosen for the Butterball 48-oz ground turkey tray at $10.99, about $3.66/lb.",
-   "serves": 4,
-   "active": "40 min",
-   "total": "50 min (+1 hr tzatziki chill, hands-off)",
-   "warn": "Make the tzatziki FIRST; it needs an hour in the fridge. The extra meatballs are lunches.",
-   "image": "https://www.skinnytaste.com/wp-content/uploads/2010/08/Greek-Turkey-Meatballs-9.jpg",
-   "alt": "Greek turkey meatballs with tzatziki sauce",
-   "ingredients": [
-    {
-     "group": "Meatballs (recipe scaled 2.4x to the full 3 lb tray)",
-     "items": [
-      "3 lb ground turkey (Butterball 48-oz tray)",
-      "2 1/2 cups grated zucchini, squeezed very dry (the ~12 oz held back Tuesday)",
-      "5 slices whole-wheat bread",
-      "2/3 cup seasoned breadcrumbs (whole-wheat or panko)",
-      "2 large eggs",
-      "7 garlic cloves, minced",
-      "1/2 red onion, grated",
-      "1/3 cup chopped fresh oregano (or 2 tsp dried)",
-      "2/3 cup chopped parsley",
-      "1/3 cup chopped fresh mint",
-      "2 1/2 tsp kosher salt + black pepper",
-      "Olive oil spray"
-     ]
-    },
-    {
-     "group": "Tzatziki (2x; skinnytaste.com/tzatziki)",
-     "items": [
-      "16 oz plain Greek yogurt (2% or whole; thick enough that you can skip the recipe's straining)",
-      "1 hot house cucumber, peeled, seeded, grated and squeezed dry (about 2 cups)",
-      "2 garlic cloves, crushed",
-      "2 tsp lemon juice",
-      "2 Tbsp chopped fresh dill",
-      "2 Tbsp sliced green-onion tops (in place of the recipe's chives, saved from Wednesday)",
+      "4 Tbsp butter",
+      "3 Tbsp Dijon mustard",
       "Salt and pepper"
      ]
     },
     {
-     "group": "Lemon-herb rice + to serve",
+     "group": "Vegetables",
      "items": [
-      "~5 cups of Wednesday's cooked rice",
-      "1 lemon, zested and juiced",
-      "2 Tbsp olive oil",
-      "1/4 cup parsley + 2 Tbsp mint, chopped",
-      "8 pitas",
-      "1 hot house cucumber, sliced",
-      "1 lb tomatoes on the vine, chopped",
-      "Monday's pickled red onions",
-      "6 oz crumbled feta",
-      "Hot sauce on the side"
+      "2 butternut squash (~4.5 lb total), peeled, seeded, cut into 3/4-inch cubes",
+      "2 packs Brussels sprouts, trimmed and halved",
+      "5 Tbsp olive oil, kosher salt, pepper"
      ]
     }
    ],
    "directions": [
-    "TZATZIKI FIRST: grate the cucumber, salt it lightly, and squeeze it hard in a clean towel. Stir it into the yogurt with the garlic, lemon juice, dill, green-onion tops, salt and pepper. Refrigerate at least 1 hour.",
-    "Heat the oven to 350°F. Line 2 sheet pans with parchment or spray them with oil.",
-    "Wet the bread with water, squeeze out the excess, and tear it into small pieces in a large bowl. Add the turkey, eggs, zucchini, breadcrumbs, garlic, grated onion, mint, parsley, oregano, salt and pepper. Mix gently with your hands until just combined.",
-    "Form 1/4-cup portions and flatten them slightly (about 32-36). Refrigerate them 10-15 min if you have time; they hold their shape better.",
-    "Bake 20-25 min until cooked through (165°F), rotating the pans halfway. This is the recipe's oven method. Its stovetop method (very low heat, 5-6 min per side) is too slow for 3 lb.",
-    "Rice: warm Wednesday's rice in a large covered skillet with the olive oil and a splash of water, 5 min, until steaming. Off the heat, stir in the lemon zest and juice, the parsley, the mint and a pinch of salt.",
-    "Slice the cucumber, chop the tomatoes, crumble the feta and warm the pitas.",
-    "Build bowls or pitas: rice, meatballs, a big spoon of tzatziki, cucumber-tomato, pickled onions and feta. Paul's share is about 12 oz of turkey (~65 g protein). Leftover meatballs are Friday lunches."
+    "MORNING (or Sunday night): whisk the cider, bay leaves, honey, cider vinegar, garlic, salt and pepper. Put the pork and marinade in 2 gallon zip-top bags and refrigerate 1-24 hours. Take it out 30 min before cooking.",
+    "Heat the oven to 400°F. Toss ALL the squash cubes with 3 Tbsp olive oil, salt and pepper and spread them over 2 sheet pans in a single layer. Sheet 2 is Thursday's. Toss the Brussels sprouts with 2 Tbsp olive oil, salt and pepper and add them to the open space on sheet 1, cut side down (use a third pan if crowded).",
+    "Roast 30-35 min, flipping halfway, until the squash is tender and browned at the edges and the sprouts are crisp. Pull them, tent sheet 1 with foil, and let sheet 2 cool. Drop the oven to 375°F.",
+    "Lift the pork out of the marinade and pat it dry. SAVE THE MARINADE. Heat the olive oil in a large oven-safe skillet over medium-high and sear the tenderloins (in batches if needed) until golden on all sides, 5-6 min. Move them to a sheet pan.",
+    "Roast at 375°F for 14-20 min, until the thickest part reads 145°F. Rest loosely covered with foil for 5-10 min.",
+    "Glaze: put the same skillet over high heat. Melt the butter, then pour in the reserved marinade and the Dijon and whisk. Boil hard until syrupy and reduced by about two-thirds, 12-15 min (this batch is about 3.5x the original, so it takes longer than the recipe's 4-5 min). Fish out the bay leaves and adjust the salt.",
+    "SET ASIDE FOR THURSDAY: 1 whole tenderloin left unsliced, 1/2 cup of glaze, and all of sheet 2's squash. Cool them and refrigerate in separate containers.",
+    "Roll the remaining pork in the glaze and slice it 1/2 inch thick. Serve with the squash and sprouts, and spoon the extra glaze over everything, sprouts included."
    ],
-   "reuse": "Wraps up the week. Uses Wednesday's extra rice, Monday's pickled onions, the zucchini held back Tuesday, the green-onion tops saved Wednesday, and the last of the lemons, parsley, cucumber and tomatoes.",
-   "source": "https://www.skinnytaste.com/greek-turkey-meatballs/"
+   "reuse": "Hands off to THURSDAY: 1 cooked tenderloin, 1/2 cup cider glaze, and half the roasted squash become Thursday's harvest farro bowls, so Thursday needs no protein cooking.",
+   "source": "https://www.recipetineats.com/apple-cider-glazed-pork-tenderloin/"
+  },
+  {
+   "day": "Tue",
+   "name": "Baked Mediterranean Shrimp with Feta, Artichokes & Olives over Whole-Wheat Couscous",
+   "protein": "shrimp",
+   "mealType": "Skillet + oven",
+   "blurb": "Big shrimp baked on a garlicky fire-roasted tomato sauce with artichokes, Kalamata olives and feta, finished with lemon and parsley. Spinach is wilted into the sauce for extra greens. Chosen for the deal: White Shrimp, colossal U/15, 32-oz bag, $19.99, the #2 protein in this week's ad.",
+   "serves": 4,
+   "active": "25 min",
+   "total": "45 min",
+   "warn": "Move the shrimp from the freezer to the fridge Monday night. Fallback: thaw in a bowl of cold water for 20-30 min.",
+   "image": "https://www.wellplated.com/wp-content/uploads/2020/03/Baked-Mediterranean-Shrimp.jpg",
+   "alt": "Baked shrimp with tomatoes, artichokes, olives and feta in a skillet",
+   "ingredients": [
+    {
+     "group": "Shrimp + sauce (recipe scaled 2x: 1 lb serves 3)",
+     "items": [
+      "2 lb colossal white shrimp (the full 32-oz bag), thawed, peeled and deveined, patted dry",
+      "1 1/2 tsp kosher salt, divided + 1 tsp black pepper, divided",
+      "3 Tbsp olive oil",
+      "1 large red onion, chopped",
+      "4 garlic cloves, minced",
+      "2 cans (14.5 oz) fire-roasted diced tomatoes, with juices",
+      "2 tsp dried oregano",
+      "1/4 tsp red pepper flakes in the dish (put more on the table for anyone who wants heat)",
+      "2 tsp honey",
+      "2 Tbsp red wine vinegar",
+      "1 bag (9 oz) spinach, roughly chopped (addition)",
+      "2 cans (14 oz) artichoke hearts, drained and quartered",
+      "3/4 cup pitted Kalamata olives",
+      "1 cup crumbled feta (about half the 8-oz block; the rest is Thursday's)",
+      "1/4 cup chopped parsley (the rest of the bunch is Thursday's)",
+      "1 lemon, juiced (about 3-4 Tbsp)"
+     ]
+    },
+    {
+     "group": "To serve",
+     "items": [
+      "2 cups whole-wheat couscous + 2 1/2 cups water or broth, 1 Tbsp olive oil, salt"
+     ]
+    }
+   ],
+   "directions": [
+    "Heat the oven to 400°F. Peel and devein the shrimp if needed, pat them very dry, and toss with 3/4 tsp salt and 1/2 tsp pepper.",
+    "Heat the olive oil in a large ovenproof skillet over medium. Add the onion with the remaining salt and pepper and cook about 5 min until soft, lowering the heat so it doesn't brown. Add the garlic and cook 30 seconds.",
+    "Stir in the tomatoes, oregano and red pepper flakes. Lower the heat to medium-low and simmer gently 10 min. Stir in the vinegar and honey, then the spinach a handful at a time until wilted. Remove from the heat.",
+    "Couscous: bring the water to a boil with the oil and a pinch of salt, stir in the couscous, cover, take it off the heat and let it sit 5 min, then fluff.",
+    "If 2 lb of shrimp won't fit in one layer in your skillet, pour the sauce into a 9x13 baking dish. Scatter the artichokes and olives over the sauce, arrange the shrimp in a single layer on top, and sprinkle with the feta.",
+    "Bake 12-15 min, until the sauce bubbles, the feta is lightly browned, and the shrimp are opaque and C-shaped. Colossal shrimp can take a few minutes longer than the recipe's 10-12. Don't let them curl into tight O's.",
+    "Squeeze the lemon over the top, scatter the parsley, and spoon it over the couscous."
+   ],
+   "reuse": "Shares the feta block, parsley bunch, red onions, spinach and lemons with Thursday, and spinach with Wednesday. Don't make extra: seafood doesn't hold.",
+   "source": "https://www.wellplated.com/mediterranean-shrimp/"
+  },
+  {
+   "day": "Wed",
+   "name": "Korean Beef Bulgogi Rice Bowls with Sesame Spinach",
+   "protein": "beef",
+   "mealType": "Stir-fry bowl",
+   "blurb": "Thin-sliced ribeye marinated in soy, garlic, ginger and grated apple (the apple tenderizes and caramelizes), stir-fried hard with onion and carrot, then piled on rice with garlicky sesame spinach and scallions. Gochujang or sriracha goes on the table, not in the pan. Chosen for the deal: GreenWise Angus boneless thin-sliced ribeye at $22.49/lb, the #1 protein in this week's ad. It's already sliced, so there's no knife work.",
+   "serves": 4,
+   "active": "25 min",
+   "total": "35 min (+1 hr to overnight marinating, hands-off)",
+   "warn": "Marinate in the morning: the beef needs at least 1 hour. Cook it in 2-3 batches so it sears instead of stewing.",
+   "image": "https://www.recipetineats.com/tachyon/2015/08/Korean-Beef-Bowl_Featured-Image.jpg",
+   "alt": "Korean bulgogi beef over rice with sesame seeds and green onion",
+   "ingredients": [
+    {
+     "group": "Beef + marinade (recipe scaled ~2.25x: 14 oz serves 2-3)",
+     "items": [
+      "2 lb GreenWise thin-sliced boneless ribeye, cut into 1/2-inch strips",
+      "7 Tbsp soy sauce",
+      "3 Tbsp brown sugar",
+      "2 Tbsp mirin",
+      "1 Tbsp toasted sesame oil",
+      "1/3 cup grated yellow onion (about 1/4 of the large onion)",
+      "5 garlic cloves, minced",
+      "1/3 cup grated red apple (about 1/2 Gala apple, skin on)",
+      "1 tsp grated fresh ginger",
+      "Black pepper"
+     ]
+    },
+    {
+     "group": "Stir-fry",
+     "items": [
+      "The rest of the large yellow onion, thinly sliced",
+      "1 bunch scallions: whites sliced for the pan, greens sliced for the top",
+      "2 carrots, halved lengthwise and thinly sliced on the diagonal",
+      "2-3 Tbsp neutral oil",
+      "1 Tbsp sesame seeds + more to serve"
+     ]
+    },
+    {
+     "group": "Bowls",
+     "items": [
+      "2 1/2 cups jasmine or brown rice, uncooked",
+      "1 bag (9 oz) spinach",
+      "1 tsp toasted sesame oil, 1 small garlic clove (minced), pinch of salt, sesame seeds",
+      "Gochujang or sriracha on the side for heat"
+     ]
+    }
+   ],
+   "directions": [
+    "MORNING: pat the beef strips dry. Stir together the soy sauce, brown sugar, mirin, sesame oil, grated onion, garlic, grated apple, ginger and pepper. Toss with the beef, cover, and refrigerate 1 hour to all day.",
+    "Start the rice (on the stove or in the rice cooker).",
+    "Sesame spinach: in a large wok or skillet over medium-high, heat 1 tsp sesame oil and the small garlic clove for 20 seconds, add the spinach and a pinch of salt, and toss until just wilted, about 1-2 min. Tip it into a bowl and sprinkle with sesame seeds. Wipe out the pan.",
+    "Heat 1 Tbsp neutral oil in the pan over HIGH heat. Add a third of the sliced onion and scallion whites and cook 1 min.",
+    "Add a third of the beef with its marinade and a third of the carrots. Toss constantly 3-5 min, until the beef is just cooked and starting to caramelize while still a little saucy. Move it to a bowl. Repeat with the remaining two batches.",
+    "Toss everything together with the sesame seeds. Spoon over rice with the sesame spinach alongside and the scallion greens on top. Gochujang or sriracha at the table."
+   ],
+   "reuse": "Uses the same bag of Gala apples as Thursday (half an apple goes in the marinade) and the second of the 3 spinach bags (Tue/Wed/Thu).",
+   "source": "https://www.recipetineats.com/korean-beef-bowl-bulgogi-korean-bbq-beef/"
+  },
+  {
+   "day": "Thu",
+   "name": "Harvest Farro Bowls with Monday's Cider Pork, Roasted Squash, Apple & Feta",
+   "protein": "pork",
+   "mealType": "Grain bowl",
+   "blurb": "Smitten Kitchen's butternut squash and farro salad (chewy farro, Monday's roasted squash, quick-pickled red onion, salty cheese, toasted pepitas) over spinach with crisp apple. Topped with Monday's pork, sliced and seared warm in its cider glaze. It's a warm-and-cold bowl, not reheated leftovers. No new protein to buy: it uses Monday's BOGO pork, and the squash is $0.99/lb this week.",
+   "serves": 4,
+   "active": "20 min",
+   "total": "40 min (the farro simmers hands-off)",
+   "warn": "Needs Monday's reserved tenderloin, glaze and sheet of squash. Take them out of the fridge when you start the farro.",
+   "image": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2012/10/butternut-squash-salad-with-farro-and-pepitas.jpg?fit=1200%2C800&quality=89&ssl=1",
+   "alt": "Butternut squash and farro salad with pepitas and crumbled cheese",
+   "ingredients": [
+    {
+     "group": "Farro salad (recipe scaled 1.5x for a main)",
+     "items": [
+      "1 1/2 cups semi-pearled farro",
+      "Monday's reserved roasted butternut squash (~2.5 lb raw weight)",
+      "1/2 cup toasted salted pepitas",
+      "3/4 cup crumbled feta (the rest of Tuesday's block; the recipe's ricotta salata, which the author says feta can replace)",
+      "1 1/2 Tbsp sherry vinegar (or the red wine vinegar from Tuesday)",
+      "1 1/2 Tbsp water, 3/4 tsp kosher salt, 3/4 tsp sugar",
+      "1/2 red onion, finely chopped",
+      "4-5 Tbsp olive oil"
+     ]
+    },
+    {
+     "group": "Bowls (additions)",
+     "items": [
+      "Monday's reserved cooked pork tenderloin (~1.25 lb) + the 1/2 cup cider glaze",
+      "2 Gala apples, diced",
+      "1 bag (9 oz) spinach",
+      "Rest of the parsley bunch, chopped",
+      "1 lemon"
+     ]
+    }
+   ],
+   "directions": [
+    "Simmer the farro in a big pot of salted water until tender but still chewy, about 25-30 min (follow the package if it says otherwise). Drain and let it cool slightly.",
+    "Meanwhile, quick-pickle the onion: whisk the vinegar, water, salt and sugar until dissolved, and stir in the chopped red onion. It won't be fully covered, which is fine. Leave it at least 15-30 min.",
+    "Let Monday's squash come toward room temperature (or warm it 10 min at 400°F if you prefer).",
+    "In a big bowl, toss the farro, squash, onion with all its brine, the feta, pepitas, apples and parsley with 3 Tbsp olive oil. Add more oil and a squeeze of lemon to taste. It should taste bright and well salted.",
+    "Slice the pork 1/2 inch thick. Warm the cider glaze in a skillet over medium-high, add the pork, and turn it 1-2 min until hot and glossy. Don't cook it longer or it dries out.",
+    "Bowls: a big handful of spinach, a heap of farro salad, warm glazed pork on top, and a drizzle of whatever glaze is left in the pan."
+   ],
+   "reuse": "Runs entirely on Monday's cook-ahead (pork, glaze, squash) plus Tuesday's leftover feta, parsley and red onion. Uses the last spinach bag and the rest of the apples.",
+   "source": "https://smittenkitchen.com/2012/10/butternut-squash-salad-with-farro-and-pepitas/"
   }
  ]
 }
