@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 18, 2026",
+  "updated": "Oct 25, 2026",
   "recipes": [
     {
       "id": "greek-turkey-meatballs-tzatziki-lemon-herb-rice-pickled-onio",
@@ -459,6 +459,186 @@
       ],
       "weeks": [
         "Mon 10/19"
+      ]
+    },
+    {
+      "id": "baked-chicken-pesto-pasta-spinach-tomatoes-roasted-peppers",
+      "name": "Baked Chicken Pesto Pasta with Spinach, Tomatoes & Roasted Peppers",
+      "source": "https://www.wellplated.com/chicken-pesto-pasta/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2025/06/Chicken-Pesto-Pasta.jpg",
+      "protein": "chicken (from Mon)",
+      "mealType": "Pasta bake",
+      "active": "20 min",
+      "blurb": "Whole wheat penne in a pesto-Greek yogurt sauce with spinach, cherry tomatoes, Monday's roasted chicken and peppers, layered with mozzarella and baked until bubbly. No new protein: uses the second half of the Perdue BOGO chicken.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Full recipe (generous for 4, with lunch leftovers)",
+          "items": [
+            "~1.5 lb cooked chicken from Monday, cut into bite-size pieces (instead of searing raw chicken)",
+            "Half of Monday's roasted mini peppers, sliced (adaptation)",
+            "1 lb whole wheat penne",
+            "1 jar (6.35 oz) basil pesto",
+            "1 cup plain nonfat Greek yogurt",
+            "1 box (10 oz) frozen spinach, thawed and squeezed very dry",
+            "2 pints cherry tomatoes, halved",
+            "1 cup shredded part-skim mozzarella",
+            "1/4 cup fresh basil, chopped, divided",
+            "1/4 cup grated Parmesan",
+            "Red pepper flakes at the table (the recipe stirs in 1/4 tsp; here it goes on the side for the kids)"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 375°F and spray a 9x13 dish.",
+        "Boil the penne in well-salted water until al dente. Save 1 cup of pasta water, drain and return the pasta to the pot.",
+        "Stir the pesto and Greek yogurt together until smooth, then mix in the squeezed spinach, breaking up clumps.",
+        "Toss the pesto mixture with the pasta, adding pasta water until it's slightly saucy. Fold in the chicken, peppers and tomatoes.",
+        "Spread half the pasta in the dish. Sprinkle with 1/2 cup mozzarella and half the basil, then add the rest of the pasta and top with the last 1/2 cup mozzarella.",
+        "Bake 20-25 min until the cheese melts and starts to turn golden (a few extra minutes since the chicken goes in cold). Top with the Parmesan and remaining basil and serve."
+      ],
+      "weeks": [
+        "Mon 10/26"
+      ]
+    },
+    {
+      "id": "cilantro-lime-chicken-bowls-roasted-mini-peppers-cucumber-sa",
+      "name": "Cilantro Lime Chicken Bowls with Roasted Mini Peppers, Cucumber Salsa & Lime Crema",
+      "source": "https://www.skinnytaste.com/cilantro-lime-chicken-breast/",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2021/08/Cilantro-Lime-Chicken-Breast-5.jpg",
+      "protein": "chicken",
+      "mealType": "Sheet pan + bowls",
+      "active": "35 min",
+      "blurb": "Chicken breasts marinated in lime, garlic and cilantro, roasted with sweet mini peppers and red onion, served over brown rice with a cucumber-tomato salsa, avocado and a lime yogurt crema. Chosen for the deal: Perdue boneless skinless chicken breasts, BOGO FREE, with BOGO mini sweet peppers and baby cucumbers.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chicken (recipe scaled 3x; half is Wednesday's)",
+          "items": [
+            "~4.5 lb Perdue boneless skinless chicken breasts (BOGO)",
+            "Zest and juice of 3 limes",
+            "3 Tbsp olive oil",
+            "3/4 cup finely chopped cilantro, plus more to garnish",
+            "6 garlic cloves, minced",
+            "1 Tbsp kosher salt + black pepper"
+          ]
+        },
+        {
+          "group": "Roasted vegetables",
+          "items": [
+            "2 bags mini sweet peppers, halved and seeded",
+            "1 red onion, cut into wedges",
+            "2 Tbsp olive oil, salt, pepper"
+          ]
+        },
+        {
+          "group": "Bowls",
+          "items": [
+            "3 cups dry brown rice (makes ~9 cups; half is Tuesday's)",
+            "Salsa: 1 pint cherry tomatoes (quartered), 3 baby cucumbers (diced), 3 scallions (sliced), 1/4 cup cilantro, juice of 1 lime, salt",
+            "Lime crema: 1 cup plain Greek yogurt + juice of 1 lime + pinch of salt, thinned with a splash of water",
+            "3 avocados, sliced",
+            "2 limes in wedges; hot sauce at the table"
+          ]
+        }
+      ],
+      "directions": [
+        "MORNING (or up to 8 hr ahead): pound the thick end of each breast so they're even. In a gallon zip-top bag (or 2), combine the lime zest and juice, olive oil, 3/4 cup cilantro, garlic and salt. Add the chicken, coat it and refrigerate at least 1 hour, turning once.",
+        "Cook the brown rice, all 3 cups (stovetop or rice cooker, ~45 min hands-off). Half is for Tuesday.",
+        "Heat the oven to 425°F. Spread the chicken over 2 sheet pans with the peppers and onion (tossed in 2 Tbsp oil, salt and pepper) around the edges. Roast 18-22 min until the chicken reaches 165°F, then broil 2 min for char. (The recipe grills it ~5 min per side, which also works if you'd rather use a grill or grill pan in batches.)",
+        "While it roasts, make the salsa and lime crema.",
+        "Rest the chicken 5 min, squeeze lime over it and scatter cilantro on top. FOR WEDNESDAY: put ~1.5 lb cooked chicken and half the roasted peppers in a container and refrigerate. Slice the rest.",
+        "Build the bowls: rice, chicken, peppers and onion, salsa, avocado, a spoonful of crema. Hot sauce on the side.",
+        "Once the leftover rice cools, refrigerate half of it for Tuesday."
+      ],
+      "weeks": [
+        "Mon 10/26"
+      ]
+    },
+    {
+      "id": "honey-garlic-salmon-brown-rice-smashed-cucumber-salad-brocco",
+      "name": "Honey Garlic Salmon with Brown Rice, Smashed Cucumber Salad & Broccoli",
+      "source": "https://www.recipetineats.com/honey-garlic-salmon-5-ingredients-15-minutes/",
+      "image": "https://www.recipetineats.com/tachyon/2015/03/Honey-Garlic-Salmon.jpg",
+      "protein": "salmon",
+      "mealType": "Skillet",
+      "active": "25 min",
+      "blurb": "Seared salmon finished in a sticky honey-soy-garlic glaze, served with Monday's brown rice, a cold, crunchy lime-sesame cucumber salad and steamed broccoli. Chosen for the deal: fresh salmon fillets, $10.99/lb.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Salmon (recipe scaled ~2.5x for real appetites)",
+          "items": [
+            "2.5 lb skinless salmon fillets, cut into 6-7 portions",
+            "Olive oil, salt, pepper",
+            "Sauce: 2/3 cup honey, 5 Tbsp soy sauce, 2 1/2 Tbsp white vinegar, 3 large garlic cloves (minced)",
+            "Garnish: sesame seeds + 2 sliced scallions"
+          ]
+        },
+        {
+          "group": "Sides",
+          "items": [
+            "Monday's leftover brown rice (~4 cups)",
+            "Cucumber salad: 5 baby cucumbers, juice of 1 lime, 1 tsp toasted sesame oil, 1 tsp soy sauce, pinch of sugar, salt, a handful of cilantro, 1 scallion",
+            "1 bag (12 oz) steam-in-bag broccoli"
+          ]
+        }
+      ],
+      "directions": [
+        "Take the salmon out 20 min before cooking. Pat it dry and season with salt and pepper.",
+        "Cucumber salad: smash the cucumbers with the flat of a knife, tear them into bite-size pieces and toss with salt. Let them sit 10 min, drain, then toss with the lime, sesame oil, soy, sugar, cilantro and scallion. Chill.",
+        "Whisk the honey, soy sauce, vinegar and garlic. Microwave the broccoli per the bag. Reheat the rice with a splash of water, covered.",
+        "Heat a little oil in a large nonstick skillet over medium-high. Work in 2 batches (or 2 pans), splitting the sauce. Sear the salmon 3-4 min until golden, flip and cook 2-3 min.",
+        "Pour in that batch's sauce and simmer ~1 min, spooning it over the fish, until it thickens slightly. If it thickens before the fish is done, add water a tablespoon at a time.",
+        "Serve over rice with the remaining sauce spooned on top. Finish with sesame seeds and scallions. Broccoli and cucumber salad on the side."
+      ],
+      "weeks": [
+        "Mon 10/26"
+      ]
+    },
+    {
+      "id": "oven-baked-pork-chops-crispy-potatoes-roasted-brussels-sprou",
+      "name": "Oven Baked Pork Chops with Crispy Potatoes & Roasted Brussels Sprouts",
+      "source": "https://www.recipetineats.com/oven-baked-pork-chops-with-potatoes/",
+      "image": "https://www.recipetineats.com/tachyon/2016/09/Baked-Pork-Chops_2.jpg",
+      "protein": "pork",
+      "mealType": "Sheet pan",
+      "active": "25 min",
+      "blurb": "Pork chops brushed with a sweet-savory ketchup, soy and Worcestershire glaze, baked over crispy baby potatoes and broiled until caramelized, with a second tray of roasted Brussels sprouts. Chosen for the deal: Publix lean boneless pork loin chops, BOGO FREE (and Brussels sprouts 2 for $5).",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Glaze (recipe doubled)",
+          "items": [
+            "2 tsp Worcestershire sauce",
+            "1/4 cup ketchup",
+            "2 Tbsp soy sauce",
+            "1/4 cup brown sugar",
+            "2 Tbsp olive oil",
+            "2 garlic cloves, minced",
+            "4 tsp apple cider vinegar"
+          ]
+        },
+        {
+          "group": "Chops + vegetables",
+          "items": [
+            "~2.5 lb Publix lean boneless pork loin chops, about 1 inch thick (BOGO; freeze the extra pack)",
+            "2.5 lb baby potatoes, larger ones halved",
+            "2 packs Brussels sprouts, trimmed and halved (added side)",
+            "3 Tbsp olive oil, salt, pepper; a splash of cider vinegar for the sprouts"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 430°F. Toss the potatoes with 1 Tbsp oil, salt and pepper on sheet pan 1. Toss the sprouts with 2 Tbsp oil, salt and pepper, cut side down, on sheet pan 2. Put both pans in the oven for 15 min.",
+        "Mix the glaze ingredients. Brush both sides of the chops, keeping about a third of the glaze for basting.",
+        "Toss the potatoes and push them to the edges. Lay the chops in the middle of pan 1. Bake 10-12 min (the recipe says 15 for bone-in). Stir the sprouts.",
+        "Switch to a high broil with the rack ~8 inches from the heat. Take the sprouts out once they're browned and splash them with cider vinegar.",
+        "Flip the chops, spoon on the reserved glaze and broil 4-6 min until caramelized and 145°F inside. Brush the pan juices over the chops.",
+        "Rest 3 min. Serve the chops with the potatoes, sprouts and the pan juices."
+      ],
+      "weeks": [
+        "Mon 10/26"
       ]
     },
     {
