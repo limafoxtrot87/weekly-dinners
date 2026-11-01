@@ -1,5 +1,5 @@
 {
-  "updated": "Oct 25, 2026",
+  "updated": "Nov 1, 2026",
   "recipes": [
     {
       "id": "greek-turkey-meatballs-tzatziki-lemon-herb-rice-pickled-onio",
@@ -861,6 +861,219 @@
       ],
       "weeks": [
         "Mon 10/5"
+      ]
+    },
+    {
+      "id": "broccoli-beef-stir-fry-brown-rice",
+      "name": "Broccoli Beef Stir-Fry with Brown Rice",
+      "source": "https://www.wellplated.com/healthy-beef-and-broccoli/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2018/05/Best-Broccoli-Beef-Recipe.jpg",
+      "protein": "beef",
+      "mealType": "Skillet / stir-fry",
+      "active": "30 min",
+      "blurb": "Thin-sliced sirloin and crisp-tender broccoli in a glossy soy-garlic-ginger sauce over brown rice. Better than takeout, with half the sugar.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Sauce (2x; brown sugar cut from 1/2 cup to 1/3 cup)",
+          "items": [
+            "1/2 cup low-sodium soy sauce",
+            "2/3 cup water",
+            "1/3 cup brown sugar",
+            "2 Tbsp neutral oil",
+            "2 tsp minced garlic",
+            "2 tsp minced fresh ginger"
+          ]
+        },
+        {
+          "group": "Beef & broccoli (2x)",
+          "items": [
+            "2 lb beef sirloin, sliced thin against the grain",
+            "2 tsp toasted sesame oil",
+            "4 tsp cornstarch, divided",
+            "2 large heads broccoli, cut into small florets",
+            "6 scallions, sliced",
+            "4 Tbsp neutral oil, divided",
+            "6 Tbsp water",
+            "1/4 tsp kosher salt",
+            "Red pepper flakes, sesame seeds and cilantro for the table (heat goes on the side)"
+          ]
+        },
+        {
+          "group": "Rice",
+          "items": [
+            "3 cups dry brown rice (makes ~9 cups; half is Thursday's)"
+          ]
+        }
+      ],
+      "directions": [
+        "Start the rice first: all 3 cups of brown rice, stovetop or rice cooker, ~45 min hands-off.",
+        "Sauce: whisk the soy sauce, water and brown sugar. In a small saucepan, warm 2 Tbsp oil and cook the garlic and ginger until fragrant (~30 sec). Add the soy mixture, bring it to a boil, then simmer on low 5 min. Set it aside.",
+        "Toss the sliced beef with the sesame oil and 2 tsp of the cornstarch. Let it sit 10 min while you cut the broccoli into small florets and slice the scallions.",
+        "Heat 1 Tbsp oil in a large skillet or wok over medium-high heat. Stir-fry the beef in TWO batches, ~2 min each, until just cooked, adding another 1 Tbsp oil for the second batch. Move it to a plate. Crowding steams the beef, so don't skip the batches.",
+        "Whisk the remaining 2 tsp cornstarch into the sauce.",
+        "Add the last 2 Tbsp oil to the pan, then the broccoli and 6 Tbsp water. Stir-fry ~4 min, until crisp-tender and bright green.",
+        "Return the beef and its juices, pour in the sauce and stir over low heat ~1 min until glossy. Add the salt and most of the scallions (save a handful for Thursday). Taste and adjust.",
+        "Serve over rice with pepper flakes, sesame seeds and cilantro at the table. Cool the leftover rice and refrigerate it for Thursday."
+      ],
+      "weeks": [
+        "Mon 11/2"
+      ]
+    },
+    {
+      "id": "lemon-chicken-orzo-soup-spinach-dill",
+      "name": "Lemon Chicken Orzo Soup with Spinach & Dill",
+      "source": "https://www.wellplated.com/lemon-chicken-orzo-soup/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2021/05/Mediterranean-Lemon-Chicken-Orzo-Soup.jpg",
+      "protein": "chicken",
+      "mealType": "Soup",
+      "active": "25 min",
+      "blurb": "A bright, lemony soup with carrots, celery, whole wheat orzo and spinach, made fast with Monday's roasted chicken. Crusty bread on the side.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Soup (recipe scaled 1.5x for real appetites)",
+          "items": [
+            "1 1/2 Tbsp olive oil",
+            "6 carrots, diced",
+            "4-5 celery stalks, diced",
+            "1 1/2 yellow onions, finely diced",
+            "1 1/2 tsp dried basil",
+            "3/4 tsp kosher salt + 1/2 tsp black pepper",
+            "4-5 garlic cloves, minced",
+            "1 1/2 Tbsp all-purpose flour",
+            "9-12 cups low-sodium chicken broth (three 32-oz cartons)",
+            "Monday's 2 lb roasted chicken thighs, diced or shredded",
+            "1 1/2 cups whole wheat orzo",
+            "5 oz baby spinach, roughly chopped",
+            "6 Tbsp fresh lemon juice (about 2 lemons)",
+            "3 Tbsp chopped fresh dill + a handful of chopped parsley"
+          ]
+        },
+        {
+          "group": "On the side",
+          "items": [
+            "Whole-grain loaf or baguette, warmed"
+          ]
+        }
+      ],
+      "directions": [
+        "Warm the oil in a large Dutch oven over medium heat. Add the carrots, celery, onion, basil, salt and pepper. Cook about 8 min, until they soften and just start to brown.",
+        "Add the garlic and stir 30 seconds. Sprinkle in the flour and stir until it disappears. Pour in 9 cups of broth and bring it to a boil.",
+        "While it heats, dice or shred Monday's chicken.",
+        "Stir the orzo into the boiling broth. Lower to a simmer and cook about 7 min, stirring now and then, until the orzo is VERY al dente. It keeps softening in the hot soup.",
+        "Add the chicken, spinach, lemon juice, dill and parsley. Simmer 3-5 min, until the spinach wilts and the chicken is hot. Thin with the remaining broth if you want it soupier.",
+        "Taste for salt and lemon, since it usually wants a little more of each. Serve with the warm bread.",
+        "Leftovers thicken as the orzo drinks the broth. Loosen them with a splash of broth or water when you reheat."
+      ],
+      "weeks": [
+        "Mon 11/2"
+      ]
+    },
+    {
+      "id": "sheet-pan-italian-chicken-thighs-zucchini-carrots-peppers",
+      "name": "Sheet Pan Italian Chicken Thighs with Zucchini, Carrots & Peppers",
+      "source": "https://www.skinnytaste.com/sheetpan-italian-chicken-and-veggie-dinner/",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2016/10/Sheetpan-Italian-Chicken-and-Veggie-Dinner-2.jpg",
+      "protein": "chicken",
+      "mealType": "Sheet pan",
+      "active": "35 min",
+      "blurb": "Boneless thighs and a lot of vegetables in a herby red wine vinegar marinade, roasted hot at 450°F until the edges char. Finished with parsley and lemon.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Marinade (recipe scaled 2.5x, enough for all the chicken)",
+          "items": [
+            "1 Tbsp kosher salt",
+            "1 1/4 tsp onion powder",
+            "1 1/4 tsp dried oregano",
+            "1 1/4 tsp dried basil",
+            "1/2 tsp dried thyme",
+            "1 1/4 tsp sugar",
+            "1/4 tsp black pepper",
+            "3 garlic cloves, crushed",
+            "1/2 cup olive oil",
+            "1/3 cup red wine vinegar"
+          ]
+        },
+        {
+          "group": "Chicken & vegetables",
+          "items": [
+            "5 lb boneless skinless chicken thighs, trimmed (3 lb for tonight, 2 lb for Tuesday)",
+            "1 1/4 tsp kosher salt, for the chicken",
+            "3 medium zucchini (~1.5 lb), cut into 1-inch pieces",
+            "6 carrots, peeled, cut into 1-inch pieces",
+            "2 red + 2 yellow bell peppers, cut into 1-inch pieces",
+            "2 red onions, cut into 1-inch pieces",
+            "Chopped parsley and lemon wedges to finish",
+            "Cooking spray or parchment"
+          ]
+        }
+      ],
+      "directions": [
+        "Whisk the marinade in your biggest bowl. Salt all 5 lb of chicken and toss it in the marinade. Let it sit 30 min (or up to overnight, refrigerated). While it sits, cut the vegetables.",
+        "Heat the oven to 450°F with racks in the center and lower third. Line or spray THREE sheet pans.",
+        "TUESDAY'S PAN: put 2 lb of the chicken (about 8 thighs) alone on one pan, in a single layer. Roast it on the center rack for about 20 min, until it reaches 165°F. Set it aside to cool. This pan is for Tuesday.",
+        "Toss the vegetables in the marinade left in the bowl. Spread the remaining 3 lb of chicken and all the vegetables over the other two pans in a single layer, with nothing touching, so they roast instead of steaming.",
+        "Roast both pans for 20 min. Flip the chicken and vegetables, swap the pans between racks, and roast about 10 min more, until the chicken hits 165°F and the vegetables are browned at the edges.",
+        "Shower with parsley and squeeze lemon over the top. Serve.",
+        "Before bed, refrigerate Tuesday's cooled chicken whole in a covered container. Don't shred it yet."
+      ],
+      "weeks": [
+        "Mon 11/2"
+      ]
+    },
+    {
+      "id": "turkey-taco-lettuce-wraps-cilantro-lime-rice-bowls",
+      "name": "Turkey Taco Lettuce Wraps & Cilantro-Lime Rice Bowls",
+      "source": "https://www.skinnytaste.com/turkey-taco-lettuce-wraps/",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2014/05/low-carb-turkey-taco-lettuce-wrap.jpg",
+      "protein": "turkey",
+      "mealType": "Bowls / wraps",
+      "active": "20 min",
+      "blurb": "Juicy, well-spiced turkey taco meat simmered in tomato sauce. Pile it into crisp lettuce cups or onto cilantro-lime rice with fresh pico, avocado, cheddar and yogurt. Flour tortillas for anyone who wants a taco.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Turkey taco meat (recipe scaled 2x)",
+          "items": [
+            "2.5 lb 93% lean ground turkey (the recipe uses 99%; 93% stays juicier)",
+            "2 tsp garlic powder",
+            "2 tsp cumin",
+            "2 tsp kosher salt",
+            "2 tsp chili powder",
+            "2 tsp paprika",
+            "1 tsp dried oregano",
+            "1 yellow onion, minced",
+            "1 bell pepper, minced (more veg than the recipe's 2 Tbsp)",
+            "1 1/2 cups water",
+            "8 oz can tomato sauce"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "Wednesday's leftover brown rice (~4 cups) + juice of 1 lime + 1/4 cup chopped cilantro + salt",
+            "Quick pico: 4 Roma tomatoes (diced), 1/2 yellow onion (minced), 1/3 cup cilantro, juice of 1 lime, salt",
+            "Leaves from 2 heads iceberg (or 3 romaine hearts)",
+            "2 avocados, sliced",
+            "1 cup shredded reduced-fat cheddar",
+            "Plain Greek yogurt in place of sour cream",
+            "Wednesday's leftover scallions, sliced",
+            "Flour tortillas, warmed; jalapeño, hot sauce and lime wedges on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Brown the turkey in your largest skillet over medium-high heat, breaking it into small crumbles, ~8 min, until no longer pink.",
+        "Stir in the garlic powder, cumin, salt, chili powder, paprika and oregano. Add the onion, bell pepper, water and tomato sauce. Cover and simmer on low ~20 min, then uncover for the last few minutes if it's soupy.",
+        "While it simmers, make the pico: toss the tomatoes, onion, cilantro, lime juice and salt.",
+        "Reheat Wednesday's rice (microwave with a splash of water, covered). Toss it with lime juice, cilantro and salt.",
+        "Separate, wash and dry the lettuce leaves. Slice the avocado and warm the tortillas.",
+        "Set everything out. Everyone builds their own lettuce wraps, a rice bowl or tacos. Jalapeño and hot sauce stay on the side."
+      ],
+      "weeks": [
+        "Mon 11/2"
       ]
     },
     {
