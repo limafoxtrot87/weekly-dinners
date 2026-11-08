@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 1, 2026",
+  "updated": "Nov 8, 2026",
   "recipes": [
     {
       "id": "greek-turkey-meatballs-tzatziki-lemon-herb-rice-pickled-onio",
@@ -1074,6 +1074,219 @@
       ],
       "weeks": [
         "Mon 11/2"
+      ]
+    },
+    {
+      "id": "chicken-fried-rice-broccoli-peppers-scallions",
+      "name": "Chicken Fried Rice with Broccoli, Peppers & Scallions",
+      "source": "https://www.wellplated.com/chicken-fried-rice/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2026/08/Chicken-Fried-Rice-from-Scratch.jpg",
+      "protein": "chicken",
+      "mealType": "Skillet / stir-fry",
+      "active": "25 min",
+      "blurb": "THE DEAL: Monday's BOGO chicken, so there's no new protein to buy, plus the rest of the $6.99 broccoli. Savory fried rice with oyster sauce, soy, garlic, lots of vegetables and soft scrambled egg. It doesn't taste like Monday at all.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Recipe scaled 1.5x; fresh vegetables replace the frozen bag",
+          "items": [
+            "Monday's 1.5 lb roasted chicken, diced",
+            "About 5 cups Monday's cold brown rice, broken up",
+            "1/2 cup oyster sauce",
+            "3 Tbsp low-sodium soy sauce, plus more to taste",
+            "2 Tbsp neutral oil",
+            "3 Tbsp unsalted butter, divided",
+            "6 large eggs, lightly beaten",
+            "The rest of the broccoli (about 12 oz), cut small",
+            "The last tricolor pepper, diced",
+            "8 oz baby cut carrots, diced small",
+            "5 garlic cloves, minced",
+            "About 1 cup chopped scallions",
+            "Hot sauce at the table"
+          ]
+        }
+      ],
+      "directions": [
+        "Mix the oyster sauce and soy sauce in a small bowl. Dice the chicken and chop all the vegetables. Keep a large bowl by the stove.",
+        "Heat your largest nonstick skillet or wok over medium heat for 2 min. Melt 1 tsp of the butter, add the eggs, and scramble into small pieces until just done. Move to the bowl and wipe out the pan.",
+        "Turn the heat to high. Add the oil, then the carrots, and cook 2 min. Add the broccoli and pepper and cook 4-5 min, until crisp-tender.",
+        "Add the remaining butter and the garlic. Stir about 30 seconds, until fragrant.",
+        "Add the cold rice and the sauce. Stir constantly, breaking up clumps, about 2 min. If the pan is overflowing, work in 2 batches.",
+        "Add the chicken, eggs and scallions and cook about 2 min, until the chicken is steaming hot. Taste for soy. Serve with hot sauce at the table."
+      ],
+      "weeks": [
+        "Mon 11/9"
+      ]
+    },
+    {
+      "id": "garlic-shrimp-linguine-broccoli-spinach-lemon",
+      "name": "Garlic Shrimp Linguine with Broccoli, Spinach & Lemon",
+      "source": "https://www.wellplated.com/garlic-shrimp-pasta/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2018/02/Healthy-Garlic-Shrimp-Pasta-with-Lemon.jpg",
+      "protein": "shrimp",
+      "mealType": "Pasta",
+      "active": "30 min",
+      "blurb": "THE DEAL: Publix peeled & deveined white shrimp, 24 oz, $13.49 (about $9/lb), with the 2-lb broccoli bag at $6.99. Whole-wheat linguine tossed with garlicky shrimp, plenty of vegetables, white wine, lemon and Parmesan.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Recipe scaled 1.5x for real appetites",
+          "items": [
+            "24 oz peeled & deveined medium white shrimp, thawed",
+            "12 oz whole-wheat linguine",
+            "3 Tbsp extra-virgin olive oil, divided",
+            "2 shallots, diced",
+            "8 garlic cloves, minced",
+            "1 1/2 tsp kosher salt, divided",
+            "1 1/2 tsp black pepper, divided",
+            "About 1 1/4 lb broccoli florets, cut small",
+            "About 4 oz spinach",
+            "1/3 cup dry white wine or low-sodium chicken broth",
+            "Zest and juice of 2 large lemons",
+            "1/3 cup freshly grated Parmesan, plus more for serving",
+            "3 Tbsp chopped parsley, plus more for serving",
+            "Red pepper flakes at the table"
+          ]
+        }
+      ],
+      "directions": [
+        "Boil the linguine in well-salted water until al dente. Save 1/2 cup of the pasta water, drain, and toss the pasta with a little olive oil.",
+        "Pat the thawed shrimp very dry. Heat 1 1/2 Tbsp oil in a wide pot or Dutch oven over medium-high heat. Cook the shallots about 2 min, then the garlic 1 min.",
+        "Season the shrimp with 3/4 tsp salt and 3/4 tsp pepper. Cook in 2 batches, 2-3 min per batch, until pink and opaque. Move the shrimp, shallots and garlic to a plate.",
+        "Heat the remaining 1 1/2 Tbsp oil. Add the broccoli, 3/4 tsp salt, 3/4 tsp pepper and a splash of water. Cook 4-5 min, until crisp-tender. Fold in the spinach and cook 1 min, until wilted.",
+        "Add the wine and return the shrimp to the pot. Cook 2 min to reduce the wine. Stir in the lemon zest and juice and take the pot off the heat.",
+        "Add the pasta, Parmesan and parsley and toss, loosening with pasta water if it seems dry. Taste for salt and lemon. Serve with more Parmesan and pepper flakes at the table."
+      ],
+      "weeks": [
+        "Mon 11/9"
+      ]
+    },
+    {
+      "id": "sheet-pan-greek-lemon-chicken-tomatoes-peppers-olives-feta-t",
+      "name": "Sheet Pan Greek Lemon Chicken with Tomatoes, Peppers, Olives, Feta & Tzatziki",
+      "source": "https://www.wellplated.com/greek-chicken/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2024/09/How-to-Make-Greek-Chicken-4.jpg",
+      "protein": "chicken",
+      "mealType": "Sheet pan",
+      "active": "40 min",
+      "blurb": "THE DEAL: Publix boneless skinless chicken breasts, BOGO FREE. Garlicky lemon-oregano chicken roasted hot, with blistered tomatoes, red onion and peppers, salty olives and feta, cool tzatziki and brown rice.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chicken & marinade (recipe scaled 2.5x)",
+          "items": [
+            "About 4 lb boneless skinless chicken breasts (2.5 lb tonight, 1.5 lb for Wednesday)",
+            "2/3 cup extra-virgin olive oil",
+            "15 garlic cloves, minced (about 1/3 cup)",
+            "5 lemons, zested and juiced",
+            "2 1/2 tsp dried thyme",
+            "2 1/2 tsp dried oregano",
+            "3 3/4 tsp kosher salt",
+            "1 1/4 tsp black pepper"
+          ]
+        },
+        {
+          "group": "Vegetables & finish (recipe doubled, plus peppers)",
+          "items": [
+            "2 pints cherry tomatoes, whole",
+            "2 large red onions, cut into 1/2-inch slices",
+            "2 of the 3 tricolor peppers, cut into 1-inch pieces",
+            "1 cup pitted Kalamata olives",
+            "1 cup crumbled feta",
+            "Chopped parsley",
+            "Hot sauce or pepper flakes at the table"
+          ]
+        },
+        {
+          "group": "Tzatziki (recipe doubled; skinnytaste.com/tzatziki)",
+          "items": [
+            "16 oz plain Greek yogurt",
+            "1 hot house cucumber, grated and squeezed dry",
+            "2 garlic cloves, crushed",
+            "2 tsp lemon juice (from the marinade lemons)",
+            "2 Tbsp chopped dill",
+            "2 Tbsp sliced scallion greens (the recipe's chives)",
+            "Salt and pepper"
+          ]
+        },
+        {
+          "group": "Rice",
+          "items": [
+            "3 cups dry brown rice (about 9 cups cooked; about 5 cups are Wednesday's)"
+          ]
+        }
+      ],
+      "directions": [
+        "About 4:15, make the tzatziki: grate the cucumber, salt it, drain it and squeeze it dry. Stir in the yogurt, garlic, lemon juice, dill, scallion greens, salt and pepper. Refrigerate at least 1 hour.",
+        "Pound the chicken to an even 1/2 inch under plastic wrap. Whisk the oil, garlic, lemon zest and juice, thyme, oregano, salt and pepper. Set aside 1/2 cup for the vegetables, pour the rest over the chicken and coat it. Marinate 30 min at room temperature (or refrigerate up to 2 hours). Cut the vegetables while it sits.",
+        "Start ALL 3 cups of brown rice, about 45 min hands-off.",
+        "Heat the oven to 425°F. Line THREE rimmed sheet pans with parchment.",
+        "WEDNESDAY'S PAN: put 1.5 lb of the chicken alone on one pan, pieces not touching. Roast 15-20 min, until it reaches 165°F. Set it aside to cool.",
+        "Toss the tomatoes, onions and peppers with the reserved marinade, spread them on the second pan and roast 10 min.",
+        "Put the remaining 2.5 lb of chicken on the third pan, pieces not touching, and add it to the oven. Roast 15-20 min, swapping racks halfway, until the thickest part reaches 160°F. Move the chicken to a plate, cover and rest 5 min.",
+        "Scatter the olives over the vegetables and keep roasting while the chicken rests. Pile the chicken and vegetables on a platter or back on the pan, then top with the feta and parsley. Serve with rice, tzatziki and heat on the side.",
+        "Before bed: refrigerate Wednesday's cooled chicken whole in a covered container. Spread about 5 cups of the rice on a sheet pan to cool quickly, then refrigerate it within an hour.",
+        "ALSO BEFORE BED: move the shrimp from the freezer to the fridge so it thaws for Tuesday."
+      ],
+      "weeks": [
+        "Mon 11/9"
+      ]
+    },
+    {
+      "id": "skillet-sirloin-onions-mushrooms-roasted-gold-potatoes-spina",
+      "name": "Skillet Sirloin with Onions & Mushrooms, Roasted Gold Potatoes & Spinach Salad",
+      "source": "https://www.skinnytaste.com/quick-skillet-steak-with-onions-and/",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2011/08/Quick-Skillet-Steak-with-Onions-and-Mushrooms.jpg",
+      "protein": "beef",
+      "mealType": "Skillet / stir-fry",
+      "active": "30 min",
+      "blurb": "THE DEAL: Publix boneless top sirloin $8.99/lb, the best-value steak in the ad, with sliced mushrooms 2/$6 and the 5-lb gold potatoes at $4.99. Thin-sliced steak seared fast with browned onions and mushrooms, crispy potatoes and carrots, and a sharp lemon-Parmesan spinach salad.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Steak (recipe scaled up; the original is a light 1/2-lb sandwich filling)",
+          "items": [
+            "2 lb top sirloin, sliced into thin strips against the grain",
+            "2 tsp garlic powder",
+            "2 tsp kosher salt, plus more for the vegetables",
+            "Black pepper",
+            "2 large yellow onions, sliced into rings",
+            "24 oz sliced white mushrooms",
+            "2 Tbsp olive oil, plus a little for each batch",
+            "1 Tbsp butter",
+            "Juice of 1/2 lemon + a handful of chopped parsley"
+          ]
+        },
+        {
+          "group": "Potatoes & carrots (side added to the recipe)",
+          "items": [
+            "3 lb gold potatoes, cut into 1-inch pieces",
+            "8 oz baby cut carrots, halved lengthwise",
+            "3 Tbsp olive oil",
+            "1 tsp kosher salt + black pepper"
+          ]
+        },
+        {
+          "group": "Spinach salad (side added to the recipe)",
+          "items": [
+            "About 5 oz spinach",
+            "1 hot house cucumber, thinly sliced",
+            "Shaved Parmesan",
+            "Juice of 1/2 lemon + 2 Tbsp olive oil + salt"
+          ]
+        }
+      ],
+      "directions": [
+        "Heat the oven to 425°F. Toss the potatoes and carrots with the oil, salt and pepper and spread over 2 sheet pans. Roast about 40 min, flipping and swapping racks halfway, until browned and crisp.",
+        "Slice the steak, then season it with the garlic powder, salt and pepper. Slice the onions. Do all this before the pan goes on, because the cooking goes fast.",
+        "Heat a large skillet over high heat until very hot. Add a little oil. Sear the beef in 4 batches, about 1 min on the first side and 30 seconds on the second. Move each batch to a large dish, and add oil between batches. Crowding steams the beef, so don't skip the batches.",
+        "Add a little oil and the onions, season with salt and pepper, and cook about 5 min, until golden. Add them to the beef.",
+        "Lower the heat to medium. Add the butter and remaining oil, then the mushrooms in 2 batches with salt and pepper. Cook until browned, 6-8 min total.",
+        "Return the beef, onions and juices to the skillet and stir to warm them through, about 1 min. Finish with the lemon juice and parsley.",
+        "Just before serving, toss the spinach and cucumber with the lemon juice, oil and salt. Top with Parmesan. Put hot sauce on the table."
+      ],
+      "weeks": [
+        "Mon 11/9"
       ]
     },
     {

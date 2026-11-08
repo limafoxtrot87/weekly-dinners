@@ -1,520 +1,284 @@
 {
-  "week": "Mon 11/2",
-  "generated": "Nov 1, 2026",
+  "week": "Mon 11/9",
+  "generated": "Nov 8, 2026",
   "servings": 4,
   "store": "Publix",
   "pantryTitle": "Probably have (check before you leave)",
-  "reuse": "⚠️ This week's Publix deal fetch FAILED, so this plan is not built around the weekly ad. Deals may exist; I just couldn't see them. Check the ad in-store, especially for the chicken thighs, sirloin and ground turkey. Monday roasts ALL 5 lb of chicken thighs, and the plain 2 lb pan becomes Tuesday's lemon chicken orzo soup, so Tuesday has no raw meat. Wednesday cooks a double pot of brown rice, and half becomes Thursday's cilantro-lime rice for the turkey taco bowls. Carrots and lemons are split Mon/Tue. Bell peppers are split Mon/Thu. Scallions and cilantro are split Wed/Thu. Yellow onion is split Tue/Thu. Garlic is used Mon/Tue/Wed.",
+  "reuse": "Built on this week's Publix FishHawk deals: boneless skinless chicken breasts BOGO (Mon + Wed), 24-oz peeled & deveined white shrimp $13.49 (Tue), boneless top sirloin $8.99/lb (Thu). Monday roasts about 4 lb of chicken, and the plain 1.5 lb pan becomes Wednesday's fried rice, so Wednesday has no raw meat. The second, free chicken pack goes straight in the freezer. Monday's double pot of brown rice is also Wednesday's rice. The 2-lb bag of broccoli is split Tue/Wed. Lemons and parsley are split Mon/Tue/Thu. Peppers and scallions are split Mon/Wed. Spinach and Parmesan are split Tue/Thu. Cucumbers are split Mon/Thu. Carrots are split Wed/Thu. Garlic is used Mon/Tue/Wed.",
   "sections": [
     {
       "name": "Produce",
       "items": [
-        {
-          "text": "1 bag carrots, 2 lb",
-          "tags": [
-            "Mon",
-            "Tue"
-          ],
-          "flag": "Need ~12 total: 6 for Mon sheet pans, 6 for Tue soup"
-        },
-        {
-          "text": "5 bell peppers (2 red, 2 yellow, 1 any color)",
-          "tags": [
-            "Mon",
-            "Thu"
-          ],
-          "flag": "4 roast Mon; 1 goes in Thu's taco meat"
-        },
-        {
-          "text": "3 lemons",
-          "tags": [
-            "Mon",
-            "Tue"
-          ],
-          "flag": "1 in wedges Mon; 2 juiced (~6 Tbsp) for Tue soup"
-        },
-        {
-          "text": "1 bunch flat-leaf parsley",
-          "tags": [
-            "Mon",
-            "Tue"
-          ]
-        },
-        {
-          "text": "1 bunch scallions",
-          "tags": [
-            "Wed",
-            "Thu"
-          ]
-        },
-        {
-          "text": "1 bunch cilantro",
-          "tags": [
-            "Wed",
-            "Thu"
-          ]
-        },
-        {
-          "text": "3 yellow onions",
-          "tags": [
-            "Tue",
-            "Thu"
-          ],
-          "flag": "1.5 for the soup, 1 for taco meat, 1/2 for pico"
-        },
-        {
-          "text": "1 head garlic",
-          "tags": [
-            "Mon",
-            "Tue",
-            "Wed"
-          ]
-        },
-        {
-          "text": "2 red onions",
-          "tags": [
-            "Mon"
-          ]
-        },
-        {
-          "text": "3 medium zucchini (~1.5 lb)",
-          "tags": [
-            "Mon"
-          ]
-        },
-        {
-          "text": "1 bunch celery",
-          "tags": [
-            "Tue"
-          ]
-        },
-        {
-          "text": "1 small pack fresh dill",
-          "tags": [
-            "Tue"
-          ]
-        },
-        {
-          "text": "1 clamshell baby spinach, 5 oz",
-          "tags": [
-            "Tue"
-          ]
-        },
-        {
-          "text": "2 large heads broccoli (~2 lb)",
-          "tags": [
-            "Wed"
-          ]
-        },
-        {
-          "text": "1 knob fresh ginger, 2 inches",
-          "tags": [
-            "Wed"
-          ]
-        },
-        {
-          "text": "2 heads iceberg lettuce (or 3 romaine hearts)",
-          "tags": [
-            "Thu"
-          ]
-        },
-        {
-          "text": "4 Roma tomatoes",
-          "tags": [
-            "Thu"
-          ]
-        },
-        {
-          "text": "3 limes",
-          "tags": [
-            "Thu"
-          ]
-        },
-        {
-          "text": "2 Hass avocados",
-          "tags": [
-            "Thu"
-          ],
-          "flag": "Buy firm Sunday so they're ripe Thursday"
-        },
-        {
-          "text": "1 jalapeño (for the side)",
-          "tags": [
-            "Thu"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Bakery",
-      "items": [
-        {
-          "text": "1 whole-grain loaf or baguette",
-          "tags": [
-            "Tue"
-          ],
-          "flag": "For dunking in the soup"
-        }
+        { "text": "8 lemons", "tags": ["Mon", "Tue", "Thu"], "flag": "5 Mon, 2 Tue, 1 Thu" },
+        { "text": "1 bunch flat-leaf parsley", "tags": ["Mon", "Tue", "Thu"] },
+        { "text": "3 heads garlic", "tags": ["Mon", "Tue", "Wed"], "flag": "About 30 cloves; Monday takes 17" },
+        { "text": "1 bag broccoli florets, 2 lb", "tags": ["Tue", "Wed"], "flag": "DEAL $6.99. About 1.25 lb Tue, the rest Wed" },
+        { "text": "1 pack Publix tricolor peppers, 3-ct", "tags": ["Mon", "Wed"], "flag": "DEAL $3.99. 2 roast Mon, 1 goes in Wed's rice" },
+        { "text": "1 bunch scallions", "tags": ["Mon", "Wed"], "flag": "A little in Mon's tzatziki, the rest Wed" },
+        { "text": "1 bag Publix spinach, 9 oz", "tags": ["Tue", "Thu"], "flag": "DEAL $1.99. About 4 oz Tue, 5 oz Thu" },
+        { "text": "2 hot house cucumbers", "tags": ["Mon", "Thu"], "flag": "DEAL 2/$4. Tzatziki Mon, salad Thu" },
+        { "text": "1 bag baby cut carrots, 1 lb", "tags": ["Wed", "Thu"], "flag": "DEAL 2/$3 (one bag is enough). Half Wed, half Thu" },
+        { "text": "2 pints cherry tomatoes", "tags": ["Mon"] },
+        { "text": "2 large red onions", "tags": ["Mon"] },
+        { "text": "1 small pack fresh dill", "tags": ["Mon"] },
+        { "text": "2 shallots", "tags": ["Tue"] },
+        { "text": "2 packs sliced Publix white mushrooms, 12 oz each", "tags": ["Thu"], "flag": "DEAL 2/$6" },
+        { "text": "2 large yellow onions", "tags": ["Thu"] },
+        { "text": "1 bag Publix gold potatoes, 5 lb", "tags": ["Thu"], "flag": "DEAL $4.99. Thursday uses 3 lb" }
       ]
     },
     {
       "name": "Meat & Seafood",
       "items": [
-        {
-          "text": "5 lb boneless skinless chicken thighs (~20 thighs)",
-          "tags": [
-            "Mon",
-            "Tue"
-          ],
-          "flag": "All 5 lb gets roasted Monday; 2 lb of it is Tuesday's soup"
-        },
-        {
-          "text": "2 lb beef sirloin steak",
-          "tags": [
-            "Wed"
-          ],
-          "flag": "Bought Sunday it's fine through Wednesday; freeze it if the sell-by date is earlier"
-        },
-        {
-          "text": "2.5 lb 93% lean ground turkey (two 20-oz packs)",
-          "tags": [
-            "Thu"
-          ],
-          "flag": "Check the date. If it doesn't reach Thursday, freeze it Sunday and thaw it in the fridge Wednesday"
-        }
+        { "text": "2 packs Publix boneless skinless chicken breasts, 4+ lb each", "tags": ["Mon", "Wed"], "flag": "DEAL BOGO FREE. Cook one pack Monday (Wed's chicken comes from it). Freeze the free pack on Sunday" },
+        { "text": "1 pkg Publix peeled & deveined white shrimp, medium, 24 oz, frozen", "tags": ["Tue"], "flag": "DEAL $13.49 (about $9/lb). Keep frozen; move to the fridge Monday night" },
+        { "text": "2 lb Publix boneless top sirloin steak", "tags": ["Thu"], "flag": "DEAL $8.99/lb. Check the date. If it won't reach Thursday, freeze it Sunday and thaw it in the fridge Wednesday" }
       ]
     },
     {
       "name": "Dairy & Eggs",
       "items": [
-        {
-          "text": "1 bag shredded reduced-fat cheddar, 8 oz",
-          "tags": [
-            "Thu"
-          ]
-        },
-        {
-          "text": "1 tub plain Greek yogurt, 16 oz (sour cream stand-in)",
-          "tags": [
-            "Thu"
-          ]
-        }
+        { "text": "1 tub plain Greek yogurt, 16 oz", "tags": ["Mon"] },
+        { "text": "1 tub crumbled feta, 6 oz", "tags": ["Mon"] },
+        { "text": "1 small wedge Parmesan", "tags": ["Tue", "Thu"] },
+        { "text": "1/2 dozen eggs", "tags": ["Wed"] }
       ]
     },
     {
       "name": "Center Aisles",
       "items": [
-        {
-          "text": "3 cartons low-sodium chicken broth, 32 oz each",
-          "tags": [
-            "Tue"
-          ]
-        },
-        {
-          "text": "1 box whole wheat orzo (need 1.5 cups)",
-          "tags": [
-            "Tue"
-          ]
-        },
-        {
-          "text": "Brown rice, 3 cups dry (2-lb bag if you're out)",
-          "tags": [
-            "Wed",
-            "Thu"
-          ]
-        },
-        {
-          "text": "1 can tomato sauce, 8 oz",
-          "tags": [
-            "Thu"
-          ]
-        },
-        {
-          "text": "1 pack flour tortillas (soft taco size)",
-          "tags": [
-            "Thu"
-          ],
-          "flag": "FLOUR, not corn. For anyone who wants tacos instead of lettuce wraps"
-        }
+        { "text": "Brown rice, 3 cups dry (2-lb bag if you're out)", "tags": ["Mon", "Wed"] },
+        { "text": "1 box whole-wheat linguine, 16 oz", "tags": ["Tue"], "flag": "Ronzoni 12- and 16-oz boxes are BOGO; the ad doesn't say whether whole wheat counts, so check the tag" },
+        { "text": "1 jar pitted Kalamata olives (need 1 cup)", "tags": ["Mon"] },
+        { "text": "1 bottle oyster sauce (need 1/2 cup)", "tags": ["Wed"] }
       ]
     }
   ],
   "pantry": [
-    {
-      "text": "Olive oil, kosher salt, black pepper, cooking spray",
-      "tags": [
-        "all"
-      ]
-    },
-    {
-      "text": "Red wine vinegar + sugar",
-      "tags": [
-        "Mon"
-      ]
-    },
-    {
-      "text": "Dried oregano, dried basil, dried thyme, onion powder",
-      "tags": [
-        "Mon",
-        "Tue",
-        "Thu"
-      ]
-    },
-    {
-      "text": "All-purpose flour, 1.5 Tbsp",
-      "tags": [
-        "Tue"
-      ]
-    },
-    {
-      "text": "Low-sodium soy sauce (1/2 cup), brown sugar, toasted sesame oil, cornstarch",
-      "tags": [
-        "Wed"
-      ]
-    },
-    {
-      "text": "Neutral oil (canola/avocado)",
-      "tags": [
-        "Wed"
-      ]
-    },
-    {
-      "text": "Sesame seeds (optional)",
-      "tags": [
-        "Wed"
-      ]
-    },
-    {
-      "text": "Garlic powder, cumin, chili powder, paprika",
-      "tags": [
-        "Thu"
-      ]
-    },
-    {
-      "text": "Red pepper flakes + hot sauce (for the table)",
-      "tags": [
-        "Wed",
-        "Thu"
-      ]
-    }
+    { "text": "Olive oil, kosher salt, black pepper", "tags": ["all"] },
+    { "text": "Dried thyme, dried oregano, parchment", "tags": ["Mon"] },
+    { "text": "Dry white wine or low-sodium chicken broth, 1/3 cup", "tags": ["Tue"] },
+    { "text": "Low-sodium soy sauce, neutral oil, butter", "tags": ["Wed", "Thu"] },
+    { "text": "Garlic powder", "tags": ["Thu"] },
+    { "text": "Red pepper flakes + hot sauce (for the table)", "tags": ["all"] }
   ],
   "dinners": [
     {
       "day": "Mon",
-      "name": "Sheet Pan Italian Chicken Thighs with Zucchini, Carrots & Peppers",
+      "name": "Sheet Pan Greek Lemon Chicken with Tomatoes, Peppers, Olives, Feta & Tzatziki",
       "protein": "chicken",
       "mealType": "Sheet pan",
-      "blurb": "Boneless thighs and a lot of vegetables in a herby red wine vinegar marinade, roasted hot at 450°F until the edges char. Finished with parsley and lemon.",
+      "blurb": "THE DEAL: Publix boneless skinless chicken breasts, BOGO FREE. Garlicky lemon-oregano chicken roasted hot, with blistered tomatoes, red onion and peppers, salty olives and feta, cool tzatziki and brown rice.",
       "serves": 4,
-      "active": "35 min",
-      "total": "1 hr 20 min (incl. 30 min marinating, hands-off)",
-      "warn": "COOK ONCE, EAT TWICE: roast ALL 5 lb of thighs. The plain 2-lb pan is Tuesday's soup. Cool it, then refrigerate it covered. Don't eat it tonight.",
-      "image": "https://www.skinnytaste.com/wp-content/uploads/2016/10/Sheetpan-Italian-Chicken-and-Veggie-Dinner-2.jpg",
-      "alt": "Roasted Italian-seasoned chicken thighs with zucchini, carrots, red and yellow peppers and red onion on a sheet pan",
+      "active": "40 min",
+      "total": "1 hr 45 min (tzatziki chill, marinade, rice and oven are hands-off)",
+      "warn": "COOK ONCE, EAT TWICE: roast about 4 lb of chicken and all 3 cups of rice. The plain 1.5-lb pan and half the rice are Wednesday's fried rice. Start around 4:15. TONIGHT: move the frozen shrimp to the fridge for Tuesday.",
+      "image": "https://www.wellplated.com/wp-content/uploads/2024/09/How-to-Make-Greek-Chicken-4.jpg",
+      "alt": "Sheet pan Greek chicken breasts with roasted cherry tomatoes, red onion, olives and feta",
       "ingredients": [
         {
-          "group": "Marinade (recipe scaled 2.5x, enough for all the chicken)",
+          "group": "Chicken & marinade (recipe scaled 2.5x)",
           "items": [
-            "1 Tbsp kosher salt",
-            "1 1/4 tsp onion powder",
-            "1 1/4 tsp dried oregano",
-            "1 1/4 tsp dried basil",
-            "1/2 tsp dried thyme",
-            "1 1/4 tsp sugar",
-            "1/4 tsp black pepper",
-            "3 garlic cloves, crushed",
-            "1/2 cup olive oil",
-            "1/3 cup red wine vinegar"
+            "About 4 lb boneless skinless chicken breasts (2.5 lb tonight, 1.5 lb for Wednesday)",
+            "2/3 cup extra-virgin olive oil",
+            "15 garlic cloves, minced (about 1/3 cup)",
+            "5 lemons, zested and juiced",
+            "2 1/2 tsp dried thyme",
+            "2 1/2 tsp dried oregano",
+            "3 3/4 tsp kosher salt",
+            "1 1/4 tsp black pepper"
           ]
         },
         {
-          "group": "Chicken & vegetables",
+          "group": "Vegetables & finish (recipe doubled, plus peppers)",
           "items": [
-            "5 lb boneless skinless chicken thighs, trimmed (3 lb for tonight, 2 lb for Tuesday)",
-            "1 1/4 tsp kosher salt, for the chicken",
-            "3 medium zucchini (~1.5 lb), cut into 1-inch pieces",
-            "6 carrots, peeled, cut into 1-inch pieces",
-            "2 red + 2 yellow bell peppers, cut into 1-inch pieces",
-            "2 red onions, cut into 1-inch pieces",
-            "Chopped parsley and lemon wedges to finish",
-            "Cooking spray or parchment"
-          ]
-        }
-      ],
-      "directions": [
-        "Whisk the marinade in your biggest bowl. Salt all 5 lb of chicken and toss it in the marinade. Let it sit 30 min (or up to overnight, refrigerated). While it sits, cut the vegetables.",
-        "Heat the oven to 450°F with racks in the center and lower third. Line or spray THREE sheet pans.",
-        "TUESDAY'S PAN: put 2 lb of the chicken (about 8 thighs) alone on one pan, in a single layer. Roast it on the center rack for about 20 min, until it reaches 165°F. Set it aside to cool. This pan is for Tuesday.",
-        "Toss the vegetables in the marinade left in the bowl. Spread the remaining 3 lb of chicken and all the vegetables over the other two pans in a single layer, with nothing touching, so they roast instead of steaming.",
-        "Roast both pans for 20 min. Flip the chicken and vegetables, swap the pans between racks, and roast about 10 min more, until the chicken hits 165°F and the vegetables are browned at the edges.",
-        "Shower with parsley and squeeze lemon over the top. Serve.",
-        "Before bed, refrigerate Tuesday's cooled chicken whole in a covered container. Don't shred it yet."
-      ],
-      "reuse": "Hands Tuesday 2 lb of roasted thighs for the soup. Shares carrots, lemon and parsley with Tue, and bell peppers with Thu.",
-      "source": "https://www.skinnytaste.com/sheetpan-italian-chicken-and-veggie-dinner/"
-    },
-    {
-      "day": "Tue",
-      "name": "Lemon Chicken Orzo Soup with Spinach & Dill",
-      "protein": "chicken",
-      "mealType": "Soup",
-      "blurb": "A bright, lemony soup with carrots, celery, whole wheat orzo and spinach, made fast with Monday's roasted chicken. Crusty bread on the side.",
-      "serves": 4,
-      "active": "25 min",
-      "total": "40 min",
-      "warn": "No raw meat tonight: use the 2 lb of thighs Monday roasted.",
-      "image": "https://www.wellplated.com/wp-content/uploads/2021/05/Mediterranean-Lemon-Chicken-Orzo-Soup.jpg",
-      "alt": "Bowl of lemon chicken orzo soup with carrots, spinach and fresh dill",
-      "ingredients": [
-        {
-          "group": "Soup (recipe scaled 1.5x for real appetites)",
-          "items": [
-            "1 1/2 Tbsp olive oil",
-            "6 carrots, diced",
-            "4-5 celery stalks, diced",
-            "1 1/2 yellow onions, finely diced",
-            "1 1/2 tsp dried basil",
-            "3/4 tsp kosher salt + 1/2 tsp black pepper",
-            "4-5 garlic cloves, minced",
-            "1 1/2 Tbsp all-purpose flour",
-            "9-12 cups low-sodium chicken broth (three 32-oz cartons)",
-            "Monday's 2 lb roasted chicken thighs, diced or shredded",
-            "1 1/2 cups whole wheat orzo",
-            "5 oz baby spinach, roughly chopped",
-            "6 Tbsp fresh lemon juice (about 2 lemons)",
-            "3 Tbsp chopped fresh dill + a handful of chopped parsley"
+            "2 pints cherry tomatoes, whole",
+            "2 large red onions, cut into 1/2-inch slices",
+            "2 of the 3 tricolor peppers, cut into 1-inch pieces",
+            "1 cup pitted Kalamata olives",
+            "1 cup crumbled feta",
+            "Chopped parsley",
+            "Hot sauce or pepper flakes at the table"
           ]
         },
         {
-          "group": "On the side",
+          "group": "Tzatziki (recipe doubled; skinnytaste.com/tzatziki)",
           "items": [
-            "Whole-grain loaf or baguette, warmed"
-          ]
-        }
-      ],
-      "directions": [
-        "Warm the oil in a large Dutch oven over medium heat. Add the carrots, celery, onion, basil, salt and pepper. Cook about 8 min, until they soften and just start to brown.",
-        "Add the garlic and stir 30 seconds. Sprinkle in the flour and stir until it disappears. Pour in 9 cups of broth and bring it to a boil.",
-        "While it heats, dice or shred Monday's chicken.",
-        "Stir the orzo into the boiling broth. Lower to a simmer and cook about 7 min, stirring now and then, until the orzo is VERY al dente. It keeps softening in the hot soup.",
-        "Add the chicken, spinach, lemon juice, dill and parsley. Simmer 3-5 min, until the spinach wilts and the chicken is hot. Thin with the remaining broth if you want it soupier.",
-        "Taste for salt and lemon, since it usually wants a little more of each. Serve with the warm bread.",
-        "Leftovers thicken as the orzo drinks the broth. Loosen them with a splash of broth or water when you reheat."
-      ],
-      "reuse": "Built on Monday's roasted chicken. Uses the rest of the carrots, lemons and parsley, and the first of the yellow onions (the rest go to Thu).",
-      "source": "https://www.wellplated.com/lemon-chicken-orzo-soup/"
-    },
-    {
-      "day": "Wed",
-      "name": "Broccoli Beef Stir-Fry with Brown Rice",
-      "protein": "beef",
-      "mealType": "Skillet / stir-fry",
-      "blurb": "Thin-sliced sirloin and crisp-tender broccoli in a glossy soy-garlic-ginger sauce over brown rice. Better than takeout, with half the sugar.",
-      "serves": 4,
-      "active": "30 min",
-      "total": "50 min (rice simmers ~45 min hands-off)",
-      "warn": "COOK ONCE, EAT TWICE: cook ALL 3 cups of dry brown rice. Half is Thursday's cilantro-lime rice. Spread the leftovers on a plate to cool, then refrigerate.",
-      "image": "https://www.wellplated.com/wp-content/uploads/2018/05/Best-Broccoli-Beef-Recipe.jpg",
-      "alt": "Broccoli beef stir-fry in a skillet with sesame seeds",
-      "ingredients": [
-        {
-          "group": "Sauce (2x; brown sugar cut from 1/2 cup to 1/3 cup)",
-          "items": [
-            "1/2 cup low-sodium soy sauce",
-            "2/3 cup water",
-            "1/3 cup brown sugar",
-            "2 Tbsp neutral oil",
-            "2 tsp minced garlic",
-            "2 tsp minced fresh ginger"
-          ]
-        },
-        {
-          "group": "Beef & broccoli (2x)",
-          "items": [
-            "2 lb beef sirloin, sliced thin against the grain",
-            "2 tsp toasted sesame oil",
-            "4 tsp cornstarch, divided",
-            "2 large heads broccoli, cut into small florets",
-            "6 scallions, sliced",
-            "4 Tbsp neutral oil, divided",
-            "6 Tbsp water",
-            "1/4 tsp kosher salt",
-            "Red pepper flakes, sesame seeds and cilantro for the table (heat goes on the side)"
+            "16 oz plain Greek yogurt",
+            "1 hot house cucumber, grated and squeezed dry",
+            "2 garlic cloves, crushed",
+            "2 tsp lemon juice (from the marinade lemons)",
+            "2 Tbsp chopped dill",
+            "2 Tbsp sliced scallion greens (the recipe's chives)",
+            "Salt and pepper"
           ]
         },
         {
           "group": "Rice",
           "items": [
-            "3 cups dry brown rice (makes ~9 cups; half is Thursday's)"
+            "3 cups dry brown rice (about 9 cups cooked; about 5 cups are Wednesday's)"
           ]
         }
       ],
       "directions": [
-        "Start the rice first: all 3 cups of brown rice, stovetop or rice cooker, ~45 min hands-off.",
-        "Sauce: whisk the soy sauce, water and brown sugar. In a small saucepan, warm 2 Tbsp oil and cook the garlic and ginger until fragrant (~30 sec). Add the soy mixture, bring it to a boil, then simmer on low 5 min. Set it aside.",
-        "Toss the sliced beef with the sesame oil and 2 tsp of the cornstarch. Let it sit 10 min while you cut the broccoli into small florets and slice the scallions.",
-        "Heat 1 Tbsp oil in a large skillet or wok over medium-high heat. Stir-fry the beef in TWO batches, ~2 min each, until just cooked, adding another 1 Tbsp oil for the second batch. Move it to a plate. Crowding steams the beef, so don't skip the batches.",
-        "Whisk the remaining 2 tsp cornstarch into the sauce.",
-        "Add the last 2 Tbsp oil to the pan, then the broccoli and 6 Tbsp water. Stir-fry ~4 min, until crisp-tender and bright green.",
-        "Return the beef and its juices, pour in the sauce and stir over low heat ~1 min until glossy. Add the salt and most of the scallions (save a handful for Thursday). Taste and adjust.",
-        "Serve over rice with pepper flakes, sesame seeds and cilantro at the table. Cool the leftover rice and refrigerate it for Thursday."
+        "About 4:15, make the tzatziki: grate the cucumber, salt it, drain it and squeeze it dry. Stir in the yogurt, garlic, lemon juice, dill, scallion greens, salt and pepper. Refrigerate at least 1 hour.",
+        "Pound the chicken to an even 1/2 inch under plastic wrap. Whisk the oil, garlic, lemon zest and juice, thyme, oregano, salt and pepper. Set aside 1/2 cup for the vegetables, pour the rest over the chicken and coat it. Marinate 30 min at room temperature (or refrigerate up to 2 hours). Cut the vegetables while it sits.",
+        "Start ALL 3 cups of brown rice, about 45 min hands-off.",
+        "Heat the oven to 425°F. Line THREE rimmed sheet pans with parchment.",
+        "WEDNESDAY'S PAN: put 1.5 lb of the chicken alone on one pan, pieces not touching. Roast 15-20 min, until it reaches 165°F. Set it aside to cool.",
+        "Toss the tomatoes, onions and peppers with the reserved marinade, spread them on the second pan and roast 10 min.",
+        "Put the remaining 2.5 lb of chicken on the third pan, pieces not touching, and add it to the oven. Roast 15-20 min, swapping racks halfway, until the thickest part reaches 160°F. Move the chicken to a plate, cover and rest 5 min.",
+        "Scatter the olives over the vegetables and keep roasting while the chicken rests. Pile the chicken and vegetables on a platter or back on the pan, then top with the feta and parsley. Serve with rice, tzatziki and heat on the side.",
+        "Before bed: refrigerate Wednesday's cooled chicken whole in a covered container. Spread about 5 cups of the rice on a sheet pan to cool quickly, then refrigerate it within an hour.",
+        "ALSO BEFORE BED: move the shrimp from the freezer to the fridge so it thaws for Tuesday."
       ],
-      "reuse": "Makes Thursday's rice. Shares scallions and cilantro with Thu, and garlic with Mon/Tue.",
-      "source": "https://www.wellplated.com/healthy-beef-and-broccoli/"
+      "reuse": "Hands Wednesday 1.5 lb of cooked chicken and about 5 cups of rice. Shares peppers and scallions with Wed, lemons and parsley with Tue/Thu, and cucumbers with Thu.",
+      "source": "https://www.wellplated.com/greek-chicken/"
+    },
+    {
+      "day": "Tue",
+      "name": "Garlic Shrimp Linguine with Broccoli, Spinach & Lemon",
+      "protein": "shrimp",
+      "mealType": "Pasta",
+      "blurb": "THE DEAL: Publix peeled & deveined white shrimp, 24 oz, $13.49 (about $9/lb), with the 2-lb broccoli bag at $6.99. Whole-wheat linguine tossed with garlicky shrimp, plenty of vegetables, white wine, lemon and Parmesan.",
+      "serves": 4,
+      "active": "30 min",
+      "total": "35 min",
+      "warn": "Needs the shrimp thawed: move it to the fridge Monday night. Use your widest pot, because this is a lot of food. Save the rest of the broccoli for Wednesday.",
+      "image": "https://www.wellplated.com/wp-content/uploads/2018/02/Healthy-Garlic-Shrimp-Pasta-with-Lemon.jpg",
+      "alt": "Whole-wheat garlic shrimp pasta with lemon and vegetables in a skillet",
+      "ingredients": [
+        {
+          "group": "Recipe scaled 1.5x for real appetites",
+          "items": [
+            "24 oz peeled & deveined medium white shrimp, thawed",
+            "12 oz whole-wheat linguine",
+            "3 Tbsp extra-virgin olive oil, divided",
+            "2 shallots, diced",
+            "8 garlic cloves, minced",
+            "1 1/2 tsp kosher salt, divided",
+            "1 1/2 tsp black pepper, divided",
+            "About 1 1/4 lb broccoli florets, cut small",
+            "About 4 oz spinach",
+            "1/3 cup dry white wine or low-sodium chicken broth",
+            "Zest and juice of 2 large lemons",
+            "1/3 cup freshly grated Parmesan, plus more for serving",
+            "3 Tbsp chopped parsley, plus more for serving",
+            "Red pepper flakes at the table"
+          ]
+        }
+      ],
+      "directions": [
+        "Boil the linguine in well-salted water until al dente. Save 1/2 cup of the pasta water, drain, and toss the pasta with a little olive oil.",
+        "Pat the thawed shrimp very dry. Heat 1 1/2 Tbsp oil in a wide pot or Dutch oven over medium-high heat. Cook the shallots about 2 min, then the garlic 1 min.",
+        "Season the shrimp with 3/4 tsp salt and 3/4 tsp pepper. Cook in 2 batches, 2-3 min per batch, until pink and opaque. Move the shrimp, shallots and garlic to a plate.",
+        "Heat the remaining 1 1/2 Tbsp oil. Add the broccoli, 3/4 tsp salt, 3/4 tsp pepper and a splash of water. Cook 4-5 min, until crisp-tender. Fold in the spinach and cook 1 min, until wilted.",
+        "Add the wine and return the shrimp to the pot. Cook 2 min to reduce the wine. Stir in the lemon zest and juice and take the pot off the heat.",
+        "Add the pasta, Parmesan and parsley and toss, loosening with pasta water if it seems dry. Taste for salt and lemon. Serve with more Parmesan and pepper flakes at the table."
+      ],
+      "reuse": "Starts the broccoli bag (rest goes to Wed) and the spinach (rest goes to Thu). Shares lemons and parsley with Mon/Thu, Parmesan with Thu, garlic with Mon/Wed.",
+      "source": "https://www.wellplated.com/garlic-shrimp-pasta/"
+    },
+    {
+      "day": "Wed",
+      "name": "Chicken Fried Rice with Broccoli, Peppers & Scallions",
+      "protein": "chicken",
+      "mealType": "Skillet / stir-fry",
+      "blurb": "THE DEAL: Monday's BOGO chicken, so there's no new protein to buy, plus the rest of the $6.99 broccoli. Savory fried rice with oyster sauce, soy, garlic, lots of vegetables and soft scrambled egg. It doesn't taste like Monday at all.",
+      "serves": 4,
+      "active": "25 min",
+      "total": "30 min",
+      "warn": "No raw meat tonight: uses Monday's 1.5 lb of plain roasted chicken and about 5 cups of Monday's cold rice.",
+      "image": "https://www.wellplated.com/wp-content/uploads/2026/08/Chicken-Fried-Rice-from-Scratch.jpg",
+      "alt": "Chicken fried rice with egg, vegetables and scallions in a skillet",
+      "ingredients": [
+        {
+          "group": "Recipe scaled 1.5x; fresh vegetables replace the frozen bag",
+          "items": [
+            "Monday's 1.5 lb roasted chicken, diced",
+            "About 5 cups Monday's cold brown rice, broken up",
+            "1/2 cup oyster sauce",
+            "3 Tbsp low-sodium soy sauce, plus more to taste",
+            "2 Tbsp neutral oil",
+            "3 Tbsp unsalted butter, divided",
+            "6 large eggs, lightly beaten",
+            "The rest of the broccoli (about 12 oz), cut small",
+            "The last tricolor pepper, diced",
+            "8 oz baby cut carrots, diced small",
+            "5 garlic cloves, minced",
+            "About 1 cup chopped scallions",
+            "Hot sauce at the table"
+          ]
+        }
+      ],
+      "directions": [
+        "Mix the oyster sauce and soy sauce in a small bowl. Dice the chicken and chop all the vegetables. Keep a large bowl by the stove.",
+        "Heat your largest nonstick skillet or wok over medium heat for 2 min. Melt 1 tsp of the butter, add the eggs, and scramble into small pieces until just done. Move to the bowl and wipe out the pan.",
+        "Turn the heat to high. Add the oil, then the carrots, and cook 2 min. Add the broccoli and pepper and cook 4-5 min, until crisp-tender.",
+        "Add the remaining butter and the garlic. Stir about 30 seconds, until fragrant.",
+        "Add the cold rice and the sauce. Stir constantly, breaking up clumps, about 2 min. If the pan is overflowing, work in 2 batches.",
+        "Add the chicken, eggs and scallions and cook about 2 min, until the chicken is steaming hot. Taste for soy. Serve with hot sauce at the table."
+      ],
+      "reuse": "Built on Monday's chicken and rice. Finishes the broccoli, peppers and scallions, and uses half the carrots (rest goes to Thu).",
+      "source": "https://www.wellplated.com/chicken-fried-rice/"
     },
     {
       "day": "Thu",
-      "name": "Turkey Taco Lettuce Wraps & Cilantro-Lime Rice Bowls",
-      "protein": "turkey",
-      "mealType": "Bowls / wraps",
-      "blurb": "Juicy, well-spiced turkey taco meat simmered in tomato sauce. Pile it into crisp lettuce cups or onto cilantro-lime rice with fresh pico, avocado, cheddar and yogurt. Flour tortillas for anyone who wants a taco.",
+      "name": "Skillet Sirloin with Onions & Mushrooms, Roasted Gold Potatoes & Spinach Salad",
+      "protein": "beef",
+      "mealType": "Skillet / stir-fry",
+      "blurb": "THE DEAL: Publix boneless top sirloin $8.99/lb, the best-value steak in the ad, with sliced mushrooms 2/$6 and the 5-lb gold potatoes at $4.99. Thin-sliced steak seared fast with browned onions and mushrooms, crispy potatoes and carrots, and a sharp lemon-Parmesan spinach salad.",
       "serves": 4,
-      "active": "20 min",
-      "total": "35 min",
-      "warn": "Uses Wednesday's leftover brown rice. No beans, no corn: the tortillas are FLOUR.",
-      "image": "https://www.skinnytaste.com/wp-content/uploads/2014/05/low-carb-turkey-taco-lettuce-wrap.jpg",
-      "alt": "Ground turkey taco meat in iceberg lettuce cups with cheese and tomato",
+      "active": "30 min",
+      "total": "1 hr (potatoes roast 40 min hands-off)",
+      "warn": "Bought Sunday, the sirloin should last to Thursday. Check the date, and if it won't, freeze it Sunday and thaw it in the fridge Wednesday.",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2011/08/Quick-Skillet-Steak-with-Onions-and-Mushrooms.jpg",
+      "alt": "Thin-sliced skillet steak with browned onions and mushrooms",
       "ingredients": [
         {
-          "group": "Turkey taco meat (recipe scaled 2x)",
+          "group": "Steak (recipe scaled up; the original is a light 1/2-lb sandwich filling)",
           "items": [
-            "2.5 lb 93% lean ground turkey (the recipe uses 99%; 93% stays juicier)",
+            "2 lb top sirloin, sliced into thin strips against the grain",
             "2 tsp garlic powder",
-            "2 tsp cumin",
-            "2 tsp kosher salt",
-            "2 tsp chili powder",
-            "2 tsp paprika",
-            "1 tsp dried oregano",
-            "1 yellow onion, minced",
-            "1 bell pepper, minced (more veg than the recipe's 2 Tbsp)",
-            "1 1/2 cups water",
-            "8 oz can tomato sauce"
+            "2 tsp kosher salt, plus more for the vegetables",
+            "Black pepper",
+            "2 large yellow onions, sliced into rings",
+            "24 oz sliced white mushrooms",
+            "2 Tbsp olive oil, plus a little for each batch",
+            "1 Tbsp butter",
+            "Juice of 1/2 lemon + a handful of chopped parsley"
           ]
         },
         {
-          "group": "To serve",
+          "group": "Potatoes & carrots (side added to the recipe)",
           "items": [
-            "Wednesday's leftover brown rice (~4 cups) + juice of 1 lime + 1/4 cup chopped cilantro + salt",
-            "Quick pico: 4 Roma tomatoes (diced), 1/2 yellow onion (minced), 1/3 cup cilantro, juice of 1 lime, salt",
-            "Leaves from 2 heads iceberg (or 3 romaine hearts)",
-            "2 avocados, sliced",
-            "1 cup shredded reduced-fat cheddar",
-            "Plain Greek yogurt in place of sour cream",
-            "Wednesday's leftover scallions, sliced",
-            "Flour tortillas, warmed; jalapeño, hot sauce and lime wedges on the side"
+            "3 lb gold potatoes, cut into 1-inch pieces",
+            "8 oz baby cut carrots, halved lengthwise",
+            "3 Tbsp olive oil",
+            "1 tsp kosher salt + black pepper"
+          ]
+        },
+        {
+          "group": "Spinach salad (side added to the recipe)",
+          "items": [
+            "About 5 oz spinach",
+            "1 hot house cucumber, thinly sliced",
+            "Shaved Parmesan",
+            "Juice of 1/2 lemon + 2 Tbsp olive oil + salt"
           ]
         }
       ],
       "directions": [
-        "Brown the turkey in your largest skillet over medium-high heat, breaking it into small crumbles, ~8 min, until no longer pink.",
-        "Stir in the garlic powder, cumin, salt, chili powder, paprika and oregano. Add the onion, bell pepper, water and tomato sauce. Cover and simmer on low ~20 min, then uncover for the last few minutes if it's soupy.",
-        "While it simmers, make the pico: toss the tomatoes, onion, cilantro, lime juice and salt.",
-        "Reheat Wednesday's rice (microwave with a splash of water, covered). Toss it with lime juice, cilantro and salt.",
-        "Separate, wash and dry the lettuce leaves. Slice the avocado and warm the tortillas.",
-        "Set everything out. Everyone builds their own lettuce wraps, a rice bowl or tacos. Jalapeño and hot sauce stay on the side."
+        "Heat the oven to 425°F. Toss the potatoes and carrots with the oil, salt and pepper and spread over 2 sheet pans. Roast about 40 min, flipping and swapping racks halfway, until browned and crisp.",
+        "Slice the steak, then season it with the garlic powder, salt and pepper. Slice the onions. Do all this before the pan goes on, because the cooking goes fast.",
+        "Heat a large skillet over high heat until very hot. Add a little oil. Sear the beef in 4 batches, about 1 min on the first side and 30 seconds on the second. Move each batch to a large dish, and add oil between batches. Crowding steams the beef, so don't skip the batches.",
+        "Add a little oil and the onions, season with salt and pepper, and cook about 5 min, until golden. Add them to the beef.",
+        "Lower the heat to medium. Add the butter and remaining oil, then the mushrooms in 2 batches with salt and pepper. Cook until browned, 6-8 min total.",
+        "Return the beef, onions and juices to the skillet and stir to warm them through, about 1 min. Finish with the lemon juice and parsley.",
+        "Just before serving, toss the spinach and cucumber with the lemon juice, oil and salt. Top with Parmesan. Put hot sauce on the table."
       ],
-      "reuse": "Finishes Wednesday's rice, scallions and cilantro. Uses the last bell pepper from Mon's bag and the last yellow onion from Tue.",
-      "source": "https://www.skinnytaste.com/turkey-taco-lettuce-wraps/"
+      "reuse": "Finishes the spinach, cucumbers, carrots, parsley, lemons and Parmesan. About 2 lb of gold potatoes is left in the bag and keeps well.",
+      "source": "https://www.skinnytaste.com/quick-skillet-steak-with-onions-and/"
     }
   ]
 }
