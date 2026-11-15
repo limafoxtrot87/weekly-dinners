@@ -1,284 +1,480 @@
 {
-  "week": "Mon 11/9",
-  "generated": "Nov 8, 2026",
-  "servings": 4,
-  "store": "Publix",
-  "pantryTitle": "Probably have (check before you leave)",
-  "reuse": "Built on this week's Publix FishHawk deals: boneless skinless chicken breasts BOGO (Mon + Wed), 24-oz peeled & deveined white shrimp $13.49 (Tue), boneless top sirloin $8.99/lb (Thu). Monday roasts about 4 lb of chicken, and the plain 1.5 lb pan becomes Wednesday's fried rice, so Wednesday has no raw meat. The second, free chicken pack goes straight in the freezer. Monday's double pot of brown rice is also Wednesday's rice. The 2-lb bag of broccoli is split Tue/Wed. Lemons and parsley are split Mon/Tue/Thu. Peppers and scallions are split Mon/Wed. Spinach and Parmesan are split Tue/Thu. Cucumbers are split Mon/Thu. Carrots are split Wed/Thu. Garlic is used Mon/Tue/Wed.",
-  "sections": [
+ "week": "Mon 11/16",
+ "generated": "Nov 15, 2026",
+ "servings": 4,
+ "store": "Publix",
+ "pantryTitle": "Probably have (check before you leave)",
+ "reuse": "Monday's $4.99/lb pork does two nights. Roast all 4 tenderloins on Monday: 2 get the honey garlic glaze, and 2 stay plain and go into Wednesday's noodle bowls, so Wednesday needs no raw meat. Monday also makes Wednesday's pickled carrots, which need 2 hours, while the oven runs. Wednesday makes Thursday's chimichurri so it can rest overnight, and the same chimichurri dresses Thursday's salad. Shared produce: limes and cilantro (Tue + Wed), hot house cucumbers and romaine (Wed + Thu), Campari tomatoes (Tue + Thu), and jalapeños on the side (Tue + Wed). Deals behind the menu: pork tenderloin $4.99/lb, P&D white shrimp 24 oz $13.49, inside skirt steak $11.99/lb.",
+ "sections": [
+  {
+   "name": "Produce",
+   "items": [
     {
-      "name": "Produce",
-      "items": [
-        { "text": "8 lemons", "tags": ["Mon", "Tue", "Thu"], "flag": "5 Mon, 2 Tue, 1 Thu" },
-        { "text": "1 bunch flat-leaf parsley", "tags": ["Mon", "Tue", "Thu"] },
-        { "text": "3 heads garlic", "tags": ["Mon", "Tue", "Wed"], "flag": "About 30 cloves; Monday takes 17" },
-        { "text": "1 bag broccoli florets, 2 lb", "tags": ["Tue", "Wed"], "flag": "DEAL $6.99. About 1.25 lb Tue, the rest Wed" },
-        { "text": "1 pack Publix tricolor peppers, 3-ct", "tags": ["Mon", "Wed"], "flag": "DEAL $3.99. 2 roast Mon, 1 goes in Wed's rice" },
-        { "text": "1 bunch scallions", "tags": ["Mon", "Wed"], "flag": "A little in Mon's tzatziki, the rest Wed" },
-        { "text": "1 bag Publix spinach, 9 oz", "tags": ["Tue", "Thu"], "flag": "DEAL $1.99. About 4 oz Tue, 5 oz Thu" },
-        { "text": "2 hot house cucumbers", "tags": ["Mon", "Thu"], "flag": "DEAL 2/$4. Tzatziki Mon, salad Thu" },
-        { "text": "1 bag baby cut carrots, 1 lb", "tags": ["Wed", "Thu"], "flag": "DEAL 2/$3 (one bag is enough). Half Wed, half Thu" },
-        { "text": "2 pints cherry tomatoes", "tags": ["Mon"] },
-        { "text": "2 large red onions", "tags": ["Mon"] },
-        { "text": "1 small pack fresh dill", "tags": ["Mon"] },
-        { "text": "2 shallots", "tags": ["Tue"] },
-        { "text": "2 packs sliced Publix white mushrooms, 12 oz each", "tags": ["Thu"], "flag": "DEAL 2/$6" },
-        { "text": "2 large yellow onions", "tags": ["Thu"] },
-        { "text": "1 bag Publix gold potatoes, 5 lb", "tags": ["Thu"], "flag": "DEAL $4.99. Thursday uses 3 lb" }
-      ]
+     "text": "2 bunches broccoli",
+     "tags": [
+      "Mon"
+     ],
+     "flag": "DEAL 2 for $6"
     },
     {
-      "name": "Meat & Seafood",
-      "items": [
-        { "text": "2 packs Publix boneless skinless chicken breasts, 4+ lb each", "tags": ["Mon", "Wed"], "flag": "DEAL BOGO FREE. Cook one pack Monday (Wed's chicken comes from it). Freeze the free pack on Sunday" },
-        { "text": "1 pkg Publix peeled & deveined white shrimp, medium, 24 oz, frozen", "tags": ["Tue"], "flag": "DEAL $13.49 (about $9/lb). Keep frozen; move to the fridge Monday night" },
-        { "text": "2 lb Publix boneless top sirloin steak", "tags": ["Thu"], "flag": "DEAL $8.99/lb. Check the date. If it won't reach Thursday, freeze it Sunday and thaw it in the fridge Wednesday" }
-      ]
+     "text": "4 large carrots",
+     "tags": [
+      "Mon",
+      "Wed"
+     ],
+     "flag": "Pickled Mon, eaten Wed"
     },
     {
-      "name": "Dairy & Eggs",
-      "items": [
-        { "text": "1 tub plain Greek yogurt, 16 oz", "tags": ["Mon"] },
-        { "text": "1 tub crumbled feta, 6 oz", "tags": ["Mon"] },
-        { "text": "1 small wedge Parmesan", "tags": ["Tue", "Thu"] },
-        { "text": "1/2 dozen eggs", "tags": ["Wed"] }
-      ]
+     "text": "1 bag organic bell peppers, 2-ct + 2 green bell peppers",
+     "tags": [
+      "Tue"
+     ],
+     "flag": "DEAL $4.99 for the 2-ct"
     },
     {
-      "name": "Center Aisles",
-      "items": [
-        { "text": "Brown rice, 3 cups dry (2-lb bag if you're out)", "tags": ["Mon", "Wed"] },
-        { "text": "1 box whole-wheat linguine, 16 oz", "tags": ["Tue"], "flag": "Ronzoni 12- and 16-oz boxes are BOGO; the ad doesn't say whether whole wheat counts, so check the tag" },
-        { "text": "1 jar pitted Kalamata olives (need 1 cup)", "tags": ["Mon"] },
-        { "text": "1 bottle oyster sauce (need 1/2 cup)", "tags": ["Wed"] }
-      ]
+     "text": "2 yellow onions",
+     "tags": [
+      "Tue"
+     ]
+    },
+    {
+     "text": "2 heads garlic",
+     "tags": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu"
+     ],
+     "flag": "About 18 cloves across the week"
+    },
+    {
+     "text": "5 limes",
+     "tags": [
+      "Tue",
+      "Wed"
+     ],
+     "flag": "2 Tue, 3 Wed"
+    },
+    {
+     "text": "1 bunch cilantro",
+     "tags": [
+      "Tue",
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 bunch mint",
+     "tags": [
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 bunch flat-leaf parsley",
+     "tags": [
+      "Thu"
+     ],
+     "flag": "Made into chimichurri on Wed night"
+    },
+    {
+     "text": "2 Florida (tropical) avocados",
+     "tags": [
+      "Tue",
+      "Wed"
+     ],
+     "flag": "BOGO. 1 Tue; keep the 2nd WHOLE for Wed bowls"
+    },
+    {
+     "text": "2 jalapeños",
+     "tags": [
+      "Tue",
+      "Wed"
+     ],
+     "flag": "Heat on the side for the adults"
+    },
+    {
+     "text": "2 hot house cucumbers",
+     "tags": [
+      "Wed",
+      "Thu"
+     ],
+     "flag": "DEAL 3 for $5"
+    },
+    {
+     "text": "1 pack romaine hearts, 3-ct",
+     "tags": [
+      "Wed",
+      "Thu"
+     ],
+     "flag": "2 Wed, 1 Thu"
+    },
+    {
+     "text": "2 packs Campari tomatoes, 1 lb",
+     "tags": [
+      "Tue",
+      "Thu"
+     ],
+     "flag": "BOGO. 1 Tue, 1 Thu"
+    },
+    {
+     "text": "1 bag Publix gold potatoes, 5 lb",
+     "tags": [
+      "Thu"
+     ],
+     "flag": "DEAL $4.99. Thu uses 3 lb, rest keeps"
     }
-  ],
-  "pantry": [
-    { "text": "Olive oil, kosher salt, black pepper", "tags": ["all"] },
-    { "text": "Dried thyme, dried oregano, parchment", "tags": ["Mon"] },
-    { "text": "Dry white wine or low-sodium chicken broth, 1/3 cup", "tags": ["Tue"] },
-    { "text": "Low-sodium soy sauce, neutral oil, butter", "tags": ["Wed", "Thu"] },
-    { "text": "Garlic powder", "tags": ["Thu"] },
-    { "text": "Red pepper flakes + hot sauce (for the table)", "tags": ["all"] }
-  ],
-  "dinners": [
+   ]
+  },
+  {
+   "name": "Meat & Seafood",
+   "items": [
     {
-      "day": "Mon",
-      "name": "Sheet Pan Greek Lemon Chicken with Tomatoes, Peppers, Olives, Feta & Tzatziki",
-      "protein": "chicken",
-      "mealType": "Sheet pan",
-      "blurb": "THE DEAL: Publix boneless skinless chicken breasts, BOGO FREE. Garlicky lemon-oregano chicken roasted hot, with blistered tomatoes, red onion and peppers, salty olives and feta, cool tzatziki and brown rice.",
-      "serves": 4,
-      "active": "40 min",
-      "total": "1 hr 45 min (tzatziki chill, marinade, rice and oven are hands-off)",
-      "warn": "COOK ONCE, EAT TWICE: roast about 4 lb of chicken and all 3 cups of rice. The plain 1.5-lb pan and half the rice are Wednesday's fried rice. Start around 4:15. TONIGHT: move the frozen shrimp to the fridge for Tuesday.",
-      "image": "https://www.wellplated.com/wp-content/uploads/2024/09/How-to-Make-Greek-Chicken-4.jpg",
-      "alt": "Sheet pan Greek chicken breasts with roasted cherry tomatoes, red onion, olives and feta",
-      "ingredients": [
-        {
-          "group": "Chicken & marinade (recipe scaled 2.5x)",
-          "items": [
-            "About 4 lb boneless skinless chicken breasts (2.5 lb tonight, 1.5 lb for Wednesday)",
-            "2/3 cup extra-virgin olive oil",
-            "15 garlic cloves, minced (about 1/3 cup)",
-            "5 lemons, zested and juiced",
-            "2 1/2 tsp dried thyme",
-            "2 1/2 tsp dried oregano",
-            "3 3/4 tsp kosher salt",
-            "1 1/4 tsp black pepper"
-          ]
-        },
-        {
-          "group": "Vegetables & finish (recipe doubled, plus peppers)",
-          "items": [
-            "2 pints cherry tomatoes, whole",
-            "2 large red onions, cut into 1/2-inch slices",
-            "2 of the 3 tricolor peppers, cut into 1-inch pieces",
-            "1 cup pitted Kalamata olives",
-            "1 cup crumbled feta",
-            "Chopped parsley",
-            "Hot sauce or pepper flakes at the table"
-          ]
-        },
-        {
-          "group": "Tzatziki (recipe doubled; skinnytaste.com/tzatziki)",
-          "items": [
-            "16 oz plain Greek yogurt",
-            "1 hot house cucumber, grated and squeezed dry",
-            "2 garlic cloves, crushed",
-            "2 tsp lemon juice (from the marinade lemons)",
-            "2 Tbsp chopped dill",
-            "2 Tbsp sliced scallion greens (the recipe's chives)",
-            "Salt and pepper"
-          ]
-        },
-        {
-          "group": "Rice",
-          "items": [
-            "3 cups dry brown rice (about 9 cups cooked; about 5 cups are Wednesday's)"
-          ]
-        }
-      ],
-      "directions": [
-        "About 4:15, make the tzatziki: grate the cucumber, salt it, drain it and squeeze it dry. Stir in the yogurt, garlic, lemon juice, dill, scallion greens, salt and pepper. Refrigerate at least 1 hour.",
-        "Pound the chicken to an even 1/2 inch under plastic wrap. Whisk the oil, garlic, lemon zest and juice, thyme, oregano, salt and pepper. Set aside 1/2 cup for the vegetables, pour the rest over the chicken and coat it. Marinate 30 min at room temperature (or refrigerate up to 2 hours). Cut the vegetables while it sits.",
-        "Start ALL 3 cups of brown rice, about 45 min hands-off.",
-        "Heat the oven to 425°F. Line THREE rimmed sheet pans with parchment.",
-        "WEDNESDAY'S PAN: put 1.5 lb of the chicken alone on one pan, pieces not touching. Roast 15-20 min, until it reaches 165°F. Set it aside to cool.",
-        "Toss the tomatoes, onions and peppers with the reserved marinade, spread them on the second pan and roast 10 min.",
-        "Put the remaining 2.5 lb of chicken on the third pan, pieces not touching, and add it to the oven. Roast 15-20 min, swapping racks halfway, until the thickest part reaches 160°F. Move the chicken to a plate, cover and rest 5 min.",
-        "Scatter the olives over the vegetables and keep roasting while the chicken rests. Pile the chicken and vegetables on a platter or back on the pan, then top with the feta and parsley. Serve with rice, tzatziki and heat on the side.",
-        "Before bed: refrigerate Wednesday's cooled chicken whole in a covered container. Spread about 5 cups of the rice on a sheet pan to cool quickly, then refrigerate it within an hour.",
-        "ALSO BEFORE BED: move the shrimp from the freezer to the fridge so it thaws for Tuesday."
-      ],
-      "reuse": "Hands Wednesday 1.5 lb of cooked chicken and about 5 cups of rice. Shares peppers and scallions with Wed, lemons and parsley with Tue/Thu, and cucumbers with Thu.",
-      "source": "https://www.wellplated.com/greek-chicken/"
+     "text": "4 Publix extra lean pork tenderloins (about 4 lb)",
+     "tags": [
+      "Mon",
+      "Wed"
+     ],
+     "flag": "DEAL $4.99/lb. 2 Mon, 2 Wed"
     },
     {
-      "day": "Tue",
-      "name": "Garlic Shrimp Linguine with Broccoli, Spinach & Lemon",
-      "protein": "shrimp",
-      "mealType": "Pasta",
-      "blurb": "THE DEAL: Publix peeled & deveined white shrimp, 24 oz, $13.49 (about $9/lb), with the 2-lb broccoli bag at $6.99. Whole-wheat linguine tossed with garlicky shrimp, plenty of vegetables, white wine, lemon and Parmesan.",
-      "serves": 4,
-      "active": "30 min",
-      "total": "35 min",
-      "warn": "Needs the shrimp thawed: move it to the fridge Monday night. Use your widest pot, because this is a lot of food. Save the rest of the broccoli for Wednesday.",
-      "image": "https://www.wellplated.com/wp-content/uploads/2018/02/Healthy-Garlic-Shrimp-Pasta-with-Lemon.jpg",
-      "alt": "Whole-wheat garlic shrimp pasta with lemon and vegetables in a skillet",
-      "ingredients": [
-        {
-          "group": "Recipe scaled 1.5x for real appetites",
-          "items": [
-            "24 oz peeled & deveined medium white shrimp, thawed",
-            "12 oz whole-wheat linguine",
-            "3 Tbsp extra-virgin olive oil, divided",
-            "2 shallots, diced",
-            "8 garlic cloves, minced",
-            "1 1/2 tsp kosher salt, divided",
-            "1 1/2 tsp black pepper, divided",
-            "About 1 1/4 lb broccoli florets, cut small",
-            "About 4 oz spinach",
-            "1/3 cup dry white wine or low-sodium chicken broth",
-            "Zest and juice of 2 large lemons",
-            "1/3 cup freshly grated Parmesan, plus more for serving",
-            "3 Tbsp chopped parsley, plus more for serving",
-            "Red pepper flakes at the table"
-          ]
-        }
-      ],
-      "directions": [
-        "Boil the linguine in well-salted water until al dente. Save 1/2 cup of the pasta water, drain, and toss the pasta with a little olive oil.",
-        "Pat the thawed shrimp very dry. Heat 1 1/2 Tbsp oil in a wide pot or Dutch oven over medium-high heat. Cook the shallots about 2 min, then the garlic 1 min.",
-        "Season the shrimp with 3/4 tsp salt and 3/4 tsp pepper. Cook in 2 batches, 2-3 min per batch, until pink and opaque. Move the shrimp, shallots and garlic to a plate.",
-        "Heat the remaining 1 1/2 Tbsp oil. Add the broccoli, 3/4 tsp salt, 3/4 tsp pepper and a splash of water. Cook 4-5 min, until crisp-tender. Fold in the spinach and cook 1 min, until wilted.",
-        "Add the wine and return the shrimp to the pot. Cook 2 min to reduce the wine. Stir in the lemon zest and juice and take the pot off the heat.",
-        "Add the pasta, Parmesan and parsley and toss, loosening with pasta water if it seems dry. Taste for salt and lemon. Serve with more Parmesan and pepper flakes at the table."
-      ],
-      "reuse": "Starts the broccoli bag (rest goes to Wed) and the spinach (rest goes to Thu). Shares lemons and parsley with Mon/Thu, Parmesan with Thu, garlic with Mon/Wed.",
-      "source": "https://www.wellplated.com/garlic-shrimp-pasta/"
+     "text": "2 bags Publix white shrimp, peeled & deveined, large, 24 oz frozen",
+     "tags": [
+      "Tue"
+     ],
+     "flag": "DEAL $13.49 each. Cook 2 lb Tue; rest stays frozen"
     },
     {
-      "day": "Wed",
-      "name": "Chicken Fried Rice with Broccoli, Peppers & Scallions",
-      "protein": "chicken",
-      "mealType": "Skillet / stir-fry",
-      "blurb": "THE DEAL: Monday's BOGO chicken, so there's no new protein to buy, plus the rest of the $6.99 broccoli. Savory fried rice with oyster sauce, soy, garlic, lots of vegetables and soft scrambled egg. It doesn't taste like Monday at all.",
-      "serves": 4,
-      "active": "25 min",
-      "total": "30 min",
-      "warn": "No raw meat tonight: uses Monday's 1.5 lb of plain roasted chicken and about 5 cups of Monday's cold rice.",
-      "image": "https://www.wellplated.com/wp-content/uploads/2026/08/Chicken-Fried-Rice-from-Scratch.jpg",
-      "alt": "Chicken fried rice with egg, vegetables and scallions in a skillet",
-      "ingredients": [
-        {
-          "group": "Recipe scaled 1.5x; fresh vegetables replace the frozen bag",
-          "items": [
-            "Monday's 1.5 lb roasted chicken, diced",
-            "About 5 cups Monday's cold brown rice, broken up",
-            "1/2 cup oyster sauce",
-            "3 Tbsp low-sodium soy sauce, plus more to taste",
-            "2 Tbsp neutral oil",
-            "3 Tbsp unsalted butter, divided",
-            "6 large eggs, lightly beaten",
-            "The rest of the broccoli (about 12 oz), cut small",
-            "The last tricolor pepper, diced",
-            "8 oz baby cut carrots, diced small",
-            "5 garlic cloves, minced",
-            "About 1 cup chopped scallions",
-            "Hot sauce at the table"
-          ]
-        }
-      ],
-      "directions": [
-        "Mix the oyster sauce and soy sauce in a small bowl. Dice the chicken and chop all the vegetables. Keep a large bowl by the stove.",
-        "Heat your largest nonstick skillet or wok over medium heat for 2 min. Melt 1 tsp of the butter, add the eggs, and scramble into small pieces until just done. Move to the bowl and wipe out the pan.",
-        "Turn the heat to high. Add the oil, then the carrots, and cook 2 min. Add the broccoli and pepper and cook 4-5 min, until crisp-tender.",
-        "Add the remaining butter and the garlic. Stir about 30 seconds, until fragrant.",
-        "Add the cold rice and the sauce. Stir constantly, breaking up clumps, about 2 min. If the pan is overflowing, work in 2 batches.",
-        "Add the chicken, eggs and scallions and cook about 2 min, until the chicken is steaming hot. Taste for soy. Serve with hot sauce at the table."
-      ],
-      "reuse": "Built on Monday's chicken and rice. Finishes the broccoli, peppers and scallions, and uses half the carrots (rest goes to Thu).",
-      "source": "https://www.wellplated.com/chicken-fried-rice/"
-    },
-    {
-      "day": "Thu",
-      "name": "Skillet Sirloin with Onions & Mushrooms, Roasted Gold Potatoes & Spinach Salad",
-      "protein": "beef",
-      "mealType": "Skillet / stir-fry",
-      "blurb": "THE DEAL: Publix boneless top sirloin $8.99/lb, the best-value steak in the ad, with sliced mushrooms 2/$6 and the 5-lb gold potatoes at $4.99. Thin-sliced steak seared fast with browned onions and mushrooms, crispy potatoes and carrots, and a sharp lemon-Parmesan spinach salad.",
-      "serves": 4,
-      "active": "30 min",
-      "total": "1 hr (potatoes roast 40 min hands-off)",
-      "warn": "Bought Sunday, the sirloin should last to Thursday. Check the date, and if it won't, freeze it Sunday and thaw it in the fridge Wednesday.",
-      "image": "https://www.skinnytaste.com/wp-content/uploads/2011/08/Quick-Skillet-Steak-with-Onions-and-Mushrooms.jpg",
-      "alt": "Thin-sliced skillet steak with browned onions and mushrooms",
-      "ingredients": [
-        {
-          "group": "Steak (recipe scaled up; the original is a light 1/2-lb sandwich filling)",
-          "items": [
-            "2 lb top sirloin, sliced into thin strips against the grain",
-            "2 tsp garlic powder",
-            "2 tsp kosher salt, plus more for the vegetables",
-            "Black pepper",
-            "2 large yellow onions, sliced into rings",
-            "24 oz sliced white mushrooms",
-            "2 Tbsp olive oil, plus a little for each batch",
-            "1 Tbsp butter",
-            "Juice of 1/2 lemon + a handful of chopped parsley"
-          ]
-        },
-        {
-          "group": "Potatoes & carrots (side added to the recipe)",
-          "items": [
-            "3 lb gold potatoes, cut into 1-inch pieces",
-            "8 oz baby cut carrots, halved lengthwise",
-            "3 Tbsp olive oil",
-            "1 tsp kosher salt + black pepper"
-          ]
-        },
-        {
-          "group": "Spinach salad (side added to the recipe)",
-          "items": [
-            "About 5 oz spinach",
-            "1 hot house cucumber, thinly sliced",
-            "Shaved Parmesan",
-            "Juice of 1/2 lemon + 2 Tbsp olive oil + salt"
-          ]
-        }
-      ],
-      "directions": [
-        "Heat the oven to 425°F. Toss the potatoes and carrots with the oil, salt and pepper and spread over 2 sheet pans. Roast about 40 min, flipping and swapping racks halfway, until browned and crisp.",
-        "Slice the steak, then season it with the garlic powder, salt and pepper. Slice the onions. Do all this before the pan goes on, because the cooking goes fast.",
-        "Heat a large skillet over high heat until very hot. Add a little oil. Sear the beef in 4 batches, about 1 min on the first side and 30 seconds on the second. Move each batch to a large dish, and add oil between batches. Crowding steams the beef, so don't skip the batches.",
-        "Add a little oil and the onions, season with salt and pepper, and cook about 5 min, until golden. Add them to the beef.",
-        "Lower the heat to medium. Add the butter and remaining oil, then the mushrooms in 2 batches with salt and pepper. Cook until browned, 6-8 min total.",
-        "Return the beef, onions and juices to the skillet and stir to warm them through, about 1 min. Finish with the lemon juice and parsley.",
-        "Just before serving, toss the spinach and cucumber with the lemon juice, oil and salt. Top with Parmesan. Put hot sauce on the table."
-      ],
-      "reuse": "Finishes the spinach, cucumbers, carrots, parsley, lemons and Parmesan. About 2 lb of gold potatoes is left in the bag and keeps well.",
-      "source": "https://www.skinnytaste.com/quick-skillet-steak-with-onions-and/"
+     "text": "2.5 lb inside skirt steak",
+     "tags": [
+      "Thu"
+     ],
+     "flag": "DEAL $11.99/lb"
     }
-  ]
+   ]
+  },
+  {
+   "name": "Dairy & Eggs",
+   "items": [
+    {
+     "text": "1 tub plain Greek yogurt, 16 oz",
+     "tags": [
+      "Tue"
+     ]
+    },
+    {
+     "text": "1 small tub crumbled feta",
+     "tags": [
+      "Tue"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Center Aisles",
+   "items": [
+    {
+     "text": "2 bags La Banderita flour tortillas, soft taco 10-ct",
+     "tags": [
+      "Tue"
+     ],
+     "flag": "BOGO. FLOUR, not corn"
+    },
+    {
+     "text": "Rice vermicelli noodles, about 12 oz",
+     "tags": [
+      "Wed"
+     ],
+     "flag": "Asian aisle. Rice noodles, NOT bean thread/glass noodles"
+    },
+    {
+     "text": "1 bottle rice vinegar",
+     "tags": [
+      "Mon",
+      "Wed"
+     ]
+    },
+    {
+     "text": "1 bottle fish sauce",
+     "tags": [
+      "Wed"
+     ],
+     "flag": "Skip if you have one"
+    },
+    {
+     "text": "1 small bag unsalted peanuts",
+     "tags": [
+      "Wed"
+     ]
+    }
+   ]
+  }
+ ],
+ "pantry": [
+  {
+   "text": "Olive oil, kosher salt, black pepper",
+   "tags": [
+    "all"
+   ]
+  },
+  {
+   "text": "Honey (1/2 cup), soy sauce, cider vinegar, paprika, garlic powder",
+   "tags": [
+    "Mon"
+   ]
+  },
+  {
+   "text": "Jasmine rice, 2 cups",
+   "tags": [
+    "Mon"
+   ]
+  },
+  {
+   "text": "Sugar, about 1 cup",
+   "tags": [
+    "Mon",
+    "Wed"
+   ]
+  },
+  {
+   "text": "Cumin, chili powder, chipotle chile powder",
+   "tags": [
+    "Tue"
+   ]
+  },
+  {
+   "text": "Red wine vinegar (6 Tbsp), red pepper flakes",
+   "tags": [
+    "Thu"
+   ]
+  },
+  {
+   "text": "Hot sauce or sriracha, foil",
+   "tags": [
+    "Tue",
+    "Wed"
+   ]
+  }
+ ],
+ "dinners": [
+  {
+   "day": "Mon",
+   "name": "Honey Garlic Pork Tenderloin with Jasmine Rice & Roasted Broccoli",
+   "protein": "pork",
+   "mealType": "Skillet + oven",
+   "blurb": "THE DEAL: Publix extra lean pork tenderloin, $4.99/lb, the best protein value in this week's ad. Seared pork glazed in a sticky honey garlic and cider vinegar sauce, with charred broccoli and jasmine rice.",
+   "serves": 4,
+   "active": "35 min",
+   "total": "1 hr",
+   "warn": "COOK ONCE, EAT TWICE: roast all 4 tenderloins. Glaze 2 for tonight and leave 2 plain for Wednesday. Make Wednesday's pickled carrots first. TONIGHT: move one shrimp bag to the fridge to thaw for Tuesday.",
+   "image": "https://www.recipetineats.com/tachyon/2019/05/Honey-Garlic-Pork-Tenderloin_1.jpg",
+   "alt": "Sliced pork tenderloin glazed with a glossy honey garlic sauce in a skillet",
+   "ingredients": [
+    {
+     "group": "Pork (4 tenderloins: 2 tonight, 2 for Wed)",
+     "items": [
+      "4 pork tenderloins, about 4 lb total",
+      "Rub, doubled to cover all 4: 1 tsp garlic powder, 1 tsp paprika, 1 tsp salt, 1 tsp black pepper",
+      "3 Tbsp olive oil, divided",
+      "3 garlic cloves, very finely chopped"
+     ]
+    },
+    {
+     "group": "Honey garlic sauce (as written, for tonight's 2)",
+     "items": [
+      "3 Tbsp cider vinegar",
+      "1 1/2 Tbsp soy sauce",
+      "1/2 cup honey"
+     ]
+    },
+    {
+     "group": "Sides",
+     "items": [
+      "2 bunches broccoli, cut into florets",
+      "2 Tbsp olive oil, salt, pepper",
+      "2 cups jasmine rice"
+     ]
+    },
+    {
+     "group": "Wednesday's pickled carrots (make tonight)",
+     "items": [
+      "4 large carrots, cut into thin batons",
+      "1 1/2 cups boiling water",
+      "1/2 cup sugar",
+      "4 tsp kosher salt",
+      "3/4 cup rice vinegar"
+     ]
+    }
+   ],
+   "directions": [
+    "About 5:00, make Wednesday's pickles: stir the sugar and salt into 1 1/2 cups boiling water until dissolved, add the rice vinegar, and drop in the carrot batons so they're just covered. Cool, cover and refrigerate for Wednesday.",
+    "Start the jasmine rice. Heat the oven to 350°F.",
+    "Toss the broccoli with 2 Tbsp oil, salt and pepper on a sheet pan and put it on the lower rack. It roasts about 25 min while the pork cooks.",
+    "Stir the cider vinegar, soy sauce and honey together in a bowl. Mix the rub and rub it all over the 4 tenderloins.",
+    "Heat 1 1/2 Tbsp oil in a large ovenproof skillet over high heat. Sear 2 tenderloins (tonight's) until golden on all sides, about 5 min. Push them to one side, add the garlic and cook until golden. Pour in the sauce, turn the pork once, and put the skillet in the oven.",
+    "Sear the other 2 tenderloins in a second pan with the remaining 1 1/2 Tbsp oil. Put them on a sheet pan with NO sauce and into the oven alongside.",
+    "Roast 15-18 min, until the center reads 155°F (the recipe's target; 145°F is safe if you like it pinker).",
+    "Rest tonight's pork on a plate under loose foil for 5 min. Broil the broccoli 2 min for char. Simmer the skillet sauce over medium-high about 3 min, until it's a thin syrup. Return the pork, turn it to coat, and slice it thick. Serve with rice, broccoli and extra sauce.",
+    "Cool the 2 plain tenderloins, wrap them whole (unsliced stays juicier), and refrigerate for Wednesday. Move one bag of shrimp to the fridge for Tuesday."
+   ],
+   "reuse": "Makes Wednesday's protein (2 plain tenderloins) and Wednesday's pickled carrots.",
+   "source": "https://www.recipetineats.com/pork-tenderloin-with-honey-garlic-sauce/"
+  },
+  {
+   "day": "Tue",
+   "name": "Shrimp Fajitas with Flour Tortillas, Avocado & Lime Yogurt",
+   "protein": "shrimp",
+   "mealType": "Skillet",
+   "blurb": "THE DEAL: Publix peeled & deveined white shrimp, large, 24 oz, $13.49 (about $9/lb), plus BOGO La Banderita flour tortillas and BOGO Florida avocados. Cumin-chili shrimp seared hard, with blistered peppers and onions. Fastest night of the week.",
+   "serves": 4,
+   "active": "25 min",
+   "total": "30 min",
+   "warn": "Recipe scaled 2x (2 lb shrimp) so Paul gets about 8 oz. Cook in 2 batches so the shrimp sear instead of steaming. FLOUR tortillas only. The recipe card allows corn, and Gina won't eat corn.",
+   "image": "https://www.wellplated.com/wp-content/uploads/2024/01/Best-Shrimp-Fajitas.jpg",
+   "alt": "Shrimp fajitas with peppers and onions in flour tortillas with avocado and cilantro",
+   "ingredients": [
+    {
+     "group": "Shrimp & vegetables (recipe x2)",
+     "items": [
+      "2 lb large shrimp, peeled, deveined, tails off, thawed (bag 1 + 8 oz of bag 2)",
+      "5 Tbsp olive oil, divided",
+      "4 tsp ground cumin, divided",
+      "2 tsp chili powder, divided",
+      "1/2 tsp chipotle chile powder, divided (recipe uses 1 tsp at 2x; halved for the kids)",
+      "2 tsp kosher salt, divided",
+      "2 limes (zest, plus about 4 Tbsp juice)",
+      "4 garlic cloves, minced",
+      "2 red/organic bell peppers + 2 green bell peppers, in 1/4-inch strips",
+      "2 yellow onions, halved and sliced 1/4 inch"
+     ]
+    },
+    {
+     "group": "To serve",
+     "items": [
+      "12-16 flour tortillas",
+      "1 Florida avocado, sliced",
+      "1 cup plain Greek yogurt (stir in a squeeze of lime)",
+      "Crumbled feta",
+      "1 Campari tomato pack, diced",
+      "Chopped cilantro",
+      "Sliced jalapeño and hot sauce on the side"
+     ]
+    }
+   ],
+   "directions": [
+    "Pat the shrimp dry. Toss them in a big bowl with 1 Tbsp oil, 2 tsp cumin, 1 tsp chili powder, 1/4 tsp chipotle and 1 tsp salt. Zest both limes over the bowl and toss again.",
+    "Wrap the tortillas in foil and warm them in a 300°F oven.",
+    "Heat 1 Tbsp oil in your largest skillet over medium-high. Add half the peppers and onions with half the remaining cumin, chili powder, chipotle and salt. Cook 6-8 min, until soft and browned in spots. Stir in half the garlic for 30 seconds, then move to a platter. Repeat with the second half (1 Tbsp oil).",
+    "Add 1 Tbsp oil and heat until shimmering. Spread half the shrimp in one layer and sear about 3 min total, until opaque and curled into a C. Don't overcook. Repeat with the last 1 Tbsp oil and the remaining shrimp.",
+    "Pile the shrimp on the platter with the vegetables and squeeze the lime juice over everything.",
+    "Serve with warm flour tortillas, avocado, lime yogurt, feta, tomato and cilantro. Jalapeño and hot sauce go on the side."
+   ],
+   "reuse": "Shares cilantro, limes and jalapeños with Wed, and a Campari tomato pack with Thu. The second avocado stays whole for Wednesday. The leftover 1 lb of shrimp stays in the freezer.",
+   "source": "https://www.wellplated.com/shrimp-fajitas/"
+  },
+  {
+   "day": "Wed",
+   "name": "Vietnamese Pork Noodle Bowls with Pickled Carrots & Nuoc Cham",
+   "protein": "pork (Monday's)",
+   "mealType": "Noodle bowl",
+   "blurb": "THE DEAL: no new protein. It uses Monday's $4.99/lb tenderloin, plus DEAL hot house cucumbers 3/$5. Cool rice noodles, crunchy lettuce and cucumber, Monday's pickles, mint, cilantro and peanuts, with charred sliced pork and a bright fish sauce-lime dressing.",
+   "serves": 4,
+   "active": "25 min",
+   "total": "30 min",
+   "warn": "Uses Monday's 2 plain tenderloins in place of the recipe's overnight lemongrass pork. BEAN SPROUTS LEFT OUT (no-beans rule). Use rice vermicelli, not bean-thread noodles. AFTER DINNER: make Thursday's chimichurri (5 min).",
+   "image": "https://www.recipetineats.com/tachyon/2023/04/Vietnamese-noodles-lemongrass-pork-6.jpg",
+   "alt": "Vietnamese noodle bowl with sliced pork, rice vermicelli, pickled carrots, lettuce and herbs",
+   "ingredients": [
+    {
+     "group": "Bowls",
+     "items": [
+      "Monday's 2 plain roasted tenderloins (about 1.5 lb cooked)",
+      "1 Tbsp oil",
+      "About 12 oz dried rice vermicelli (recipe's 7 oz, upsized for appetites)",
+      "2 romaine hearts, torn or shredded",
+      "1 hot house cucumber, halved and sliced on the diagonal",
+      "Monday's pickled carrots, drained",
+      "A big handful each of mint and cilantro",
+      "1/4 cup unsalted peanuts, chopped",
+      "Lime wedges",
+      "Optional: the second avocado, sliced",
+      "Sliced jalapeño or sriracha on the side"
+     ]
+    },
+    {
+     "group": "Nuoc cham (as written)",
+     "items": [
+      "4 1/2 Tbsp sugar",
+      "4 1/2 Tbsp fish sauce",
+      "3 Tbsp rice vinegar",
+      "3 Tbsp lime juice",
+      "1/2 cup water",
+      "5 garlic cloves, finely chopped",
+      "Chili left out of the sauce; serve it on the side"
+     ]
+    }
+   ],
+   "directions": [
+    "Stir the nuoc cham ingredients together until the sugar dissolves.",
+    "Soak the vermicelli in boiling water about 5 min (or per the packet). Drain, rinse under cold water, and drain well.",
+    "Tear the romaine, slice the cucumber, pick the herbs, chop the peanuts, and drain the pickles.",
+    "Slice the pork thin and toss it with 2 Tbsp of the nuoc cham. Sear in 1 Tbsp oil in a very hot skillet, 1-2 min per side, just until the edges char and it's warm.",
+    "Build the bowls: noodles, lettuce, pickles, cucumber, pork, herbs, peanuts and a lime wedge. Pour nuoc cham over generously at the table.",
+    "After dinner, make Thursday's chimichurri (see Thursday) so it rests overnight."
+   ],
+   "reuse": "Takes Monday's pork and pickles. Shares cilantro and limes with Tue, and cucumber and romaine with Thu. Makes Thursday's chimichurri tonight.",
+   "source": "https://www.recipetineats.com/vietnamese-pork-noodle-bowls/"
+  },
+  {
+   "day": "Thu",
+   "name": "Skirt Steak with Chimichurri, Crispy Gold Potatoes & Cucumber-Tomato Salad",
+   "protein": "beef",
+   "mealType": "Skillet + oven",
+   "blurb": "THE DEAL: Publix inside skirt steak, $11.99/lb, plus the 5-lb gold potato bag for $4.99 and BOGO Campari tomatoes. Hard-seared skirt steak sliced thin under a punchy garlic-parsley chimichurri, with crispy potatoes and a crunchy salad.",
+   "serves": 4,
+   "active": "25 min",
+   "total": "1 hr (potatoes hands-off; chimichurri made Wed)",
+   "warn": "2.5 lb steak (recipe's 1.4 lb serves 4 small appetites). Chimichurri made 1.5x and should be made Wednesday night. Take the steak out of the fridge 30 min before cooking.",
+   "image": "https://www.recipetineats.com/tachyon/2016/08/Steak-with-Chimichurri-Sauce_1.jpg",
+   "alt": "Sliced seared steak topped with green chimichurri sauce",
+   "ingredients": [
+    {
+     "group": "Chimichurri (recipe x1.5; make Wed night)",
+     "items": [
+      "1 bunch flat-leaf parsley (about 1 1/2 cups packed leaves)",
+      "6 garlic cloves, minced",
+      "6 Tbsp red wine vinegar",
+      "3/4 tsp salt, plus black pepper",
+      "3/4 cup extra-virgin olive oil",
+      "Red pepper flakes on the side (recipe's 0-2 tsp, left out for the kids)"
+     ]
+    },
+    {
+     "group": "Steak",
+     "items": [
+      "2.5 lb inside skirt steak, cut into 4-5 pieces to fit the pan",
+      "Salt and pepper",
+      "1-2 Tbsp vegetable or canola oil"
+     ]
+    },
+    {
+     "group": "Sides",
+     "items": [
+      "3 lb gold potatoes, halved or quartered",
+      "2 Tbsp olive oil, salt, pepper",
+      "1 romaine heart, 1 hot house cucumber, 1 lb Campari tomatoes, for the salad"
+     ]
+    }
+   ],
+   "directions": [
+    "(Wed night) Chop the parsley fine with the garlic, by hand or pulsing in a food processor (not pureed). Stir in the vinegar, salt, pepper and olive oil. Cover and refrigerate. Rest at least 1 hour; overnight is better.",
+    "About 5:00, take the steak out of the fridge. Heat the oven to 425°F. Toss the potatoes with oil, salt and pepper and roast 35-40 min, flipping halfway, until crisp.",
+    "Chop the romaine, cucumber and tomatoes for the salad. Dress just before serving with 2-3 Tbsp chimichurri and a pinch of salt.",
+    "Heat a heavy skillet with the oil over high until it smokes. Season the steak generously with salt and pepper on both sides.",
+    "Cook in batches, about 2 min per side for medium-rare (125°F) or 2.5 min for medium (135°F), for steak about 3/4 inch thick.",
+    "Rest the steak 5-10 min under loose foil, then slice thinly AGAINST the grain.",
+    "Toss the hot potatoes with a spoonful of chimichurri. Serve the steak with the rest of the chimichurri, the potatoes and the salad. Pepper flakes go on the side."
+   ],
+   "reuse": "Chimichurri doubles as the salad dressing and the potato toss. Shares cucumber and romaine with Wed, and Campari tomatoes with Tue.",
+   "source": "https://www.recipetineats.com/skirt-steak-with-chimichurri-sauce/"
+  }
+ ]
 }

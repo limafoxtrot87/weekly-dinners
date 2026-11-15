@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 8, 2026",
+  "updated": "Nov 15, 2026",
   "recipes": [
     {
       "id": "greek-turkey-meatballs-tzatziki-lemon-herb-rice-pickled-onio",
@@ -861,6 +861,223 @@
       ],
       "weeks": [
         "Mon 10/5"
+      ]
+    },
+    {
+      "id": "honey-garlic-pork-tenderloin-jasmine-rice-roasted-broccoli",
+      "name": "Honey Garlic Pork Tenderloin with Jasmine Rice & Roasted Broccoli",
+      "source": "https://www.recipetineats.com/pork-tenderloin-with-honey-garlic-sauce/",
+      "image": "https://www.recipetineats.com/tachyon/2019/05/Honey-Garlic-Pork-Tenderloin_1.jpg",
+      "protein": "pork",
+      "mealType": "Skillet + oven",
+      "active": "35 min",
+      "blurb": "THE DEAL: Publix extra lean pork tenderloin, $4.99/lb, the best protein value in this week's ad. Seared pork glazed in a sticky honey garlic and cider vinegar sauce, with charred broccoli and jasmine rice.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Pork (4 tenderloins: 2 tonight, 2 for Wed)",
+          "items": [
+            "4 pork tenderloins, about 4 lb total",
+            "Rub, doubled to cover all 4: 1 tsp garlic powder, 1 tsp paprika, 1 tsp salt, 1 tsp black pepper",
+            "3 Tbsp olive oil, divided",
+            "3 garlic cloves, very finely chopped"
+          ]
+        },
+        {
+          "group": "Honey garlic sauce (as written, for tonight's 2)",
+          "items": [
+            "3 Tbsp cider vinegar",
+            "1 1/2 Tbsp soy sauce",
+            "1/2 cup honey"
+          ]
+        },
+        {
+          "group": "Sides",
+          "items": [
+            "2 bunches broccoli, cut into florets",
+            "2 Tbsp olive oil, salt, pepper",
+            "2 cups jasmine rice"
+          ]
+        },
+        {
+          "group": "Wednesday's pickled carrots (make tonight)",
+          "items": [
+            "4 large carrots, cut into thin batons",
+            "1 1/2 cups boiling water",
+            "1/2 cup sugar",
+            "4 tsp kosher salt",
+            "3/4 cup rice vinegar"
+          ]
+        }
+      ],
+      "directions": [
+        "About 5:00, make Wednesday's pickles: stir the sugar and salt into 1 1/2 cups boiling water until dissolved, add the rice vinegar, and drop in the carrot batons so they're just covered. Cool, cover and refrigerate for Wednesday.",
+        "Start the jasmine rice. Heat the oven to 350°F.",
+        "Toss the broccoli with 2 Tbsp oil, salt and pepper on a sheet pan and put it on the lower rack. It roasts about 25 min while the pork cooks.",
+        "Stir the cider vinegar, soy sauce and honey together in a bowl. Mix the rub and rub it all over the 4 tenderloins.",
+        "Heat 1 1/2 Tbsp oil in a large ovenproof skillet over high heat. Sear 2 tenderloins (tonight's) until golden on all sides, about 5 min. Push them to one side, add the garlic and cook until golden. Pour in the sauce, turn the pork once, and put the skillet in the oven.",
+        "Sear the other 2 tenderloins in a second pan with the remaining 1 1/2 Tbsp oil. Put them on a sheet pan with NO sauce and into the oven alongside.",
+        "Roast 15-18 min, until the center reads 155°F (the recipe's target; 145°F is safe if you like it pinker).",
+        "Rest tonight's pork on a plate under loose foil for 5 min. Broil the broccoli 2 min for char. Simmer the skillet sauce over medium-high about 3 min, until it's a thin syrup. Return the pork, turn it to coat, and slice it thick. Serve with rice, broccoli and extra sauce.",
+        "Cool the 2 plain tenderloins, wrap them whole (unsliced stays juicier), and refrigerate for Wednesday. Move one bag of shrimp to the fridge for Tuesday."
+      ],
+      "weeks": [
+        "Mon 11/16"
+      ]
+    },
+    {
+      "id": "shrimp-fajitas-flour-tortillas-avocado-lime-yogurt",
+      "name": "Shrimp Fajitas with Flour Tortillas, Avocado & Lime Yogurt",
+      "source": "https://www.wellplated.com/shrimp-fajitas/",
+      "image": "https://www.wellplated.com/wp-content/uploads/2024/01/Best-Shrimp-Fajitas.jpg",
+      "protein": "shrimp",
+      "mealType": "Skillet",
+      "active": "25 min",
+      "blurb": "THE DEAL: Publix peeled & deveined white shrimp, large, 24 oz, $13.49 (about $9/lb), plus BOGO La Banderita flour tortillas and BOGO Florida avocados. Cumin-chili shrimp seared hard, with blistered peppers and onions. Fastest night of the week.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Shrimp & vegetables (recipe x2)",
+          "items": [
+            "2 lb large shrimp, peeled, deveined, tails off, thawed (bag 1 + 8 oz of bag 2)",
+            "5 Tbsp olive oil, divided",
+            "4 tsp ground cumin, divided",
+            "2 tsp chili powder, divided",
+            "1/2 tsp chipotle chile powder, divided (recipe uses 1 tsp at 2x; halved for the kids)",
+            "2 tsp kosher salt, divided",
+            "2 limes (zest, plus about 4 Tbsp juice)",
+            "4 garlic cloves, minced",
+            "2 red/organic bell peppers + 2 green bell peppers, in 1/4-inch strips",
+            "2 yellow onions, halved and sliced 1/4 inch"
+          ]
+        },
+        {
+          "group": "To serve",
+          "items": [
+            "12-16 flour tortillas",
+            "1 Florida avocado, sliced",
+            "1 cup plain Greek yogurt (stir in a squeeze of lime)",
+            "Crumbled feta",
+            "1 Campari tomato pack, diced",
+            "Chopped cilantro",
+            "Sliced jalapeño and hot sauce on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Pat the shrimp dry. Toss them in a big bowl with 1 Tbsp oil, 2 tsp cumin, 1 tsp chili powder, 1/4 tsp chipotle and 1 tsp salt. Zest both limes over the bowl and toss again.",
+        "Wrap the tortillas in foil and warm them in a 300°F oven.",
+        "Heat 1 Tbsp oil in your largest skillet over medium-high. Add half the peppers and onions with half the remaining cumin, chili powder, chipotle and salt. Cook 6-8 min, until soft and browned in spots. Stir in half the garlic for 30 seconds, then move to a platter. Repeat with the second half (1 Tbsp oil).",
+        "Add 1 Tbsp oil and heat until shimmering. Spread half the shrimp in one layer and sear about 3 min total, until opaque and curled into a C. Don't overcook. Repeat with the last 1 Tbsp oil and the remaining shrimp.",
+        "Pile the shrimp on the platter with the vegetables and squeeze the lime juice over everything.",
+        "Serve with warm flour tortillas, avocado, lime yogurt, feta, tomato and cilantro. Jalapeño and hot sauce go on the side."
+      ],
+      "weeks": [
+        "Mon 11/16"
+      ]
+    },
+    {
+      "id": "skirt-steak-chimichurri-crispy-gold-potatoes-cucumber-tomato",
+      "name": "Skirt Steak with Chimichurri, Crispy Gold Potatoes & Cucumber-Tomato Salad",
+      "source": "https://www.recipetineats.com/skirt-steak-with-chimichurri-sauce/",
+      "image": "https://www.recipetineats.com/tachyon/2016/08/Steak-with-Chimichurri-Sauce_1.jpg",
+      "protein": "beef",
+      "mealType": "Skillet + oven",
+      "active": "25 min",
+      "blurb": "THE DEAL: Publix inside skirt steak, $11.99/lb, plus the 5-lb gold potato bag for $4.99 and BOGO Campari tomatoes. Hard-seared skirt steak sliced thin under a punchy garlic-parsley chimichurri, with crispy potatoes and a crunchy salad.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Chimichurri (recipe x1.5; make Wed night)",
+          "items": [
+            "1 bunch flat-leaf parsley (about 1 1/2 cups packed leaves)",
+            "6 garlic cloves, minced",
+            "6 Tbsp red wine vinegar",
+            "3/4 tsp salt, plus black pepper",
+            "3/4 cup extra-virgin olive oil",
+            "Red pepper flakes on the side (recipe's 0-2 tsp, left out for the kids)"
+          ]
+        },
+        {
+          "group": "Steak",
+          "items": [
+            "2.5 lb inside skirt steak, cut into 4-5 pieces to fit the pan",
+            "Salt and pepper",
+            "1-2 Tbsp vegetable or canola oil"
+          ]
+        },
+        {
+          "group": "Sides",
+          "items": [
+            "3 lb gold potatoes, halved or quartered",
+            "2 Tbsp olive oil, salt, pepper",
+            "1 romaine heart, 1 hot house cucumber, 1 lb Campari tomatoes, for the salad"
+          ]
+        }
+      ],
+      "directions": [
+        "(Wed night) Chop the parsley fine with the garlic, by hand or pulsing in a food processor (not pureed). Stir in the vinegar, salt, pepper and olive oil. Cover and refrigerate. Rest at least 1 hour; overnight is better.",
+        "About 5:00, take the steak out of the fridge. Heat the oven to 425°F. Toss the potatoes with oil, salt and pepper and roast 35-40 min, flipping halfway, until crisp.",
+        "Chop the romaine, cucumber and tomatoes for the salad. Dress just before serving with 2-3 Tbsp chimichurri and a pinch of salt.",
+        "Heat a heavy skillet with the oil over high until it smokes. Season the steak generously with salt and pepper on both sides.",
+        "Cook in batches, about 2 min per side for medium-rare (125°F) or 2.5 min for medium (135°F), for steak about 3/4 inch thick.",
+        "Rest the steak 5-10 min under loose foil, then slice thinly AGAINST the grain.",
+        "Toss the hot potatoes with a spoonful of chimichurri. Serve the steak with the rest of the chimichurri, the potatoes and the salad. Pepper flakes go on the side."
+      ],
+      "weeks": [
+        "Mon 11/16"
+      ]
+    },
+    {
+      "id": "vietnamese-pork-noodle-bowls-pickled-carrots-nuoc-cham",
+      "name": "Vietnamese Pork Noodle Bowls with Pickled Carrots & Nuoc Cham",
+      "source": "https://www.recipetineats.com/vietnamese-pork-noodle-bowls/",
+      "image": "https://www.recipetineats.com/tachyon/2023/04/Vietnamese-noodles-lemongrass-pork-6.jpg",
+      "protein": "pork (Monday's)",
+      "mealType": "Noodle bowl",
+      "active": "25 min",
+      "blurb": "THE DEAL: no new protein. It uses Monday's $4.99/lb tenderloin, plus DEAL hot house cucumbers 3/$5. Cool rice noodles, crunchy lettuce and cucumber, Monday's pickles, mint, cilantro and peanuts, with charred sliced pork and a bright fish sauce-lime dressing.",
+      "servings": "",
+      "ingredients": [
+        {
+          "group": "Bowls",
+          "items": [
+            "Monday's 2 plain roasted tenderloins (about 1.5 lb cooked)",
+            "1 Tbsp oil",
+            "About 12 oz dried rice vermicelli (recipe's 7 oz, upsized for appetites)",
+            "2 romaine hearts, torn or shredded",
+            "1 hot house cucumber, halved and sliced on the diagonal",
+            "Monday's pickled carrots, drained",
+            "A big handful each of mint and cilantro",
+            "1/4 cup unsalted peanuts, chopped",
+            "Lime wedges",
+            "Optional: the second avocado, sliced",
+            "Sliced jalapeño or sriracha on the side"
+          ]
+        },
+        {
+          "group": "Nuoc cham (as written)",
+          "items": [
+            "4 1/2 Tbsp sugar",
+            "4 1/2 Tbsp fish sauce",
+            "3 Tbsp rice vinegar",
+            "3 Tbsp lime juice",
+            "1/2 cup water",
+            "5 garlic cloves, finely chopped",
+            "Chili left out of the sauce; serve it on the side"
+          ]
+        }
+      ],
+      "directions": [
+        "Stir the nuoc cham ingredients together until the sugar dissolves.",
+        "Soak the vermicelli in boiling water about 5 min (or per the packet). Drain, rinse under cold water, and drain well.",
+        "Tear the romaine, slice the cucumber, pick the herbs, chop the peanuts, and drain the pickles.",
+        "Slice the pork thin and toss it with 2 Tbsp of the nuoc cham. Sear in 1 Tbsp oil in a very hot skillet, 1-2 min per side, just until the edges char and it's warm.",
+        "Build the bowls: noodles, lettuce, pickles, cucumber, pork, herbs, peanuts and a lime wedge. Pour nuoc cham over generously at the table.",
+        "After dinner, make Thursday's chimichurri (see Thursday) so it rests overnight."
+      ],
+      "weeks": [
+        "Mon 11/16"
       ]
     },
     {
